@@ -15,3 +15,9 @@ See more: https://twitter.com/nghiencuuthuoc | https://facebook.com/nghiencuuthu
 Extract inactive ingredient database from Dailymed to dataframe pandas, csv, txt
 
 See more [PharmAppIIG_012.ipynb](PharmAppIIG_012.ipynb)
+
+![](/images/PharmAppIIG_012_01.jpg)
+
+![](/images/PharmAppIIG_012_02.jpg)
+
+![](/images/PharmAppIIG_012_03.jpg)
