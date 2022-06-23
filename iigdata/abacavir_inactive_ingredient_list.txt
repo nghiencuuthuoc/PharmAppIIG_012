@@ -1,0 +1,382 @@
+MainDrug,NDC,Strength,Formulation,Inactive
+abacavir sulfate,65862-089,20 mg  in 1 mL, solution,STRAWBERRY
+abacavir sulfate,65862-089,20 mg  in 1 mL, solution,BANANA
+abacavir sulfate,65862-089,20 mg  in 1 mL, solution,ANHYDROUS CITRIC ACID
+abacavir sulfate,65862-089,20 mg  in 1 mL, solution,METHYLPARABEN
+abacavir sulfate,65862-089,20 mg  in 1 mL, solution,PROPYLPARABEN
+abacavir sulfate,65862-089,20 mg  in 1 mL, solution,PROPYLENE GLYCOL
+abacavir sulfate,65862-089,20 mg  in 1 mL, solution,SACCHARIN SODIUM
+abacavir sulfate,65862-089,20 mg  in 1 mL, solution,TRISODIUM CITRATE DIHYDRATE
+abacavir sulfate,65862-089,20 mg  in 1 mL, solution,SORBITOL
+abacavir sulfate,65862-089,20 mg  in 1 mL, solution,WATER
+abacavir sulfate,64980-405,20 mg  in 1 mL, solution,STRAWBERRY
+abacavir sulfate,64980-405,20 mg  in 1 mL, solution,BANANA
+abacavir sulfate,64980-405,20 mg  in 1 mL, solution,ANHYDROUS CITRIC ACID
+abacavir sulfate,64980-405,20 mg  in 1 mL, solution,METHYLPARABEN
+abacavir sulfate,64980-405,20 mg  in 1 mL, solution,PROPYLPARABEN
+abacavir sulfate,64980-405,20 mg  in 1 mL, solution,PROPYLENE GLYCOL
+abacavir sulfate,64980-405,20 mg  in 1 mL, solution,SACCHARIN SODIUM
+abacavir sulfate,64980-405,20 mg  in 1 mL, solution,TRISODIUM CITRATE DIHYDRATE
+abacavir sulfate,64980-405,20 mg  in 1 mL, solution,SORBITOL
+abacavir sulfate,64980-405,20 mg  in 1 mL, solution,WATER
+abacavir sulfate,72865-167,300 mg,abacavir tablet,"CELLULOSE, MICROCRYSTALLINE"
+abacavir sulfate,72865-167,300 mg,abacavir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+abacavir sulfate,72865-167,300 mg,abacavir tablet,SILICON DIOXIDE
+abacavir sulfate,72865-167,300 mg,abacavir tablet,MAGNESIUM STEARATE
+abacavir sulfate,72865-167,300 mg,abacavir tablet,HYPROMELLOSES
+abacavir sulfate,72865-167,300 mg,abacavir tablet,TITANIUM DIOXIDE
+abacavir sulfate,72865-167,300 mg,abacavir tablet,TRIACETIN
+abacavir sulfate,72865-167,300 mg,abacavir tablet,FERRIC OXIDE YELLOW
+abacavir sulfate,72865-167,300 mg,abacavir tablet,POLYSORBATE 80
+abacavir sulfate,65862-900,600 mg,"abacavir and lamivudine tablet, film coated",LAMIVUDINE
+abacavir sulfate,65862-900,300 mg,"abacavir and lamivudine tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+abacavir sulfate,65862-900,300 mg,"abacavir and lamivudine tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,65862-900,300 mg,"abacavir and lamivudine tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abacavir sulfate,65862-900,300 mg,"abacavir and lamivudine tablet, film coated",POLYETHYLENE GLYCOL 400
+abacavir sulfate,65862-900,300 mg,"abacavir and lamivudine tablet, film coated",POLYSORBATE 80
+abacavir sulfate,65862-900,300 mg,"abacavir and lamivudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+abacavir sulfate,65862-900,300 mg,"abacavir and lamivudine tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,65862-335,600 mg,"abacavir and lamivudine tablet, film coated",LAMIVUDINE
+abacavir sulfate,65862-335,300 mg,"abacavir and lamivudine tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,65862-335,300 mg,"abacavir and lamivudine tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abacavir sulfate,65862-335,300 mg,"abacavir and lamivudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+abacavir sulfate,65862-335,300 mg,"abacavir and lamivudine tablet, film coated",FD&amp;C YELLOW NO. 6
+abacavir sulfate,65862-335,300 mg,"abacavir and lamivudine tablet, film coated",HYPROMELLOSE 2910 (3 MPA.S)
+abacavir sulfate,65862-335,300 mg,"abacavir and lamivudine tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+abacavir sulfate,65862-335,300 mg,"abacavir and lamivudine tablet, film coated",POLYETHYLENE GLYCOL 400
+abacavir sulfate,65862-335,300 mg,"abacavir and lamivudine tablet, film coated",POLYSORBATE 80
+abacavir sulfate,65862-335,300 mg,"abacavir and lamivudine tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,35573-402,600 mg,"abacavir and lamivudine tablet, film coated",LAMIVUDINE
+abacavir sulfate,35573-402,300 mg,"abacavir and lamivudine tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+abacavir sulfate,35573-402,300 mg,"abacavir and lamivudine tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,35573-402,300 mg,"abacavir and lamivudine tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abacavir sulfate,35573-402,300 mg,"abacavir and lamivudine tablet, film coated",POLYETHYLENE GLYCOL 400
+abacavir sulfate,35573-402,300 mg,"abacavir and lamivudine tablet, film coated",POLYSORBATE 80
+abacavir sulfate,35573-402,300 mg,"abacavir and lamivudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+abacavir sulfate,35573-402,300 mg,"abacavir and lamivudine tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,35573-430,600 mg,"abacavir and lamivudine tablet, film coated",LAMIVUDINE
+abacavir sulfate,35573-430,300 mg,"abacavir and lamivudine tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,35573-430,300 mg,"abacavir and lamivudine tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abacavir sulfate,35573-430,300 mg,"abacavir and lamivudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+abacavir sulfate,35573-430,300 mg,"abacavir and lamivudine tablet, film coated",FD&amp;C YELLOW NO. 6
+abacavir sulfate,35573-430,300 mg,"abacavir and lamivudine tablet, film coated",HYPROMELLOSE 2910 (3 MPA.S)
+abacavir sulfate,35573-430,300 mg,"abacavir and lamivudine tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+abacavir sulfate,35573-430,300 mg,"abacavir and lamivudine tablet, film coated",POLYETHYLENE GLYCOL 400
+abacavir sulfate,35573-430,300 mg,"abacavir and lamivudine tablet, film coated",POLYSORBATE 80
+abacavir sulfate,35573-430,300 mg,"abacavir and lamivudine tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,70771-1053,600 mg,"abacavir and lamivudine tablet, film coated",LAMIVUDINE
+abacavir sulfate,70771-1053,300 mg,"abacavir and lamivudine tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+abacavir sulfate,70771-1053,300 mg,"abacavir and lamivudine tablet, film coated",CROSCARMELLOSE SODIUM
+abacavir sulfate,70771-1053,300 mg,"abacavir and lamivudine tablet, film coated",D&amp;C YELLOW NO. 10
+abacavir sulfate,70771-1053,300 mg,"abacavir and lamivudine tablet, film coated",FD&amp;C RED NO. 40
+abacavir sulfate,70771-1053,300 mg,"abacavir and lamivudine tablet, film coated",FERRIC OXIDE YELLOW
+abacavir sulfate,70771-1053,300 mg,"abacavir and lamivudine tablet, film coated",HYPROMELLOSES
+abacavir sulfate,70771-1053,300 mg,"abacavir and lamivudine tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,70771-1053,300 mg,"abacavir and lamivudine tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+abacavir sulfate,70771-1053,300 mg,"abacavir and lamivudine tablet, film coated",POLYSORBATE 80
+abacavir sulfate,70771-1053,300 mg,"abacavir and lamivudine tablet, film coated",POVIDONE K30
+abacavir sulfate,70771-1053,300 mg,"abacavir and lamivudine tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,69097-362,600 mg,"abacavir and lamivudine tablet, film coated",LAMIVUDINE
+abacavir sulfate,69097-362,300 mg,"abacavir and lamivudine tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+abacavir sulfate,69097-362,300 mg,"abacavir and lamivudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE B POTATO
+abacavir sulfate,69097-362,300 mg,"abacavir and lamivudine tablet, film coated",HYPROMELLOSES
+abacavir sulfate,69097-362,300 mg,"abacavir and lamivudine tablet, film coated","STARCH, CORN"
+abacavir sulfate,69097-362,300 mg,"abacavir and lamivudine tablet, film coated",SILICON DIOXIDE
+abacavir sulfate,69097-362,300 mg,"abacavir and lamivudine tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,69097-362,300 mg,"abacavir and lamivudine tablet, film coated",POLYETHYLENE GLYCOL 400
+abacavir sulfate,69097-362,300 mg,"abacavir and lamivudine tablet, film coated",FD&amp;C YELLOW NO. 6
+abacavir sulfate,69097-362,300 mg,"abacavir and lamivudine tablet, film coated",POLYSORBATE 80
+abacavir sulfate,69097-362,300 mg,"abacavir and lamivudine tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,68180-288,600 mg,"abacavir and lamivudine tablet, film coated",LAMIVUDINE
+abacavir sulfate,68180-288,300 mg,"abacavir and lamivudine tablet, film coated",CROSPOVIDONE (15 MPA.S AT 5%)
+abacavir sulfate,68180-288,300 mg,"abacavir and lamivudine tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,68180-288,300 mg,"abacavir and lamivudine tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+abacavir sulfate,68180-288,300 mg,"abacavir and lamivudine tablet, film coated",POVIDONE
+abacavir sulfate,68180-288,300 mg,"abacavir and lamivudine tablet, film coated",FD&amp;C YELLOW NO. 6
+abacavir sulfate,68180-288,300 mg,"abacavir and lamivudine tablet, film coated","HYPROMELLOSE, UNSPECIFIED"
+abacavir sulfate,68180-288,300 mg,"abacavir and lamivudine tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+abacavir sulfate,68180-288,300 mg,"abacavir and lamivudine tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,68180-288,300 mg,"abacavir and lamivudine tablet, film coated",POLYSORBATE 80
+abacavir sulfate,0093-5382,600 mg,"abacavir and lamivudine tablet, film coated",LAMIVUDINE
+abacavir sulfate,0093-5382,300 mg,"abacavir and lamivudine tablet, film coated",FD&amp;C YELLOW NO. 6
+abacavir sulfate,0093-5382,300 mg,"abacavir and lamivudine tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+abacavir sulfate,0093-5382,300 mg,"abacavir and lamivudine tablet, film coated",FERRIC OXIDE YELLOW
+abacavir sulfate,0093-5382,300 mg,"abacavir and lamivudine tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,0093-5382,300 mg,"abacavir and lamivudine tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abacavir sulfate,0093-5382,300 mg,"abacavir and lamivudine tablet, film coated",POLYETHYLENE GLYCOL 400
+abacavir sulfate,0093-5382,300 mg,"abacavir and lamivudine tablet, film coated",POLYSORBATE 80
+abacavir sulfate,0093-5382,300 mg,"abacavir and lamivudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+abacavir sulfate,0093-5382,300 mg,"abacavir and lamivudine tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,70710-1049,600 mg,"abacavir and lamivudine tablet, film coated",LAMIVUDINE
+abacavir sulfate,70710-1049,300 mg,"abacavir and lamivudine tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+abacavir sulfate,70710-1049,300 mg,"abacavir and lamivudine tablet, film coated",CROSCARMELLOSE SODIUM
+abacavir sulfate,70710-1049,300 mg,"abacavir and lamivudine tablet, film coated",D&amp;C YELLOW NO. 10
+abacavir sulfate,70710-1049,300 mg,"abacavir and lamivudine tablet, film coated",FD&amp;C RED NO. 40
+abacavir sulfate,70710-1049,300 mg,"abacavir and lamivudine tablet, film coated",FERRIC OXIDE YELLOW
+abacavir sulfate,70710-1049,300 mg,"abacavir and lamivudine tablet, film coated",HYPROMELLOSES
+abacavir sulfate,70710-1049,300 mg,"abacavir and lamivudine tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,70710-1049,300 mg,"abacavir and lamivudine tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+abacavir sulfate,70710-1049,300 mg,"abacavir and lamivudine tablet, film coated",POLYSORBATE 80
+abacavir sulfate,70710-1049,300 mg,"abacavir and lamivudine tablet, film coated",POVIDONE K30
+abacavir sulfate,70710-1049,300 mg,"abacavir and lamivudine tablet, film coated",TITANIUM DIOXIDE
+lamivudine,68180-286,150 mg,"abacavir ,  and zidovudine tablet",ABACAVIR SULFATE
+lamivudine,68180-286,150 mg,"abacavir ,  and zidovudine tablet",ZIDOVUDINE
+lamivudine,68180-286,300 mg,"abacavir ,  and zidovudine tablet","CELLULOSE, MICROCRYSTALLINE"
+lamivudine,68180-286,300 mg,"abacavir ,  and zidovudine tablet",CROSPOVIDONE
+lamivudine,68180-286,300 mg,"abacavir ,  and zidovudine tablet",FD&amp;C BLUE NO. 2
+lamivudine,68180-286,300 mg,"abacavir ,  and zidovudine tablet",FERRIC OXIDE YELLOW
+lamivudine,68180-286,300 mg,"abacavir ,  and zidovudine tablet",MAGNESIUM STEARATE
+lamivudine,68180-286,300 mg,"abacavir ,  and zidovudine tablet","POLYETHYLENE GLYCOL, UNSPECIFIED"
+lamivudine,68180-286,300 mg,"abacavir ,  and zidovudine tablet","POLYVINYL ALCOHOL, UNSPECIFIED"
+lamivudine,68180-286,300 mg,"abacavir ,  and zidovudine tablet",POVIDONE
+lamivudine,68180-286,300 mg,"abacavir ,  and zidovudine tablet",TALC
+lamivudine,68180-286,300 mg,"abacavir ,  and zidovudine tablet",TITANIUM DIOXIDE
+abacavir sulfate,31722-562,20 mg  in 1 mL,abacavir solution,ANHYDROUS CITRIC ACID
+abacavir sulfate,31722-562,20 mg  in 1 mL,abacavir solution,METHYLPARABEN
+abacavir sulfate,31722-562,20 mg  in 1 mL,abacavir solution,PROPYLPARABEN
+abacavir sulfate,31722-562,20 mg  in 1 mL,abacavir solution,PROPYLENE GLYCOL
+abacavir sulfate,31722-562,20 mg  in 1 mL,abacavir solution,SACCHARIN SODIUM
+abacavir sulfate,31722-562,20 mg  in 1 mL,abacavir solution,TRISODIUM CITRATE DIHYDRATE
+abacavir sulfate,31722-562,20 mg  in 1 mL,abacavir solution,SORBITOL
+abacavir sulfate,31722-562,20 mg  in 1 mL,abacavir solution,STRAWBERRY
+abacavir sulfate,31722-562,20 mg  in 1 mL,abacavir solution,BANANA
+abacavir sulfate,31722-562,20 mg  in 1 mL,abacavir solution,WATER
+lamivudine,57297-286,150 mg,"abacavir sulfate,  and zidovudine tablet",ABACAVIR SULFATE
+lamivudine,57297-286,150 mg,"abacavir sulfate,  and zidovudine tablet",ZIDOVUDINE
+lamivudine,57297-286,300 mg,"abacavir sulfate,  and zidovudine tablet",FD&amp;C BLUE NO. 2
+lamivudine,57297-286,300 mg,"abacavir sulfate,  and zidovudine tablet",FERRIC OXIDE YELLOW
+lamivudine,57297-286,300 mg,"abacavir sulfate,  and zidovudine tablet",POLYVINYL ALCOHOL
+lamivudine,57297-286,300 mg,"abacavir sulfate,  and zidovudine tablet","CELLULOSE, MICROCRYSTALLINE"
+lamivudine,57297-286,300 mg,"abacavir sulfate,  and zidovudine tablet",CROSPOVIDONE
+lamivudine,57297-286,300 mg,"abacavir sulfate,  and zidovudine tablet",POVIDONE
+lamivudine,57297-286,300 mg,"abacavir sulfate,  and zidovudine tablet",TALC
+lamivudine,57297-286,300 mg,"abacavir sulfate,  and zidovudine tablet",MAGNESIUM STEARATE
+lamivudine,57297-286,300 mg,"abacavir sulfate,  and zidovudine tablet",POLYETHYLENE GLYCOLS
+lamivudine,57297-286,300 mg,"abacavir sulfate,  and zidovudine tablet",TITANIUM DIOXIDE
+abacavir sulfate,0378-4105,300 mg," tablet, film coated",SILICON DIOXIDE
+abacavir sulfate,0378-4105,300 mg," tablet, film coated","HYPROMELLOSE, UNSPECIFIED"
+abacavir sulfate,0378-4105,300 mg," tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,0378-4105,300 mg," tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abacavir sulfate,0378-4105,300 mg," tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+abacavir sulfate,0378-4105,300 mg," tablet, film coated",FERRIC OXIDE RED
+abacavir sulfate,0378-4105,300 mg," tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+abacavir sulfate,0378-4105,300 mg," tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,0378-4105,300 mg," tablet, film coated",FERRIC OXIDE YELLOW
+abacavir sulfate,31722-557,300 mg,abacavir tablet,"CELLULOSE, MICROCRYSTALLINE"
+abacavir sulfate,31722-557,300 mg,abacavir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+abacavir sulfate,31722-557,300 mg,abacavir tablet,SILICON DIOXIDE
+abacavir sulfate,31722-557,300 mg,abacavir tablet,MAGNESIUM STEARATE
+abacavir sulfate,31722-557,300 mg,abacavir tablet,HYPROMELLOSES
+abacavir sulfate,31722-557,300 mg,abacavir tablet,TITANIUM DIOXIDE
+abacavir sulfate,31722-557,300 mg,abacavir tablet,TRIACETIN
+abacavir sulfate,31722-557,300 mg,abacavir tablet,FERRIC OXIDE YELLOW
+abacavir sulfate,31722-557,300 mg,abacavir tablet,POLYSORBATE 80
+abacavir sulfate,65862-073,300 mg,"abacavir tablet, film coated",SILICON DIOXIDE
+abacavir sulfate,65862-073,300 mg,"abacavir tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,65862-073,300 mg,"abacavir tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abacavir sulfate,65862-073,300 mg,"abacavir tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+abacavir sulfate,65862-073,300 mg,"abacavir tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+abacavir sulfate,65862-073,300 mg,"abacavir tablet, film coated",POLYSORBATE 80
+abacavir sulfate,65862-073,300 mg,"abacavir tablet, film coated",FERRIC OXIDE YELLOW
+abacavir sulfate,65862-073,300 mg,"abacavir tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,65862-073,300 mg,"abacavir tablet, film coated",TRIACETIN
+abacavir sulfate,69097-514,300 mg,"abacavir tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+abacavir sulfate,69097-514,300 mg,"abacavir tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A CORN
+abacavir sulfate,69097-514,300 mg,"abacavir tablet, film coated","STARCH, CORN"
+abacavir sulfate,69097-514,300 mg,"abacavir tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,69097-514,300 mg,"abacavir tablet, film coated",SILICON DIOXIDE
+abacavir sulfate,69097-514,300 mg,"abacavir tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,69097-514,300 mg,"abacavir tablet, film coated",HYPROMELLOSE 2910 (3 MPA.S)
+abacavir sulfate,69097-514,300 mg,"abacavir tablet, film coated",POLYETHYLENE GLYCOL 400
+abacavir sulfate,69097-514,300 mg,"abacavir tablet, film coated",FERRIC OXIDE YELLOW
+abacavir sulfate,69097-514,300 mg,"abacavir tablet, film coated",POLYSORBATE 80
+abacavir sulfate,64380-717,300,abacavir tablet,"CELLULOSE, MICROCRYSTALLINE"
+abacavir sulfate,64380-717,300,abacavir tablet,FERRIC OXIDE YELLOW
+abacavir sulfate,64380-717,300,abacavir tablet,HYPROMELLOSES
+abacavir sulfate,64380-717,300,abacavir tablet,MAGNESIUM STEARATE
+abacavir sulfate,64380-717,300,abacavir tablet,POLYETHYLENE GLYCOL 400
+abacavir sulfate,64380-717,300,abacavir tablet,SILICON DIOXIDE
+abacavir sulfate,64380-717,300,abacavir tablet,SODIUM STARCH GLYCOLATE TYPE B POTATO
+abacavir sulfate,64380-717,300,abacavir tablet,TITANIUM DIOXIDE
+65862-073,68084-021,300 mg,"abacavir sulfate tablet, film coated",ABACAVIR SULFATE
+65862-073,68084-021,300 mg,"abacavir sulfate tablet, film coated",SILICON DIOXIDE
+65862-073,68084-021,300 mg,"abacavir sulfate tablet, film coated",MAGNESIUM STEARATE
+65862-073,68084-021,300 mg,"abacavir sulfate tablet, film coated",MICROCRYSTALLINE CELLULOSE
+65862-073,68084-021,300 mg,"abacavir sulfate tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+65862-073,68084-021,300 mg,"abacavir sulfate tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+65862-073,68084-021,300 mg,"abacavir sulfate tablet, film coated",FERRIC OXIDE YELLOW
+65862-073,68084-021,300 mg,"abacavir sulfate tablet, film coated",POLYSORBATE 80
+65862-073,68084-021,300 mg,"abacavir sulfate tablet, film coated",TITANIUM DIOXIDE
+65862-073,68084-021,300 mg,"abacavir sulfate tablet, film coated",TRIACETIN
+0093-5382,42291-115,600 mg,"abacavir and lamivudine tablet, film coated",LAMIVUDINE
+0093-5382,42291-115,300 mg,"abacavir and lamivudine tablet, film coated",ABACAVIR SULFATE
+0093-5382,42291-115,300 mg,"abacavir and lamivudine tablet, film coated",FD&amp;C YELLOW NO. 6
+0093-5382,42291-115,300 mg,"abacavir and lamivudine tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+0093-5382,42291-115,300 mg,"abacavir and lamivudine tablet, film coated",FERRIC OXIDE YELLOW
+0093-5382,42291-115,300 mg,"abacavir and lamivudine tablet, film coated",MAGNESIUM STEARATE
+0093-5382,42291-115,300 mg,"abacavir and lamivudine tablet, film coated",MICROCRYSTALLINE CELLULOSE
+0093-5382,42291-115,300 mg,"abacavir and lamivudine tablet, film coated",POLYETHYLENE GLYCOL 400
+0093-5382,42291-115,300 mg,"abacavir and lamivudine tablet, film coated",POLYSORBATE 80
+0093-5382,42291-115,300 mg,"abacavir and lamivudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+0093-5382,42291-115,300 mg,"abacavir and lamivudine tablet, film coated",TITANIUM DIOXIDE
+31722-562,0121-0897,20 mg  in 1 mL,abacavir solution,ABACAVIR SULFATE
+31722-562,0121-0897,20 mg  in 1 mL,abacavir solution,ANHYDROUS CITRIC ACID
+31722-562,0121-0897,20 mg  in 1 mL,abacavir solution,METHYLPARABEN
+31722-562,0121-0897,20 mg  in 1 mL,abacavir solution,PROPYLPARABEN
+31722-562,0121-0897,20 mg  in 1 mL,abacavir solution,PROPYLENE GLYCOL
+31722-562,0121-0897,20 mg  in 1 mL,abacavir solution,SACCHARIN SODIUM
+31722-562,0121-0897,20 mg  in 1 mL,abacavir solution,TRISODIUM CITRATE DIHYDRATE
+31722-562,0121-0897,20 mg  in 1 mL,abacavir solution,SORBITOL
+31722-562,0121-0897,20 mg  in 1 mL,abacavir solution,STRAWBERRY
+31722-562,0121-0897,20 mg  in 1 mL,abacavir solution,BANANA
+31722-562,0121-0897,20 mg  in 1 mL,abacavir solution,WATER
+60505-3583,0904-6523,300 mg,"abacavir sulfate tablet, film coated",ABACAVIR SULFATE
+60505-3583,0904-6523,300 mg,"abacavir sulfate tablet, film coated",SILICON DIOXIDE
+60505-3583,0904-6523,300 mg,"abacavir sulfate tablet, film coated",MAGNESIUM STEARATE
+60505-3583,0904-6523,300 mg,"abacavir sulfate tablet, film coated",MICROCRYSTALLINE CELLULOSE
+60505-3583,0904-6523,300 mg,"abacavir sulfate tablet, film coated","HYPROMELLOSE, UNSPECIFIED"
+60505-3583,0904-6523,300 mg,"abacavir sulfate tablet, film coated",POLYETHYLENE GLYCOL 8000
+60505-3583,0904-6523,300 mg,"abacavir sulfate tablet, film coated",FERRIC OXIDE YELLOW
+60505-3583,0904-6523,300 mg,"abacavir sulfate tablet, film coated",CROSCARMELLOSE SODIUM
+60505-3583,0904-6523,300 mg,"abacavir sulfate tablet, film coated",TITANIUM DIOXIDE
+0378-4105,51079-204,300 mg,"abacavir sulfate tablet, film coated",ABACAVIR SULFATE
+0378-4105,51079-204,300 mg,"abacavir sulfate tablet, film coated",SILICON DIOXIDE
+0378-4105,51079-204,300 mg,"abacavir sulfate tablet, film coated","HYPROMELLOSE, UNSPECIFIED"
+0378-4105,51079-204,300 mg,"abacavir sulfate tablet, film coated",MAGNESIUM STEARATE
+0378-4105,51079-204,300 mg,"abacavir sulfate tablet, film coated",MICROCRYSTALLINE CELLULOSE
+0378-4105,51079-204,300 mg,"abacavir sulfate tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+0378-4105,51079-204,300 mg,"abacavir sulfate tablet, film coated",FERRIC OXIDE RED
+0378-4105,51079-204,300 mg,"abacavir sulfate tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+0378-4105,51079-204,300 mg,"abacavir sulfate tablet, film coated",TITANIUM DIOXIDE
+0378-4105,51079-204,300 mg,"abacavir sulfate tablet, film coated",FERRIC OXIDE YELLOW
+0378-4105,53808-0627,300 mg,"abacavir sulfate tablet, film coated",ABACAVIR SULFATE
+0378-4105,53808-0627,300 mg,"abacavir sulfate tablet, film coated",SILICON DIOXIDE
+0378-4105,53808-0627,300 mg,"abacavir sulfate tablet, film coated",HYPROMELLOSES
+0378-4105,53808-0627,300 mg,"abacavir sulfate tablet, film coated",MAGNESIUM STEARATE
+0378-4105,53808-0627,300 mg,"abacavir sulfate tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+0378-4105,53808-0627,300 mg,"abacavir sulfate tablet, film coated",POLYETHYLENE GLYCOLS
+0378-4105,53808-0627,300 mg,"abacavir sulfate tablet, film coated",FERRIC OXIDE RED
+0378-4105,53808-0627,300 mg,"abacavir sulfate tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+0378-4105,53808-0627,300 mg,"abacavir sulfate tablet, film coated",TITANIUM DIOXIDE
+0378-4105,53808-0627,300 mg,"abacavir sulfate tablet, film coated",FERRIC OXIDE YELLOW
+31722-557,50268-049,300 mg,abacavir tablet,ABACAVIR SULFATE
+31722-557,50268-049,300 mg,abacavir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-557,50268-049,300 mg,abacavir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-557,50268-049,300 mg,abacavir tablet,SILICON DIOXIDE
+31722-557,50268-049,300 mg,abacavir tablet,MAGNESIUM STEARATE
+31722-557,50268-049,300 mg,abacavir tablet,HYPROMELLOSES
+31722-557,50268-049,300 mg,abacavir tablet,TITANIUM DIOXIDE
+31722-557,50268-049,300 mg,abacavir tablet,TRIACETIN
+31722-557,50268-049,300 mg,abacavir tablet,FERRIC OXIDE YELLOW
+31722-557,50268-049,300 mg,abacavir tablet,POLYSORBATE 80
+65862-073,0904-6874,300 mg,"abacavir tablet, film coated",ABACAVIR SULFATE
+65862-073,0904-6874,300 mg,"abacavir tablet, film coated",SILICON DIOXIDE
+65862-073,0904-6874,300 mg,"abacavir tablet, film coated",MAGNESIUM STEARATE
+65862-073,0904-6874,300 mg,"abacavir tablet, film coated",MICROCRYSTALLINE CELLULOSE
+65862-073,0904-6874,300 mg,"abacavir tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+65862-073,0904-6874,300 mg,"abacavir tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+65862-073,0904-6874,300 mg,"abacavir tablet, film coated",POLYSORBATE 80
+65862-073,0904-6874,300 mg,"abacavir tablet, film coated",FERRIC OXIDE YELLOW
+65862-073,0904-6874,300 mg,"abacavir tablet, film coated",TITANIUM DIOXIDE
+65862-073,0904-6874,300 mg,"abacavir tablet, film coated",TRIACETIN
+69097-514,70518-1274,300 mg,"abacavir tablet, film coated",ABACAVIR SULFATE
+69097-514,70518-1274,300 mg,"abacavir tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+69097-514,70518-1274,300 mg,"abacavir tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A CORN
+69097-514,70518-1274,300 mg,"abacavir tablet, film coated","STARCH, CORN"
+69097-514,70518-1274,300 mg,"abacavir tablet, film coated",MAGNESIUM STEARATE
+69097-514,70518-1274,300 mg,"abacavir tablet, film coated",SILICON DIOXIDE
+69097-514,70518-1274,300 mg,"abacavir tablet, film coated",TITANIUM DIOXIDE
+69097-514,70518-1274,300 mg,"abacavir tablet, film coated",HYPROMELLOSE 2910 (3 MPA.S)
+69097-514,70518-1274,300 mg,"abacavir tablet, film coated",POLYETHYLENE GLYCOL 400
+69097-514,70518-1274,300 mg,"abacavir tablet, film coated",FERRIC OXIDE YELLOW
+69097-514,70518-1274,300 mg,"abacavir tablet, film coated",POLYSORBATE 80
+0173-0742,53808-0767,600 mg,"abacavir sulfate and lamivudine tablet, film coated",LAMIVUDINE
+0173-0742,53808-0767,300 mg,"abacavir sulfate and lamivudine tablet, film coated",ABACAVIR SULFATE
+0173-0742,53808-0767,300 mg,"abacavir sulfate and lamivudine tablet, film coated",MAGNESIUM STEARATE
+0173-0742,53808-0767,300 mg,"abacavir sulfate and lamivudine tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+0173-0742,53808-0767,300 mg,"abacavir sulfate and lamivudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+0173-0742,53808-0767,300 mg,"abacavir sulfate and lamivudine tablet, film coated",FD&amp;C YELLOW NO. 6
+0173-0742,53808-0767,300 mg,"abacavir sulfate and lamivudine tablet, film coated",HYPROMELLOSE
+0173-0742,53808-0767,300 mg,"abacavir sulfate and lamivudine tablet, film coated",POLYETHYLENE GLYCOL 400
+0173-0742,53808-0767,300 mg,"abacavir sulfate and lamivudine tablet, film coated",POLYSORBATE 80
+0173-0742,53808-0767,300 mg,"abacavir sulfate and lamivudine tablet, film coated",TITANIUM DIOXIDE
+0173-0661,53808-0811,300 mg,"abacavir sulfate tablet, film coated",ABACAVIR SULFATE
+0173-0661,53808-0811,300 mg,"abacavir sulfate tablet, film coated",COLLOIDAL SILICON DIOXIDE
+0173-0661,53808-0811,300 mg,"abacavir sulfate tablet, film coated",MAGNESIUM STEARATE
+0173-0661,53808-0811,300 mg,"abacavir sulfate tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+0173-0661,53808-0811,300 mg,"abacavir sulfate tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+0173-0661,53808-0811,300 mg,"abacavir sulfate tablet, film coated",HYPROMELLOSE
+0173-0661,53808-0811,300 mg,"abacavir sulfate tablet, film coated",POLYSORBATE 80
+0173-0661,53808-0811,300 mg,"abacavir sulfate tablet, film coated",FERRIC OXIDE YELLOW
+0173-0661,53808-0811,300 mg,"abacavir sulfate tablet, film coated",TRIACETIN
+0173-0661,53808-0811,300 mg,"abacavir sulfate tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,49702-206,600 mg," and lamivudine tablet, film coated",LAMIVUDINE
+abacavir sulfate,49702-206,300 mg," and lamivudine tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,49702-206,300 mg," and lamivudine tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abacavir sulfate,49702-206,300 mg," and lamivudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+abacavir sulfate,49702-206,300 mg," and lamivudine tablet, film coated",FD&amp;C YELLOW NO. 6
+abacavir sulfate,49702-206,300 mg," and lamivudine tablet, film coated","HYPROMELLOSE, UNSPECIFIED"
+abacavir sulfate,49702-206,300 mg," and lamivudine tablet, film coated",POLYETHYLENE GLYCOL 400
+abacavir sulfate,49702-206,300 mg," and lamivudine tablet, film coated",POLYSORBATE 80
+abacavir sulfate,49702-206,300 mg," and lamivudine tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,49702-231,600 mg,", dolutegravir sodium, lamivudine tablet, film coated",LAMIVUDINE
+abacavir sulfate,49702-231,600 mg,", dolutegravir sodium, lamivudine tablet, film coated",DOLUTEGRAVIR SODIUM
+abacavir sulfate,49702-231,300 mg,", dolutegravir sodium, lamivudine tablet, film coated",MANNITOL
+abacavir sulfate,49702-231,300 mg,", dolutegravir sodium, lamivudine tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,49702-231,300 mg,", dolutegravir sodium, lamivudine tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abacavir sulfate,49702-231,300 mg,", dolutegravir sodium, lamivudine tablet, film coated","POVIDONE, UNSPECIFIED"
+abacavir sulfate,49702-231,300 mg,", dolutegravir sodium, lamivudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A CORN
+abacavir sulfate,49702-231,300 mg,", dolutegravir sodium, lamivudine tablet, film coated",FERROSOFERRIC OXIDE
+abacavir sulfate,49702-231,300 mg,", dolutegravir sodium, lamivudine tablet, film coated",FERRIC OXIDE RED
+abacavir sulfate,49702-231,300 mg,", dolutegravir sodium, lamivudine tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+abacavir sulfate,49702-231,300 mg,", dolutegravir sodium, lamivudine tablet, film coated","POLYVINYL ALCOHOL, UNSPECIFIED"
+abacavir sulfate,49702-231,300 mg,", dolutegravir sodium, lamivudine tablet, film coated",TALC
+abacavir sulfate,49702-231,300 mg,", dolutegravir sodium, lamivudine tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,49702-217,300 mg,", lamivudine, and zidovudine tablet, film coated",ZIDOVUDINE
+abacavir sulfate,49702-217,300 mg,", lamivudine, and zidovudine tablet, film coated",LAMIVUDINE
+abacavir sulfate,49702-217,300 mg,", lamivudine, and zidovudine tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,49702-217,300 mg,", lamivudine, and zidovudine tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abacavir sulfate,49702-217,300 mg,", lamivudine, and zidovudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+abacavir sulfate,49702-217,300 mg,", lamivudine, and zidovudine tablet, film coated",FD&amp;C BLUE NO. 2
+abacavir sulfate,49702-217,300 mg,", lamivudine, and zidovudine tablet, film coated","HYPROMELLOSE, UNSPECIFIED"
+abacavir sulfate,49702-217,300 mg,", lamivudine, and zidovudine tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+abacavir sulfate,49702-217,300 mg,", lamivudine, and zidovudine tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,49702-217,300 mg,", lamivudine, and zidovudine tablet, film coated",FERRIC OXIDE YELLOW
+abacavir sulfate,49702-221,300 mg," tablet, film coated",SILICON DIOXIDE
+abacavir sulfate,49702-221,300 mg," tablet, film coated",MAGNESIUM STEARATE
+abacavir sulfate,49702-221,300 mg," tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abacavir sulfate,49702-221,300 mg," tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+abacavir sulfate,49702-221,300 mg," tablet, film coated","HYPROMELLOSE, UNSPECIFIED"
+abacavir sulfate,49702-221,300 mg," tablet, film coated",POLYSORBATE 80
+abacavir sulfate,49702-221,300 mg," tablet, film coated",FERRIC OXIDE YELLOW
+abacavir sulfate,49702-221,300 mg," tablet, film coated",TITANIUM DIOXIDE
+abacavir sulfate,49702-221,300 mg," tablet, film coated",TRIACETIN
+abacavir sulfate,49702-222,20 mg  in 1 mL, solution,ANHYDROUS CITRIC ACID
+abacavir sulfate,49702-222,20 mg  in 1 mL, solution,METHYLPARABEN
+abacavir sulfate,49702-222,20 mg  in 1 mL, solution,PROPYLPARABEN
+abacavir sulfate,49702-222,20 mg  in 1 mL, solution,PROPYLENE GLYCOL
+abacavir sulfate,49702-222,20 mg  in 1 mL, solution,SACCHARIN SODIUM
+abacavir sulfate,49702-222,20 mg  in 1 mL, solution,TRISODIUM CITRATE DIHYDRATE
+abacavir sulfate,49702-222,20 mg  in 1 mL, solution,SORBITOL
+abacavir sulfate,49702-222,20 mg  in 1 mL, solution,WATER
+0173-0742-,54868-5600,600 mg,"abacavir sulfate and lamivudine tablet, film coated",LAMIVUDINE
+0173-0742-,54868-5600,300 mg,"abacavir sulfate and lamivudine tablet, film coated",ABACAVIR SULFATE
+0173-0742-,54868-5600,300 mg,"abacavir sulfate and lamivudine tablet, film coated",MAGNESIUM STEARATE
+0173-0742-,54868-5600,300 mg,"abacavir sulfate and lamivudine tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+0173-0742-,54868-5600,300 mg,"abacavir sulfate and lamivudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+0173-0742-,54868-5600,300 mg,"abacavir sulfate and lamivudine tablet, film coated",FD&amp;C YELLOW NO. 6
+0173-0742-,54868-5600,300 mg,"abacavir sulfate and lamivudine tablet, film coated",HYPROMELLOSE
+0173-0742-,54868-5600,300 mg,"abacavir sulfate and lamivudine tablet, film coated",POLYETHYLENE GLYCOL 400
+0173-0742-,54868-5600,300 mg,"abacavir sulfate and lamivudine tablet, film coated",POLYSORBATE 80
+0173-0742-,54868-5600,300 mg,"abacavir sulfate and lamivudine tablet, film coated",TITANIUM DIOXIDE
+49702-217,53808-0990,300 mg,"abacavir sulfate, lamivudine, and zidovudine tablet, film coated",ZIDOVUDINE
+49702-217,53808-0990,300 mg,"abacavir sulfate, lamivudine, and zidovudine tablet, film coated",ABACAVIR SULFATE
+49702-217,53808-0990,300 mg,"abacavir sulfate, lamivudine, and zidovudine tablet, film coated",LAMIVUDINE
+49702-217,53808-0990,300 mg,"abacavir sulfate, lamivudine, and zidovudine tablet, film coated",MAGNESIUM STEARATE
+49702-217,53808-0990,300 mg,"abacavir sulfate, lamivudine, and zidovudine tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+49702-217,53808-0990,300 mg,"abacavir sulfate, lamivudine, and zidovudine tablet, film coated",SODIUM STARCH GLYCOLATE TYPE A POTATO
+49702-217,53808-0990,300 mg,"abacavir sulfate, lamivudine, and zidovudine tablet, film coated",FD&amp;C BLUE NO. 2
+49702-217,53808-0990,300 mg,"abacavir sulfate, lamivudine, and zidovudine tablet, film coated",HYPROMELLOSES
+49702-217,53808-0990,300 mg,"abacavir sulfate, lamivudine, and zidovudine tablet, film coated",POLYETHYLENE GLYCOLS
+49702-217,53808-0990,300 mg,"abacavir sulfate, lamivudine, and zidovudine tablet, film coated",TITANIUM DIOXIDE
+49702-217,53808-0990,300 mg,"abacavir sulfate, lamivudine, and zidovudine tablet, film coated",FERRIC OXIDE YELLOW

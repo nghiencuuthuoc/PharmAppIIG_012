@@ -1,0 +1,1939 @@
+MainDrug,NDC,Strength,Formulation,Inactive
+acyclovir,0713-0630,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,31722-777,400 mg, tablet,SILICON DIOXIDE
+acyclovir,31722-777,400 mg, tablet,FERRIC OXIDE RED
+acyclovir,31722-777,400 mg, tablet,MAGNESIUM STEARATE
+acyclovir,31722-777,400 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,31722-777,400 mg, tablet,POVIDONE
+acyclovir,31722-777,400 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,31722-778,800 mg, tablet,SILICON DIOXIDE
+acyclovir,31722-778,800 mg, tablet,FD&amp;C BLUE NO. 2
+acyclovir,31722-778,800 mg, tablet,MAGNESIUM STEARATE
+acyclovir,31722-778,800 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,31722-778,800 mg, tablet,POVIDONE
+acyclovir,31722-778,800 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,63304-652,200 mg, capsule,LACTOSE MONOHYDRATE
+acyclovir,63304-652,200 mg, capsule,MAGNESIUM STEARATE
+acyclovir,63304-652,200 mg, capsule,"STARCH, CORN"
+acyclovir,63304-652,200 mg, capsule,GELATIN
+acyclovir,63304-652,200 mg, capsule,TITANIUM DIOXIDE
+acyclovir,63304-652,200 mg, capsule,FERROSOFERRIC OXIDE
+acyclovir,63304-652,200 mg, capsule,PROPYLENE GLYCOL
+acyclovir,63304-504,400.00 mg, tablet,SILICON DIOXIDE
+acyclovir,63304-504,400.00 mg, tablet,MAGNESIUM STEARATE
+acyclovir,63304-504,400.00 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,63304-504,400.00 mg, tablet,"STARCH, CORN"
+acyclovir,63304-504,400.00 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A CORN
+acyclovir,63304-505,800.00 mg, tablet,SILICON DIOXIDE
+acyclovir,63304-505,800.00 mg, tablet,MAGNESIUM STEARATE
+acyclovir,63304-505,800.00 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,63304-505,800.00 mg, tablet,"STARCH, CORN"
+acyclovir,63304-505,800.00 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A CORN
+acyclovir,60505-0042,200 mg, capsule,SILICON DIOXIDE
+acyclovir,60505-0042,200 mg, capsule,CROSCARMELLOSE SODIUM
+acyclovir,60505-0042,200 mg, capsule,MAGNESIUM STEARATE
+acyclovir,60505-0042,200 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,60505-0042,200 mg, capsule,GELATIN
+acyclovir,60505-0042,200 mg, capsule,FD&amp;C BLUE NO. 1
+acyclovir,60505-0042,200 mg, capsule,TITANIUM DIOXIDE
+acyclovir,60505-0042,200 mg, capsule,AMMONIA
+acyclovir,60505-0042,200 mg, capsule,FERROSOFERRIC OXIDE
+acyclovir,60505-0042,200 mg, capsule,BUTYL ALCOHOL
+acyclovir,60505-0042,200 mg, capsule,ALCOHOL
+acyclovir,60505-0042,200 mg, capsule,ISOPROPYL ALCOHOL
+acyclovir,60505-0042,200 mg, capsule,POTASSIUM HYDROXIDE
+acyclovir,60505-0042,200 mg, capsule,PROPYLENE GLYCOL
+acyclovir,60505-0042,200 mg, capsule,SHELLAC
+acyclovir,62033-0204,200 mg, capsule,Lactose Monohydrate
+acyclovir,62033-0204,200 mg, capsule,Sodium Starch Glycolate Type A Potato
+acyclovir,62033-0204,200 mg, capsule,Sodium Lauryl Sulfate
+acyclovir,62033-0204,200 mg, capsule,Magnesium Stearate
+acyclovir,65841-829,200 mg, capsule,FD&amp;C BLUE NO. 1
+acyclovir,65841-829,200 mg, capsule,FD&amp;C RED NO. 3
+acyclovir,65841-829,200 mg, capsule,GELATIN
+acyclovir,65841-829,200 mg, capsule,LACTOSE MONOHYDRATE
+acyclovir,65841-829,200 mg, capsule,MAGNESIUM STEARATE
+acyclovir,65841-829,200 mg, capsule,SODIUM LAURYL SULFATE
+acyclovir,65841-829,200 mg, capsule,"STARCH, CORN"
+acyclovir,65841-829,200 mg, capsule,TITANIUM DIOXIDE
+acyclovir,71209-004,200 mg, capsule,"STARCH, CORN"
+acyclovir,71209-004,200 mg, capsule,LACTOSE MONOHYDRATE
+acyclovir,71209-004,200 mg, capsule,SODIUM LAURYL SULFATE
+acyclovir,71209-004,200 mg, capsule,MAGNESIUM STEARATE
+acyclovir,71209-004,200 mg, capsule,GELATIN
+acyclovir,71209-004,200 mg, capsule,TITANIUM DIOXIDE
+acyclovir,71209-004,200 mg, capsule,FD&amp;C BLUE NO. 2
+acyclovir,61442-114,200 mg, capsule,LACTOSE MONOHYDRATE
+acyclovir,61442-114,200 mg, capsule,SODIUM LAURYL SULFATE
+acyclovir,61442-114,200 mg, capsule,MAGNESIUM STEARATE
+acyclovir,61442-114,200 mg, capsule,"STARCH, CORN"
+acyclovir,61442-111,200 mg, capsule,LACTOSE MONOHYDRATE
+acyclovir,61442-111,200 mg, capsule,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,61442-111,200 mg, capsule,SODIUM LAURETH SULFATE
+acyclovir,61442-111,200 mg, capsule,MAGNESIUM STEARATE
+acyclovir,23155-229,200 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,23155-229,200 mg, capsule,POVIDONE K25
+acyclovir,23155-229,200 mg, capsule,MAGNESIUM STEARATE
+acyclovir,23155-229,200 mg, capsule,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,23155-229,200 mg, capsule,"STARCH, CORN"
+acyclovir,23155-229,200 mg, capsule,GELATIN
+acyclovir,23155-229,200 mg, capsule,FD&amp;C BLUE NO. 2
+acyclovir,23155-229,200 mg, capsule,TITANIUM DIOXIDE
+acyclovir,23155-229,200 mg, capsule,SHELLAC
+acyclovir,23155-229,200 mg, capsule,PROPYLENE GLYCOL
+acyclovir,23155-229,200 mg, capsule,AMMONIA
+acyclovir,23155-229,200 mg, capsule,FERROSOFERRIC OXIDE
+acyclovir,23155-229,200 mg, capsule,POTASSIUM HYDROXIDE
+acyclovir,75834-124,200 mg, capsule,"STARCH, CORN"
+acyclovir,75834-124,200 mg, capsule,LACTOSE MONOHYDRATE
+acyclovir,75834-124,200 mg, capsule,MAGNESIUM STEARATE
+acyclovir,75834-124,200 mg, capsule,SODIUM LAURYL SULFATE
+acyclovir,75834-124,200 mg, capsule,"GELATIN, UNSPECIFIED"
+acyclovir,75834-124,200 mg, capsule,FD&amp;C BLUE NO. 2
+acyclovir,75834-124,200 mg, capsule,TITANIUM DIOXIDE
+acyclovir,69076-146,200 mg, capsule,LACTOSE MONOHYDRATE
+acyclovir,69076-146,200 mg, capsule,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,69076-146,200 mg, capsule,SODIUM LAURYL SULFATE
+acyclovir,69076-146,200 mg, capsule,MAGNESIUM STEARATE
+acyclovir,69076-146,200 mg, capsule,FD&amp;C BLUE NO. 1
+acyclovir,69076-146,200 mg, capsule,GELATIN
+acyclovir,69076-146,200 mg, capsule,TITANIUM DIOXIDE
+acyclovir,69076-146,200 mg, capsule,FD&amp;C BLUE NO. 2
+acyclovir,69076-146,200 mg, capsule,FD&amp;C RED NO. 40
+acyclovir,69076-146,200 mg, capsule,D&amp;C YELLOW NO. 10
+acyclovir,69076-146,200 mg, capsule,BROWN IRON OXIDE
+acyclovir,69076-146,200 mg, capsule,SHELLAC
+acyclovir,69076-146,200 mg, capsule,PROPYLENE GLYCOL
+acyclovir,72578-002,200 mg, capsule,FD&amp;C BLUE NO. 1
+acyclovir,72578-002,200 mg, capsule,FD&amp;C RED NO. 3
+acyclovir,72578-002,200 mg, capsule,GELATIN
+acyclovir,72578-002,200 mg, capsule,LACTOSE MONOHYDRATE
+acyclovir,72578-002,200 mg, capsule,MAGNESIUM STEARATE
+acyclovir,72578-002,200 mg, capsule,SODIUM LAURYL SULFATE
+acyclovir,72578-002,200 mg, capsule,"STARCH, CORN"
+acyclovir,72578-002,200 mg, capsule,TITANIUM DIOXIDE
+acyclovir,69117-0039,200 mg, capsule,LACTOSE MONOHYDRATE
+acyclovir,69117-0039,200 mg, capsule,FD&amp;C RED NO. 3
+acyclovir,69117-0039,200 mg, capsule,FD&amp;C YELLOW NO. 6
+acyclovir,69117-0039,200 mg, capsule,SHELLAC
+acyclovir,69117-0039,200 mg, capsule,PROPYLENE GLYCOL
+acyclovir,69117-0039,200 mg, capsule,GELATIN
+acyclovir,69117-0039,200 mg, capsule,"STARCH, CORN"
+acyclovir,69117-0039,200 mg, capsule,SODIUM LAURYL SULFATE
+acyclovir,69117-0039,200 mg, capsule,MAGNESIUM STEARATE
+acyclovir,69117-0039,200 mg, capsule,POTASSIUM HYDROXIDE
+acyclovir,69117-0039,200 mg, capsule,FERROSOFERRIC OXIDE
+acyclovir,69117-0039,200 mg, capsule,FD&amp;C BLUE NO. 1
+acyclovir,69117-0039,200 mg, capsule,TITANIUM DIOXIDE
+acyclovir,68382-668,200 mg, capsule,FD&amp;C BLUE NO. 1
+acyclovir,68382-668,200 mg, capsule,FD&amp;C RED NO. 3
+acyclovir,68382-668,200 mg, capsule,GELATIN
+acyclovir,68382-668,200 mg, capsule,LACTOSE MONOHYDRATE
+acyclovir,68382-668,200 mg, capsule,MAGNESIUM STEARATE
+acyclovir,68382-668,200 mg, capsule,SODIUM LAURYL SULFATE
+acyclovir,68382-668,200 mg, capsule,"STARCH, CORN"
+acyclovir,68382-668,200 mg, capsule,TITANIUM DIOXIDE
+acyclovir,65162-836,50 mg  in 1 g, cream,PETROLATUM
+acyclovir,65162-836,50 mg  in 1 g, cream,CETOSTEARYL ALCOHOL
+acyclovir,65162-836,50 mg  in 1 g, cream,MINERAL OIL
+acyclovir,65162-836,50 mg  in 1 g, cream,POLOXAMER 407
+acyclovir,65162-836,50 mg  in 1 g, cream,PROPYLENE GLYCOL
+acyclovir,65162-836,50 mg  in 1 g, cream,WATER
+acyclovir,65162-836,50 mg  in 1 g, cream,SODIUM LAURYL SULFATE
+acyclovir,45802-044,50 mg  in 1 g, cream,CETOSTEARYL ALCOHOL
+acyclovir,45802-044,50 mg  in 1 g, cream,MINERAL OIL
+acyclovir,45802-044,50 mg  in 1 g, cream,POLOXAMER 407
+acyclovir,45802-044,50 mg  in 1 g, cream,PROPYLENE GLYCOL
+acyclovir,45802-044,50 mg  in 1 g, cream,SODIUM LAURYL SULFATE
+acyclovir,45802-044,50 mg  in 1 g, cream,WATER
+acyclovir,45802-044,50 mg  in 1 g, cream,PETROLATUM
+acyclovir,0093-3630,50 mg  in 1 g, cream,Cetostearyl alcohol
+acyclovir,0093-3630,50 mg  in 1 g, cream,Mineral oil
+acyclovir,0093-3630,50 mg  in 1 g, cream,Poloxamer 407
+acyclovir,0093-3630,50 mg  in 1 g, cream,Sodium lauryl sulfate
+acyclovir,0093-3630,50 mg  in 1 g, cream,Water
+acyclovir,0093-3630,50 mg  in 1 g, cream,Petrolatum
+acyclovir,0093-3630,50 mg  in 1 g, cream,PROPYLENE GLYCOL
+acyclovir sodium,70771-1081,500 mg,"acyclovir injection, powder, lyophilized, for solution",SODIUM HYDROXIDE
+acyclovir sodium,70771-1081,500 mg,"acyclovir injection, powder, lyophilized, for solution",WATER
+acyclovir sodium,70771-1082,1000 mg,"acyclovir injection, powder, lyophilized, for solution",SODIUM HYDROXIDE
+acyclovir sodium,70771-1082,1000 mg,"acyclovir injection, powder, lyophilized, for solution",WATER
+acyclovir sodium,68382-125,500 mg,"acyclovir injection, powder, lyophilized, for solution",SODIUM HYDROXIDE
+acyclovir sodium,68382-125,500 mg,"acyclovir injection, powder, lyophilized, for solution",WATER
+acyclovir sodium,68382-126,1000 mg,"acyclovir injection, powder, lyophilized, for solution",SODIUM HYDROXIDE
+acyclovir sodium,68382-126,1000 mg,"acyclovir injection, powder, lyophilized, for solution",WATER
+acyclovir sodium,70771-1383,50 mg  in 1 mL,"acyclovir injection, solution",SODIUM HYDROXIDE
+acyclovir sodium,70771-1383,50 mg  in 1 mL,"acyclovir injection, solution",WATER
+acyclovir sodium,70771-1384,50 mg  in 1 mL,"acyclovir injection, solution",SODIUM HYDROXIDE
+acyclovir sodium,70771-1384,50 mg  in 1 mL,"acyclovir injection, solution",WATER
+acyclovir sodium,68382-048,50 mg  in 1 mL,"acyclovir injection, solution",SODIUM HYDROXIDE
+acyclovir sodium,68382-048,50 mg  in 1 mL,"acyclovir injection, solution",WATER
+acyclovir sodium,68382-049,50 mg  in 1 mL,"acyclovir injection, solution",SODIUM HYDROXIDE
+acyclovir sodium,68382-049,50 mg  in 1 mL,"acyclovir injection, solution",WATER
+acyclovir,0591-1159,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,62332-248,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,46708-248,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,65162-835,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,35573-403,50 mg  in 1 g, ointment,"Polyethylene Glycol, Unspecified"
+acyclovir,70771-1371,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,69097-656,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,0168-0825,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,68462-746,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,33342-439,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,51079-550,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,0378-8700,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,16714-885,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,72689-0018,50 mg  in 1 g, ointment,PROPYLENE GLYCOL
+acyclovir,72689-0018,50 mg  in 1 g, ointment,CETOSTEARYL ALCOHOL
+acyclovir,51672-1360,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,63646-300,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,13668-515,50 mg  in 1 g, ointment,POLYETHYLENE GLYCOL 300
+acyclovir,13668-515,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,72578-082,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,70700-107,50 mg  in 1 g, ointment,"Polyethylene Glycol, Unspecified"
+acyclovir,68382-992,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir sodium,55150-154,500 mg  in 10 mL," injection, solution",WATER
+acyclovir sodium,55150-154,500 mg  in 10 mL," injection, solution",WATER
+acyclovir,0472-0082,200 mg  in 5 mL, suspension,CARBOXYMETHYLCELLULOSE SODIUM
+acyclovir,0472-0082,200 mg  in 5 mL, suspension,GLYCERIN
+acyclovir,0472-0082,200 mg  in 5 mL, suspension,METHYLPARABEN
+acyclovir,0472-0082,200 mg  in 5 mL, suspension,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,0472-0082,200 mg  in 5 mL, suspension,PROPYLPARABEN
+acyclovir,0472-0082,200 mg  in 5 mL, suspension,WATER
+acyclovir,0472-0082,200 mg  in 5 mL, suspension,SORBITOL
+acyclovir,23155-485,200 mg  in 5 mL, suspension,CARBOXYMETHYLCELLULOSE SODIUM
+acyclovir,23155-485,200 mg  in 5 mL, suspension,GLYCERIN
+acyclovir,23155-485,200 mg  in 5 mL, suspension,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,23155-485,200 mg  in 5 mL, suspension,METHYLPARABEN
+acyclovir,23155-485,200 mg  in 5 mL, suspension,PROPYLPARABEN
+acyclovir,23155-485,200 mg  in 5 mL, suspension,SORBITOL
+acyclovir,23155-485,200 mg  in 5 mL, suspension,WATER
+acyclovir,23155-485,200 mg  in 5 mL, suspension,BANANA
+acyclovir,50383-810,200 mg  in 5 mL, suspension,BANANA
+acyclovir,50383-810,200 mg  in 5 mL, suspension,"CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM"
+acyclovir,50383-810,200 mg  in 5 mL, suspension,GLYCERIN
+acyclovir,50383-810,200 mg  in 5 mL, suspension,METHYLPARABEN
+acyclovir,50383-810,200 mg  in 5 mL, suspension,MICROCRYSTALLINE CELLULOSE
+acyclovir,50383-810,200 mg  in 5 mL, suspension,PROPYLPARABEN
+acyclovir,50383-810,200 mg  in 5 mL, suspension,WATER
+acyclovir,50383-810,200 mg  in 5 mL, suspension,SORBITOL
+acyclovir,0378-8712,200 mg  in 5 mL, suspension,METHYLPARABEN
+acyclovir,0378-8712,200 mg  in 5 mL, suspension,PROPYLPARABEN
+acyclovir,0378-8712,200 mg  in 5 mL, suspension,"CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM"
+acyclovir,0378-8712,200 mg  in 5 mL, suspension,GLYCERIN
+acyclovir,0378-8712,200 mg  in 5 mL, suspension,MICROCRYSTALLINE CELLULOSE
+acyclovir,0378-8712,200 mg  in 5 mL, suspension,SORBITOL
+acyclovir,70954-188,200 mg  in 5 mL, suspension,WATER
+acyclovir,70954-188,200 mg  in 5 mL, suspension,METHYLPARABEN
+acyclovir,70954-188,200 mg  in 5 mL, suspension,PROPYLPARABEN
+acyclovir,70954-188,200 mg  in 5 mL, suspension,SORBITOL
+acyclovir,70954-188,200 mg  in 5 mL, suspension,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,70954-188,200 mg  in 5 mL, suspension,GLYCERIN
+acyclovir,70954-188,200 mg  in 5 mL, suspension,CARBOXYMETHYLCELLULOSE SODIUM
+acyclovir,60505-5306,400 mg, tablet,SILICON DIOXIDE
+acyclovir,60505-5306,400 mg, tablet,CROSCARMELLOSE SODIUM
+acyclovir,60505-5306,400 mg, tablet,MAGNESIUM STEARATE
+acyclovir,60505-5306,400 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,60505-5307,800 mg, tablet,SILICON DIOXIDE
+acyclovir,60505-5307,800 mg, tablet,CROSCARMELLOSE SODIUM
+acyclovir,60505-5307,800 mg, tablet,MAGNESIUM STEARATE
+acyclovir,60505-5307,800 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,69452-290,400 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,69452-290,400 mg, tablet,POVIDONE K30
+acyclovir,69452-290,400 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,69452-290,400 mg, tablet,MAGNESIUM STEARATE
+acyclovir,69452-291,800 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,69452-291,800 mg, tablet,POVIDONE K30
+acyclovir,69452-291,800 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,69452-291,800 mg, tablet,MAGNESIUM STEARATE
+acyclovir,69452-291,800 mg, tablet,FD&amp;C BLUE NO. 2
+acyclovir,65841-802,400 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,65841-802,400 mg, tablet,MAGNESIUM STEARATE
+acyclovir,65841-802,400 mg, tablet,SILICON DIOXIDE
+acyclovir,65841-802,400 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,65841-802,400 mg, tablet,"STARCH, CORN"
+acyclovir,65841-803,800 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,65841-803,800 mg, tablet,MAGNESIUM STEARATE
+acyclovir,65841-803,800 mg, tablet,SILICON DIOXIDE
+acyclovir,65841-803,800 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,65841-803,800 mg, tablet,"STARCH, CORN"
+acyclovir,71209-005,400 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,71209-005,400 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,71209-005,400 mg, tablet,POVIDONE
+acyclovir,71209-005,400 mg, tablet,TALC
+acyclovir,71209-005,400 mg, tablet,MAGNESIUM STEARATE
+acyclovir,71209-006,800 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,71209-006,800 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,71209-006,800 mg, tablet,FD&amp;C BLUE NO. 2
+acyclovir,71209-006,800 mg, tablet,POVIDONE
+acyclovir,71209-006,800 mg, tablet,TALC
+acyclovir,71209-006,800 mg, tablet,MAGNESIUM STEARATE
+acyclovir,61442-112,400 mg, tablet,"STARCH, CORN"
+acyclovir,61442-112,400 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,61442-112,400 mg, tablet,MAGNESIUM STEARATE
+acyclovir,61442-112,400 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,61442-113,800 mg, tablet,"STARCH, CORN"
+acyclovir,61442-113,800 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,61442-113,800 mg, tablet,MAGNESIUM STEARATE
+acyclovir,61442-113,800 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,23155-227,400 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,23155-227,400 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,23155-227,400 mg, tablet,POVIDONE K25
+acyclovir,23155-227,400 mg, tablet,SILICON DIOXIDE
+acyclovir,23155-227,400 mg, tablet,MAGNESIUM STEARATE
+acyclovir,23155-228,800 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,23155-228,800 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,23155-228,800 mg, tablet,POVIDONE K25
+acyclovir,23155-228,800 mg, tablet,SILICON DIOXIDE
+acyclovir,23155-228,800 mg, tablet,MAGNESIUM STEARATE
+acyclovir,75834-122,400 mg, tablet,MAGNESIUM STEARATE
+acyclovir,75834-122,400 mg, tablet,MICROCRYSTALLINE CELLULOSE
+acyclovir,75834-122,400 mg, tablet,"POVIDONE, UNSPECIFIED"
+acyclovir,75834-122,400 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,75834-122,400 mg, tablet,TALC
+acyclovir,75834-123,800 mg, tablet,MAGNESIUM STEARATE
+acyclovir,75834-123,800 mg, tablet,MICROCRYSTALLINE CELLULOSE
+acyclovir,75834-123,800 mg, tablet,"POVIDONE, UNSPECIFIED"
+acyclovir,75834-123,800 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,75834-123,800 mg, tablet,TALC
+acyclovir,75834-123,800 mg, tablet,FD&amp;C BLUE NO. 2
+acyclovir,76483-047,400 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,76483-047,400 mg, tablet,POVIDONE K30
+acyclovir,76483-047,400 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,76483-047,400 mg, tablet,MAGNESIUM STEARATE
+acyclovir,76483-042,800 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,76483-042,800 mg, tablet,POVIDONE K30
+acyclovir,76483-042,800 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,76483-042,800 mg, tablet,MAGNESIUM STEARATE
+acyclovir,76483-042,800 mg, tablet,FD&amp;C BLUE NO. 2
+acyclovir,69117-0019,800 mg, tablet,MICROCRYSTALLINE CELLULOSE
+acyclovir,69117-0019,800 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,69117-0019,800 mg, tablet,POVIDONE K30
+acyclovir,69117-0019,800 mg, tablet,MAGNESIUM STEARATE
+acyclovir,69117-0018,400 mg, tablet,MICROCRYSTALLINE CELLULOSE
+acyclovir,69117-0018,400 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,69117-0018,400 mg, tablet,POVIDONE K30
+acyclovir,69117-0018,400 mg, tablet,MAGNESIUM STEARATE
+acyclovir,68382-791,400 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,68382-791,400 mg, tablet,MAGNESIUM STEARATE
+acyclovir,68382-791,400 mg, tablet,SILICON DIOXIDE
+acyclovir,68382-791,400 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,68382-791,400 mg, tablet,"STARCH, CORN"
+acyclovir,68382-792,800 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acyclovir,68382-792,800 mg, tablet,MAGNESIUM STEARATE
+acyclovir,68382-792,800 mg, tablet,SILICON DIOXIDE
+acyclovir,68382-792,800 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acyclovir,68382-792,800 mg, tablet,"STARCH, CORN"
+72275-733-,72275-733,1  in 1 CARTON; Type 1: Convenience Kit of Co-Package,acyclovir kit,Part 1
+72275-733-,72275-733,1  in 1 CARTON; Type 1: Convenience Kit of Co-Package,acyclovir kit,Part 2
+72275-733-,50486-468,1,benzyl alcohol gel,BENZYL ALCOHOL
+72275-733-,50486-468,0.1 g  in 1 g,benzyl alcohol gel,BORIC ACID
+72275-733-,50486-468,0.1 g  in 1 g,benzyl alcohol gel,EUCALYPTOL
+72275-733-,50486-468,0.1 g  in 1 g,benzyl alcohol gel,THYMOL
+72275-733-,50486-468,0.1 g  in 1 g,benzyl alcohol gel,MENTHOL
+72275-733-,50486-468,0.1 g  in 1 g,benzyl alcohol gel,PROPYLENE GLYCOL
+72275-733-,50486-468,0.1 g  in 1 g,benzyl alcohol gel,SALICYLIC ACID
+72275-733-,50486-468,0.1 g  in 1 g,benzyl alcohol gel,ALCOHOL
+72275-733-,50486-468,0.1 g  in 1 g,benzyl alcohol gel,TANNIC ACID
+72275-733-,50486-468,0.1 g  in 1 g,benzyl alcohol gel,WATER
+72275-733-,50486-468,0.1 g  in 1 g,benzyl alcohol gel,HYDROXYPROPYL CELLULOSE (TYPE M)
+72275-733-,61442-114,7.1 g in 1 TUBE; Type 0: Not a Combination Product,acyclovir capsule,ACYCLOVIR
+72275-733-,61442-114,200 mg,acyclovir capsule,"STARCH, CORN"
+72275-733-,61442-114,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+72275-733-,61442-114,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+72275-733-,61442-114,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+0093-8940,33261-419,200 mg,acyclovir capsule,ACYCLOVIR
+0093-8940,33261-419,200 mg,acyclovir capsule,"STARCH, CORN"
+0093-8940,33261-419,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+0093-8940,33261-419,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+0093-8940,33261-419,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+0093-8940,33261-419,200 mg,acyclovir capsule,GELATIN
+0093-8940,33261-419,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+0093-8940,33261-419,200 mg,acyclovir capsule,D&amp;C RED NO. 28
+0093-8940,33261-419,200 mg,acyclovir capsule,D&amp;C RED NO. 33
+0093-8940,33261-419,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+0093-8940,33261-419,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+0093-8940,33261-419,200 mg,acyclovir capsule,FD&amp;C RED NO. 40
+0093-8940,33261-419,200 mg,acyclovir capsule,D&amp;C YELLOW NO. 10
+0093-8940,0093-8943,200 mg,acyclovir tablet,ACYCLOVIR
+0093-8940,0093-8943,400 mg,acyclovir tablet,SILICON DIOXIDE
+0093-8940,0093-8943,400 mg,acyclovir tablet,LACTOSE MONOHYDRATE
+0093-8940,0093-8943,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+0093-8940,0093-8943,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0093-8940,0093-8943,400 mg,acyclovir tablet,POVIDONES
+0093-8940,0093-8943,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0093-8940,0093-8943,400 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+0093-8940,0093-8947,25  in 1 BLISTER PACK,acyclovir tablet,ACYCLOVIR
+0093-8940,0093-8947,800 mg,acyclovir tablet,SILICON DIOXIDE
+0093-8940,0093-8947,800 mg,acyclovir tablet,LACTOSE MONOHYDRATE
+0093-8940,0093-8947,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+0093-8940,0093-8947,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0093-8940,0093-8947,800 mg,acyclovir tablet,POVIDONES
+0093-8940,0093-8947,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+63304-652,10544-089,200 mg,acyclovir capsule,ACYCLOVIR
+63304-652,10544-089,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+63304-652,10544-089,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+63304-652,10544-089,200 mg,acyclovir capsule,"STARCH, CORN"
+63304-652,10544-089,200 mg,acyclovir capsule,GELATIN
+63304-652,10544-089,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+63304-652,10544-089,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+63304-652,10544-089,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+63304-652,63304-504,200 mg,acyclovir tablet,ACYCLOVIR
+63304-652,63304-504,400 mg,acyclovir tablet,SILICON DIOXIDE
+63304-652,63304-504,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+63304-652,63304-504,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+63304-652,63304-504,400 mg,acyclovir tablet,"STARCH, CORN"
+63304-652,63304-504,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A CORN
+0378-2200,54868-3996,200 mg,acyclovir capsule,ACYCLOVIR
+0378-2200,54868-3996,200 mg,acyclovir capsule,SILICON DIOXIDE
+0378-2200,54868-3996,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+0378-2200,54868-3996,200 mg,acyclovir capsule,"STARCH, CORN"
+0378-2200,54868-3996,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+0378-2200,54868-3996,200 mg,acyclovir capsule,GELATIN
+0378-2200,54868-3996,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+0378-2200,54868-3996,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+0378-2200,54868-3996,200 mg,acyclovir capsule,FD&amp;C RED NO. 3
+0378-2200,54868-3996,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+0378-2200,54868-3996,200 mg,acyclovir capsule,D&amp;C YELLOW NO. 10
+0378-2200,54868-3996,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+0378-2200,54868-3996,200 mg,acyclovir capsule,FD&amp;C RED NO. 40
+0378-2200,54868-3996,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+0378-2200,0378-0253,200 mg,acyclovir tablet,ACYCLOVIR
+0378-2200,0378-0253,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+0378-2200,0378-0253,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+0378-2200,0378-0253,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0378-2200,0378-0253,400 mg,acyclovir tablet,POVIDONE
+0378-2200,0378-0253,400 mg,acyclovir tablet,SODIUM LAURYL SULFATE
+0378-2200,0378-0302,400 mg,acyclovir tablet,Acyclovir
+0378-2200,0378-0302,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+0378-2200,0378-0302,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+0378-2200,0378-0302,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0378-2200,0378-0302,800 mg,acyclovir tablet,POVIDONE
+0378-2200,0378-0302,800 mg,acyclovir tablet,SODIUM LAURYL SULFATE
+63304-652,21695-009,200 mg,acyclovir capsule,Acyclovir
+63304-652,21695-009,200 mg,acyclovir capsule,lactose monohydrate
+63304-652,21695-009,200 mg,acyclovir capsule,magnesium stearate
+63304-652,21695-009,200 mg,acyclovir capsule,"STARCH, CORN"
+63304-652,21695-009,200 mg,acyclovir capsule,gelatin
+63304-652,21695-009,200 mg,acyclovir capsule,titanium dioxide
+63304-652,21695-009,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+63304-652,63304-504,200 mg,acyclovir tablet,Acyclovir
+63304-652,63304-504,400.00 mg,acyclovir tablet,colloidal silicon dioxide
+63304-652,63304-504,400.00 mg,acyclovir tablet,magnesium stearate
+63304-652,63304-504,400.00 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+63304-652,63304-504,400.00 mg,acyclovir tablet,"STARCH, CORN"
+63304-652,63304-504,400.00 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+63304-652,63304-505,400.00 mg,acyclovir tablet,Acyclovir
+63304-652,63304-505,800.00 mg,acyclovir tablet,colloidal silicon dioxide
+63304-652,63304-505,800.00 mg,acyclovir tablet,magnesium stearate
+63304-652,63304-505,800.00 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+63304-652,63304-505,800.00 mg,acyclovir tablet,"STARCH, CORN"
+63304-652,63304-505,800.00 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+60505-0042,68084-107,200 mg,acyclovir capsule,ACYCLOVIR
+60505-0042,68084-107,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,68084-107,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,68084-107,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,68084-107,200 mg,acyclovir capsule,MICROCRYSTALLINE CELLULOSE
+60505-0042,68084-107,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+60505-0042,68084-107,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,68084-107,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,68084-107,200 mg,acyclovir capsule,AMMONIA
+60505-0042,68084-107,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,68084-107,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,68084-107,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,68084-107,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,68084-107,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,68084-107,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,68084-107,200 mg,acyclovir capsule,SHELLAC
+61442-114,50090-3902,200 mg,acyclovir capsule,ACYCLOVIR
+61442-114,50090-3902,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+61442-114,50090-3902,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+61442-114,50090-3902,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+61442-114,50090-3902,200 mg,acyclovir capsule,"STARCH, CORN"
+60505-0042,50090-0595,200 mg,acyclovir capsule,ACYCLOVIR
+60505-0042,50090-0595,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,50090-0595,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,50090-0595,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,50090-0595,200 mg,acyclovir capsule,MICROCRYSTALLINE CELLULOSE
+60505-0042,50090-0595,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+60505-0042,50090-0595,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,50090-0595,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,50090-0595,200 mg,acyclovir capsule,AMMONIA
+60505-0042,50090-0595,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,50090-0595,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,50090-0595,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,50090-0595,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,50090-0595,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,50090-0595,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,50090-0595,200 mg,acyclovir capsule,SHELLAC
+69076-146,50090-5610,200 mg,acyclovir capsule,ACYCLOVIR
+69076-146,50090-5610,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+69076-146,50090-5610,200 mg,acyclovir capsule,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69076-146,50090-5610,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+69076-146,50090-5610,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+69076-146,50090-5610,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+69076-146,50090-5610,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+69076-146,50090-5610,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+69076-146,50090-5610,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+69076-146,50090-5610,200 mg,acyclovir capsule,FD&amp;C RED NO. 40
+69076-146,50090-5610,200 mg,acyclovir capsule,D&amp;C YELLOW NO. 10
+69076-146,50090-5610,200 mg,acyclovir capsule,BROWN IRON OXIDE
+69076-146,50090-5610,200 mg,acyclovir capsule,SHELLAC
+69076-146,50090-5610,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+61442-111,50090-0596,200 mg,acyclovir capsule,ACYCLOVIR
+61442-111,50090-0596,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+61442-111,50090-0596,200 mg,acyclovir capsule,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-111,50090-0596,200 mg,acyclovir capsule,SODIUM LAURETH-3 SULFATE
+61442-111,50090-0596,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,42291-017,200 mg,acyclovir capsule,ACYCLOVIR
+60505-0042,42291-017,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,42291-017,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,42291-017,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,42291-017,200 mg,acyclovir capsule,"CELLULOSE, MICROCRYSTALLINE"
+60505-0042,42291-017,200 mg,acyclovir capsule,GELATIN
+60505-0042,42291-017,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,42291-017,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,42291-017,200 mg,acyclovir capsule,AMMONIA
+60505-0042,42291-017,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,42291-017,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,42291-017,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,42291-017,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,42291-017,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,42291-017,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,42291-017,200 mg,acyclovir capsule,SHELLAC
+0093-8940,10544-101,200 mg,acyclovir capsule,ACYCLOVIR
+0093-8940,10544-101,200 mg,acyclovir capsule,"STARCH, CORN"
+0093-8940,10544-101,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+0093-8940,10544-101,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+0093-8940,10544-101,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+0093-8940,10544-101,200 mg,acyclovir capsule,GELATIN
+0093-8940,10544-101,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+0093-8940,10544-101,200 mg,acyclovir capsule,D&amp;C RED NO. 28
+0093-8940,10544-101,200 mg,acyclovir capsule,D&amp;C RED NO. 33
+0093-8940,10544-101,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+0093-8940,10544-101,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+0093-8940,10544-101,200 mg,acyclovir capsule,FD&amp;C RED NO. 40
+0093-8940,10544-101,200 mg,acyclovir capsule,D&amp;C YELLOW NO. 10
+75834-124,71335-1013,200 mg,acyclovir capsule,ACYCLOVIR
+75834-124,71335-1013,200 mg,acyclovir capsule,"STARCH, CORN"
+75834-124,71335-1013,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+75834-124,71335-1013,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+75834-124,71335-1013,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+75834-124,71335-1013,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+75834-124,71335-1013,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+75834-124,71335-1013,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,71335-0470,200 mg,acyclovir capsule,ACYCLOVIR
+60505-0042,71335-0470,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,71335-0470,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,71335-0470,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,71335-0470,200 mg,acyclovir capsule,MICROCRYSTALLINE CELLULOSE
+60505-0042,71335-0470,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+60505-0042,71335-0470,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,71335-0470,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,71335-0470,200 mg,acyclovir capsule,AMMONIA
+60505-0042,71335-0470,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,71335-0470,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,71335-0470,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,71335-0470,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,71335-0470,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,71335-0470,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,71335-0470,200 mg,acyclovir capsule,SHELLAC
+75834-124,71335-1013,200 mg,acyclovir capsule,ACYCLOVIR
+75834-124,71335-1013,200 mg,acyclovir capsule,"STARCH, CORN"
+75834-124,71335-1013,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+75834-124,71335-1013,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+75834-124,71335-1013,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+75834-124,71335-1013,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+75834-124,71335-1013,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+75834-124,71335-1013,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+69076-146,71335-0280,200 mg,acyclovir  capsule,ACYCLOVIR
+69076-146,71335-0280,200 mg,acyclovir  capsule,Lactose Monohydrate
+69076-146,71335-0280,200 mg,acyclovir  capsule,Sodium Starch Glycolate Type A Potato
+69076-146,71335-0280,200 mg,acyclovir  capsule,Sodium Lauryl Sulfate
+69076-146,71335-0280,200 mg,acyclovir  capsule,Magnesium Stearate
+69076-146,71335-0280,200 mg,acyclovir  capsule,FD&amp;C BLUE NO. 1
+69076-146,71335-0280,200 mg,acyclovir  capsule,"GELATIN, UNSPECIFIED"
+69076-146,71335-0280,200 mg,acyclovir  capsule,TITANIUM DIOXIDE
+69076-146,71335-0280,200 mg,acyclovir  capsule,FD&amp;C BLUE NO. 2
+69076-146,71335-0280,200 mg,acyclovir  capsule,FD&amp;C RED NO. 40
+69076-146,71335-0280,200 mg,acyclovir  capsule,D&amp;C YELLOW NO. 10
+69076-146,71335-0280,200 mg,acyclovir  capsule,BROWN IRON OXIDE
+69076-146,71335-0280,200 mg,acyclovir  capsule,SHELLAC
+69076-146,71335-0280,200 mg,acyclovir  capsule,PROPYLENE GLYCOL
+61442-114,63629-7636,200 mg,acyclovir capsule,ACYCLOVIR
+61442-114,63629-7636,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+61442-114,63629-7636,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+61442-114,63629-7636,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+61442-114,63629-7636,200 mg,acyclovir capsule,"STARCH, CORN"
+0904-5789,55154-7629,200 mg,acyclovir capsule,ACYCLOVIR
+0904-5789,55154-7629,200 mg,acyclovir capsule,SILICON DIOXIDE
+0904-5789,55154-7629,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+0904-5789,55154-7629,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+0904-5789,55154-7629,200 mg,acyclovir capsule,MICROCRYSTALLINE CELLULOSE
+0904-5789,55154-7629,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+0904-5789,55154-7629,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+0904-5789,55154-7629,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+0904-5789,55154-7629,200 mg,acyclovir capsule,AMMONIA
+0904-5789,55154-7629,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+0904-5789,55154-7629,200 mg,acyclovir capsule,BUTYL ALCOHOL
+0904-5789,55154-7629,200 mg,acyclovir capsule,ALCOHOL
+0904-5789,55154-7629,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+0904-5789,55154-7629,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+0904-5789,55154-7629,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+0904-5789,55154-7629,200 mg,acyclovir capsule,SHELLAC
+60505-0042,70934-491,200 mg,acyclovir capsule,ACYCLOVIR
+60505-0042,70934-491,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,70934-491,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,70934-491,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,70934-491,200 mg,acyclovir capsule,"CELLULOSE, MICROCRYSTALLINE"
+60505-0042,70934-491,200 mg,acyclovir capsule,GELATIN
+60505-0042,70934-491,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,70934-491,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,70934-491,200 mg,acyclovir capsule,AMMONIA
+60505-0042,70934-491,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,70934-491,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,70934-491,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,70934-491,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,70934-491,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,70934-491,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,70934-491,200 mg,acyclovir capsule,SHELLAC
+69076-146,70934-800,200 mg,acyclovir capsule,ACYCLOVIR
+69076-146,70934-800,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+69076-146,70934-800,200 mg,acyclovir capsule,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69076-146,70934-800,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+69076-146,70934-800,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+69076-146,70934-800,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+69076-146,70934-800,200 mg,acyclovir capsule,GELATIN
+69076-146,70934-800,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+69076-146,70934-800,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+69076-146,70934-800,200 mg,acyclovir capsule,FD&amp;C RED NO. 40
+69076-146,70934-800,200 mg,acyclovir capsule,D&amp;C YELLOW NO. 10
+69076-146,70934-800,200 mg,acyclovir capsule,BROWN IRON OXIDE
+69076-146,70934-800,200 mg,acyclovir capsule,SHELLAC
+69076-146,70934-800,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,61919-331,200 mg,acyclovir capsule,ACYCLOVIR
+60505-0042,61919-331,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,61919-331,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,61919-331,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,61919-331,200 mg,acyclovir capsule,"CELLULOSE, MICROCRYSTALLINE"
+60505-0042,61919-331,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,61919-331,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,61919-331,200 mg,acyclovir capsule,AMMONIA
+60505-0042,61919-331,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,61919-331,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,61919-331,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,61919-331,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,61919-331,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,61919-331,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,61919-331,200 mg,acyclovir capsule,GELATIN
+60505-0042,61919-331,200 mg,acyclovir capsule,SHELLAC
+60505-0042,60429-012,200 mg,acyclovir capsule,ACYCLOVIR
+60505-0042,60429-012,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,60429-012,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,60429-012,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,60429-012,200 mg,acyclovir capsule,"CELLULOSE, MICROCRYSTALLINE"
+60505-0042,60429-012,200 mg,acyclovir capsule,GELATIN
+60505-0042,60429-012,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,60429-012,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,60429-012,200 mg,acyclovir capsule,AMMONIA
+60505-0042,60429-012,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,60429-012,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,60429-012,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,60429-012,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,60429-012,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,60429-012,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,60429-012,200 mg,acyclovir capsule,SHELLAC
+0093-8940,52959-517,200 mg,acyclovir capsule,ACYCLOVIR
+0093-8940,52959-517,200 mg,acyclovir capsule,"STARCH, CORN"
+0093-8940,52959-517,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+0093-8940,52959-517,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+0093-8940,52959-517,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+0093-8940,52959-517,200 mg,acyclovir capsule,GELATIN
+0093-8940,52959-517,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+0093-8940,52959-517,200 mg,acyclovir capsule,D&amp;C RED NO. 28
+0093-8940,52959-517,200 mg,acyclovir capsule,D&amp;C RED NO. 33
+0093-8940,52959-517,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+0093-8940,52959-517,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+0093-8940,52959-517,200 mg,acyclovir capsule,FD&amp;C RED NO. 40
+0093-8940,52959-517,200 mg,acyclovir capsule,D&amp;C YELLOW NO. 10
+69076-146,55700-651,200 mg,acyclovir  capsule,Acyclovir
+69076-146,55700-651,200 mg,acyclovir  capsule,Lactose Monohydrate
+69076-146,55700-651,200 mg,acyclovir  capsule,Sodium Starch Glycolate Type A Potato
+69076-146,55700-651,200 mg,acyclovir  capsule,Sodium Lauryl Sulfate
+69076-146,55700-651,200 mg,acyclovir  capsule,Magnesium Stearate
+69076-146,55700-651,200 mg,acyclovir  capsule,FD&amp;C BLUE NO. 1
+69076-146,55700-651,200 mg,acyclovir  capsule,GELATIN
+69076-146,55700-651,200 mg,acyclovir  capsule,TITANIUM DIOXIDE
+69076-146,55700-651,200 mg,acyclovir  capsule,FD&amp;C BLUE NO. 2
+69076-146,55700-651,200 mg,acyclovir  capsule,FD&amp;C RED NO. 40
+69076-146,55700-651,200 mg,acyclovir  capsule,D&amp;C YELLOW NO. 10
+69076-146,55700-651,200 mg,acyclovir  capsule,BROWN IRON OXIDE
+69076-146,55700-651,200 mg,acyclovir  capsule,SHELLAC
+69076-146,55700-651,200 mg,acyclovir  capsule,PROPYLENE GLYCOL
+60505-0042,0904-5789,200 mg,acyclovir capsule,Acyclovir
+60505-0042,0904-5789,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,0904-5789,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,0904-5789,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,0904-5789,200 mg,acyclovir capsule,MICROCRYSTALLINE CELLULOSE
+60505-0042,0904-5789,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+60505-0042,0904-5789,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,0904-5789,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,0904-5789,200 mg,acyclovir capsule,AMMONIA
+60505-0042,0904-5789,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,0904-5789,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,0904-5789,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,0904-5789,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,0904-5789,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,0904-5789,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,0904-5789,200 mg,acyclovir capsule,SHELLAC
+61442-114,68071-2299,200 mg,acyclovir capsule,ACYCLOVIR
+61442-114,68071-2299,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+61442-114,68071-2299,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+61442-114,68071-2299,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+61442-114,68071-2299,200 mg,acyclovir capsule,"STARCH, CORN"
+75834-124,68071-2235,200 mg,acyclovir capsule,ACYCLOVIR
+75834-124,68071-2235,200 mg,acyclovir capsule,"STARCH, CORN"
+75834-124,68071-2235,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+75834-124,68071-2235,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+75834-124,68071-2235,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+75834-124,68071-2235,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+75834-124,68071-2235,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+75834-124,68071-2235,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+75834-124,68071-4528,200 mg,acyclovir capsule,ACYCLOVIR
+75834-124,68071-4528,200 mg,acyclovir capsule,"STARCH, CORN"
+75834-124,68071-4528,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+75834-124,68071-4528,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+75834-124,68071-4528,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+75834-124,68071-4528,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+75834-124,68071-4528,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+75834-124,68071-4528,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+72578-002,68071-2526,200 mg,acyclovir capsule,ACYCLOVIR
+72578-002,68071-2526,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+72578-002,68071-2526,200 mg,acyclovir capsule,FD&amp;C RED NO. 3
+72578-002,68071-2526,200 mg,acyclovir capsule,GELATIN
+72578-002,68071-2526,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+72578-002,68071-2526,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+72578-002,68071-2526,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+72578-002,68071-2526,200 mg,acyclovir capsule,"STARCH, CORN"
+72578-002,68071-2526,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,43063-826,200 mg,acyclovir capsule,ACYCLOVIR
+60505-0042,43063-826,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,43063-826,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,43063-826,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,43063-826,200 mg,acyclovir capsule,"CELLULOSE, MICROCRYSTALLINE"
+60505-0042,43063-826,200 mg,acyclovir capsule,GELATIN
+60505-0042,43063-826,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,43063-826,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,43063-826,200 mg,acyclovir capsule,AMMONIA
+60505-0042,43063-826,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,43063-826,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,43063-826,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,43063-826,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,43063-826,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,43063-826,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,43063-826,200 mg,acyclovir capsule,SHELLAC
+61442-111,63187-182,200 mg,acyclovir capsule,ACYCLOVIR
+61442-111,63187-182,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+61442-111,63187-182,200 mg,acyclovir capsule,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-111,63187-182,200 mg,acyclovir capsule,SODIUM LAURETH-3 SULFATE
+61442-111,63187-182,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,71205-243,200 mg,acyclovir capsule,Acyclovir
+60505-0042,71205-243,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,71205-243,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,71205-243,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,71205-243,200 mg,acyclovir capsule,MICROCRYSTALLINE CELLULOSE
+60505-0042,71205-243,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+60505-0042,71205-243,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,71205-243,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,71205-243,200 mg,acyclovir capsule,AMMONIA
+60505-0042,71205-243,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,71205-243,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,71205-243,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,71205-243,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,71205-243,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,71205-243,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,71205-243,200 mg,acyclovir capsule,SHELLAC
+69076-146,71205-209,200 mg,acyclovir capsule,Acyclovir
+69076-146,71205-209,200 mg,acyclovir capsule,Lactose Monohydrate
+69076-146,71205-209,200 mg,acyclovir capsule,Sodium Starch Glycolate Type A Potato
+69076-146,71205-209,200 mg,acyclovir capsule,Sodium Lauryl Sulfate
+69076-146,71205-209,200 mg,acyclovir capsule,Magnesium Stearate
+69076-146,71205-209,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+69076-146,71205-209,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+69076-146,71205-209,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+69076-146,71205-209,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+69076-146,71205-209,200 mg,acyclovir capsule,FD&amp;C RED NO. 40
+69076-146,71205-209,200 mg,acyclovir capsule,D&amp;C YELLOW NO. 10
+69076-146,71205-209,200 mg,acyclovir capsule,BROWN IRON OXIDE
+69076-146,71205-209,200 mg,acyclovir capsule,SHELLAC
+69076-146,71205-209,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+0093-8940,63187-154,200 mg,acyclovir capsule,ACYCLOVIR
+0093-8940,63187-154,200 mg,acyclovir capsule,"STARCH, CORN"
+0093-8940,63187-154,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+0093-8940,63187-154,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+0093-8940,63187-154,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+0093-8940,63187-154,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+0093-8940,63187-154,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+0093-8940,63187-154,200 mg,acyclovir capsule,D&amp;C RED NO. 28
+0093-8940,63187-154,200 mg,acyclovir capsule,D&amp;C RED NO. 33
+0093-8940,63187-154,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+0093-8940,63187-154,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+0093-8940,63187-154,200 mg,acyclovir capsule,INDIGOTINDISULFONATE SODIUM
+0093-8940,63187-154,200 mg,acyclovir capsule,FD&amp;C RED NO. 40
+0093-8940,63187-154,200 mg,acyclovir capsule,D&amp;C YELLOW NO. 10
+60505-0042,71205-243,200 mg,acyclovir capsule,Acyclovir
+60505-0042,71205-243,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,71205-243,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,71205-243,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,71205-243,200 mg,acyclovir capsule,MICROCRYSTALLINE CELLULOSE
+60505-0042,71205-243,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+60505-0042,71205-243,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,71205-243,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,71205-243,200 mg,acyclovir capsule,AMMONIA
+60505-0042,71205-243,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,71205-243,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,71205-243,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,71205-243,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,71205-243,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,71205-243,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,71205-243,200 mg,acyclovir capsule,SHELLAC
+69076-146,67296-1543,200 mg,acyclovir capsule,ACYCLOVIR
+69076-146,67296-1543,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+69076-146,67296-1543,200 mg,acyclovir capsule,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69076-146,67296-1543,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+69076-146,67296-1543,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+69076-146,67296-1543,200 mg,acyclovir capsule,GELATIN
+69076-146,67296-1543,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+69076-146,67296-1543,200 mg,acyclovir capsule,FD&amp;C RED NO. 40
+69076-146,67296-1543,200 mg,acyclovir capsule,D&amp;C YELLOW NO. 10
+69076-146,67296-1543,200 mg,acyclovir capsule,BROWN IRON OXIDE
+69076-146,67296-1543,200 mg,acyclovir capsule,SHELLAC
+69076-146,67296-1543,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+69076-146,67296-1543,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+69076-146,67296-1543,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+75834-124,67296-1723,200 mg,acyclovir capsule,ACYCLOVIR
+75834-124,67296-1723,200 mg,acyclovir capsule,"STARCH, CORN"
+75834-124,67296-1723,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+75834-124,67296-1723,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+75834-124,67296-1723,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+75834-124,67296-1723,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+75834-124,67296-1723,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+75834-124,67296-1723,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,67296-1108,200 mg,acyclovir capsule,ACYCLOVIR
+60505-0042,67296-1108,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,67296-1108,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,67296-1108,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,67296-1108,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,67296-1108,200 mg,acyclovir capsule,"CELLULOSE, MICROCRYSTALLINE"
+60505-0042,67296-1108,200 mg,acyclovir capsule,GELATIN
+60505-0042,67296-1108,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,67296-1108,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,67296-1108,200 mg,acyclovir capsule,AMMONIA
+60505-0042,67296-1108,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,67296-1108,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,67296-1108,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,67296-1108,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,67296-1108,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,67296-1108,200 mg,acyclovir capsule,SHELLAC
+0093-8940,67296-0240,200 mg,acyclovir capsule,ACYCLOVIR
+0093-8940,67296-0240,200 mg,acyclovir capsule,D&amp;C RED NO. 33
+0093-8940,67296-0240,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+0093-8940,67296-0240,200 mg,acyclovir capsule,"STARCH, CORN"
+0093-8940,67296-0240,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+0093-8940,67296-0240,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+0093-8940,67296-0240,200 mg,acyclovir capsule,SODIUM LAURYL SULFATE
+0093-8940,67296-0240,200 mg,acyclovir capsule,GELATIN
+0093-8940,67296-0240,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+0093-8940,67296-0240,200 mg,acyclovir capsule,ALUMINUM OXIDE
+0093-8940,67296-0240,200 mg,acyclovir capsule,D&amp;C RED NO. 28
+0093-8940,67296-0240,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+0093-8940,67296-0240,200 mg,acyclovir capsule,INDIGOTINDISULFONATE SODIUM
+0093-8940,67296-0240,200 mg,acyclovir capsule,D&amp;C YELLOW NO. 10
+0093-8940,67296-0240,200 mg,acyclovir capsule,FD&amp;C RED NO. 40
+61442-111,67296-0656,200 mg,acyclovir capsule,ACYCLOVIR
+61442-111,67296-0656,200 mg,acyclovir capsule,LACTOSE MONOHYDRATE
+61442-111,67296-0656,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+61442-111,67296-0656,200 mg,acyclovir capsule,SODIUM LAURETH SULFATE
+61442-111,67296-0656,200 mg,acyclovir capsule,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-229,70518-2496,200 mg,acyclovir capsule,ACYCLOVIR
+23155-229,70518-2496,200 mg,acyclovir capsule,"CELLULOSE, MICROCRYSTALLINE"
+23155-229,70518-2496,200 mg,acyclovir capsule,POVIDONE K25
+23155-229,70518-2496,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+23155-229,70518-2496,200 mg,acyclovir capsule,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-229,70518-2496,200 mg,acyclovir capsule,GELATIN
+23155-229,70518-2496,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 2
+23155-229,70518-2496,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+23155-229,70518-2496,200 mg,acyclovir capsule,SHELLAC
+23155-229,70518-2496,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+23155-229,70518-2496,200 mg,acyclovir capsule,AMMONIA
+23155-229,70518-2496,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+23155-229,70518-2496,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+23155-229,70518-2496,200 mg,acyclovir capsule,"STARCH, CORN"
+60505-0042,53002-2450,200 mg,acyclovir capsule,ACYCLOVIR
+60505-0042,53002-2450,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,53002-2450,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,53002-2450,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,53002-2450,200 mg,acyclovir capsule,MICROCRYSTALLINE CELLULOSE
+60505-0042,53002-2450,200 mg,acyclovir capsule,"GELATIN, UNSPECIFIED"
+60505-0042,53002-2450,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,53002-2450,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,53002-2450,200 mg,acyclovir capsule,AMMONIA
+60505-0042,53002-2450,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,53002-2450,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,53002-2450,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,53002-2450,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,53002-2450,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,53002-2450,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,53002-2450,200 mg,acyclovir capsule,SHELLAC
+60505-0042,60760-652,200 mg,acyclovir capsule,ACYCLOVIR
+60505-0042,60760-652,200 mg,acyclovir capsule,FERROSOFERRIC OXIDE
+60505-0042,60760-652,200 mg,acyclovir capsule,SILICON DIOXIDE
+60505-0042,60760-652,200 mg,acyclovir capsule,CROSCARMELLOSE SODIUM
+60505-0042,60760-652,200 mg,acyclovir capsule,MAGNESIUM STEARATE
+60505-0042,60760-652,200 mg,acyclovir capsule,"CELLULOSE, MICROCRYSTALLINE"
+60505-0042,60760-652,200 mg,acyclovir capsule,GELATIN
+60505-0042,60760-652,200 mg,acyclovir capsule,FD&amp;C BLUE NO. 1
+60505-0042,60760-652,200 mg,acyclovir capsule,TITANIUM DIOXIDE
+60505-0042,60760-652,200 mg,acyclovir capsule,AMMONIA
+60505-0042,60760-652,200 mg,acyclovir capsule,BUTYL ALCOHOL
+60505-0042,60760-652,200 mg,acyclovir capsule,ALCOHOL
+60505-0042,60760-652,200 mg,acyclovir capsule,ISOPROPYL ALCOHOL
+60505-0042,60760-652,200 mg,acyclovir capsule,POTASSIUM HYDROXIDE
+60505-0042,60760-652,200 mg,acyclovir capsule,PROPYLENE GLYCOL
+60505-0042,60760-652,200 mg,acyclovir capsule,SHELLAC
+70700-107,63629-2327,50 mg  in 1 g,acyclovir ointment,ACYCLOVIR
+70700-107,63629-2327,50 mg  in 1 g,acyclovir ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+70700-107,63629-2328,50 mg  in 1 g,acyclovir ointment,ACYCLOVIR
+70700-107,63629-2328,50 mg  in 1 g,acyclovir ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+72578-082,68071-2488,50 mg  in 1 g,acyclovir ointment,ACYCLOVIR
+72578-082,68071-2488,50 mg  in 1 g,acyclovir ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+63646-300,68071-5157,50 mg  in 1 g,acyclovir ointment,ACYCLOVIR
+63646-300,68071-5157,50 mg  in 1 g,acyclovir ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+0472-0082,17856-0083,200 mg  in 5 mL,acyclovir suspension,ACYCLOVIR
+0472-0082,17856-0083,200 mg  in 5 mL,acyclovir suspension,CARBOXYMETHYLCELLULOSE SODIUM
+0472-0082,17856-0083,200 mg  in 5 mL,acyclovir suspension,GLYCERIN
+0472-0082,17856-0083,200 mg  in 5 mL,acyclovir suspension,METHYLPARABEN
+0472-0082,17856-0083,200 mg  in 5 mL,acyclovir suspension,"CELLULOSE, MICROCRYSTALLINE"
+0472-0082,17856-0083,200 mg  in 5 mL,acyclovir suspension,PROPYLPARABEN
+0472-0082,17856-0083,200 mg  in 5 mL,acyclovir suspension,WATER
+0472-0082,17856-0083,200 mg  in 5 mL,acyclovir suspension,SORBITOL
+50383-810-,54868-5687,200 mg  in 5 mL,acyclovir suspension,ACYCLOVIR
+50383-810-,54868-5687,200 mg  in 5 mL,acyclovir suspension,CARBOXYMETHYLCELLULOSE SODIUM
+50383-810-,54868-5687,200 mg  in 5 mL,acyclovir suspension,GLYCERIN
+50383-810-,54868-5687,200 mg  in 5 mL,acyclovir suspension,METHYLPARABEN
+50383-810-,54868-5687,200 mg  in 5 mL,acyclovir suspension,"CELLULOSE, MICROCRYSTALLINE"
+50383-810-,54868-5687,200 mg  in 5 mL,acyclovir suspension,PROPYLPARABEN
+50383-810-,54868-5687,200 mg  in 5 mL,acyclovir suspension,WATER
+50383-810-,54868-5687,200 mg  in 5 mL,acyclovir suspension,SORBITOL
+31722-777,50090-1567,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,50090-1567,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,50090-1567,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,50090-1567,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,50090-1567,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+31722-777,50090-1567,400 mg,acyclovir tablet,"POVIDONE, UNSPECIFIED"
+31722-777,50090-1567,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-777,31722-778,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,31722-778,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,31722-778,800 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-777,31722-778,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,31722-778,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+31722-777,31722-778,800 mg,acyclovir tablet,"POVIDONE, UNSPECIFIED"
+31722-777,31722-778,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-113,53217-313,800 mg,acyclovir tablet,ACYCLOVIR
+61442-113,53217-313,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,53217-313,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-113,53217-313,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-113,53217-313,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,53217-188,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,53217-188,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-791,53217-188,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,53217-188,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,53217-188,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,53217-188,400 mg,acyclovir tablet,"STARCH, PREGELATINIZED CORN"
+60505-5306,68084-108,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,68084-108,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,68084-108,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,68084-108,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,68084-108,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+60505-5306,60505-5307,1  in 1 BLISTER PACK; Type 0: Not a Combination Product,acyclovir tablet,ACYCLOVIR
+60505-5306,60505-5307,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,60505-5307,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,60505-5307,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,60505-5307,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+60429-310,43353-933,800 mg,acyclovir tablet,ACYCLOVIR
+60429-310,43353-933,800 mg,acyclovir tablet,SILICON DIOXIDE
+60429-310,43353-933,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60429-310,43353-933,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60429-310,43353-933,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+60505-5307,70934-697,800 mg,acyclovir tablet,ACYCLOVIR
+60505-5307,70934-697,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5307,70934-697,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5307,70934-697,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,70934-697,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0093-8943,12634-520,400 mg,acyclovir tablet,ACYCLOVIR
+0093-8943,12634-520,400 mg,acyclovir tablet,SILICON DIOXIDE
+0093-8943,12634-520,400 mg,acyclovir tablet,LACTOSE MONOHYDRATE
+0093-8943,12634-520,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+0093-8943,12634-520,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0093-8943,12634-520,400 mg,acyclovir tablet,POVIDONE K25
+0093-8943,12634-520,400 mg,acyclovir tablet,"STARCH, CORN"
+0093-8943,12634-520,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0093-8943,12634-520,400 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+0093-8943,12634-520,400 mg,acyclovir tablet,ALUMINUM OXIDE
+60505-5307,12634-697,800 mg,acyclovir tablet,ACYCLOVIR
+60505-5307,12634-697,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5307,12634-697,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5307,12634-697,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,12634-697,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+60505-5306,76420-050,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,76420-050,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,76420-050,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,76420-050,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,76420-050,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-791,50090-3254,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,50090-3254,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-791,50090-3254,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,50090-3254,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,50090-3254,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,50090-3254,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,50090-0644,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,50090-0644,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,50090-0644,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+61442-112,50090-0644,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,50090-0644,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+60505-5307,50090-0637,800 mg,acyclovir tablet,ACYCLOVIR
+60505-5307,50090-0637,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5307,50090-0637,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5307,50090-0637,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,50090-0637,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+60505-5306,50090-0643,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,50090-0643,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,50090-0643,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,50090-0643,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,50090-0643,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+60505-5306,50090-0642,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,50090-0642,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,50090-0642,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,50090-0642,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,50090-0642,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-792,50090-3795,800 mg,acyclovir tablet,ACYCLOVIR
+68382-792,50090-3795,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-792,50090-3795,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-792,50090-3795,800 mg,acyclovir tablet,SILICON DIOXIDE
+68382-792,50090-3795,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-792,50090-3795,800 mg,acyclovir tablet,"STARCH, CORN"
+68382-791,50090-3250,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,50090-3250,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-791,50090-3250,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,50090-3250,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,50090-3250,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,50090-3250,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,50090-0645,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,50090-0645,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,50090-0645,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+61442-112,50090-0645,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,50090-0645,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,50268-061,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,50268-061,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,50268-061,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,50268-061,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,50268-061,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,61442-113,1  in 1 BLISTER PACK; Type 0: Not a Combination Product,acyclovir tablet,ACYCLOVIR
+61442-112,61442-113,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,61442-113,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,61442-113,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,61442-113,800 mg,acyclovir tablet,"STARCH, CORN"
+0093-8947,10544-103,800 mg,acyclovir tablet,ACYCLOVIR
+0093-8947,10544-103,800 mg,acyclovir tablet,SILICON DIOXIDE
+0093-8947,10544-103,800 mg,acyclovir tablet,LACTOSE MONOHYDRATE
+0093-8947,10544-103,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+0093-8947,10544-103,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0093-8947,10544-103,800 mg,acyclovir tablet,POVIDONE
+0093-8947,10544-103,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0093-8943,10544-102,400 mg,acyclovir tablet,ACYCLOVIR
+0093-8943,10544-102,400 mg,acyclovir tablet,SILICON DIOXIDE
+0093-8943,10544-102,400 mg,acyclovir tablet,LACTOSE MONOHYDRATE
+0093-8943,10544-102,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+0093-8943,10544-102,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0093-8943,10544-102,400 mg,acyclovir tablet,POVIDONE
+0093-8943,10544-102,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0093-8943,10544-102,400 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+23155-227,71335-1645,400 mg,acyclovir tablet,ACYCLOVIR
+23155-227,71335-1645,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+23155-227,71335-1645,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-227,71335-1645,400 mg,acyclovir tablet,POVIDONE K25
+23155-227,71335-1645,400 mg,acyclovir tablet,SILICON DIOXIDE
+23155-227,71335-1645,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,71335-0225,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,71335-0225,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-791,71335-0225,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,71335-0225,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,71335-0225,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,71335-0225,400 mg,acyclovir tablet,"STARCH, CORN"
+68382-791,68382-792,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,68382-792,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-791,68382-792,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,68382-792,800 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,68382-792,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,68382-792,800 mg,acyclovir tablet,"STARCH, CORN"
+69117-0018,71335-1284,400 mg,acyclovir tablet,ACYCLOVIR
+69117-0018,71335-1284,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0018,71335-1284,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0018,71335-1284,400 mg,acyclovir tablet,POVIDONE K30
+69117-0018,71335-1284,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,71335-1381,800 mg,acyclovir tablet,ACYCLOVIR
+60505-5307,71335-1381,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5307,71335-1381,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5307,71335-1381,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,71335-1381,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+61442-112,71335-1053,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,71335-1053,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,71335-1053,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+61442-112,71335-1053,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,71335-1053,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,63629-7613,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,63629-7613,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-791,63629-7613,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,63629-7613,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,63629-7613,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,63629-7613,400 mg,acyclovir tablet,"STARCH, CORN"
+68382-791,68382-792,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,68382-792,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-791,68382-792,800 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,68382-792,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,68382-792,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,68382-792,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,63629-1678,800 mg,acyclovir tablet,ACYCLOVIR
+61442-113,63629-1678,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,63629-1678,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+61442-113,63629-1678,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-113,63629-1678,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-113,61442-112,800 mg,acyclovir tablet,ACYCLOVIR
+61442-113,61442-112,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,61442-112,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+61442-113,61442-112,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-113,61442-112,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,63629-1005,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,63629-1005,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,63629-1005,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,63629-1005,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,63629-1005,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,61442-113,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,61442-113,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,61442-113,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,61442-113,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,61442-113,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-227,71335-1757,400 mg,acyclovir tablet,ACYCLOVIR
+23155-227,71335-1757,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+23155-227,71335-1757,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-227,71335-1757,400 mg,acyclovir tablet,POVIDONE K25
+23155-227,71335-1757,400 mg,acyclovir tablet,SILICON DIOXIDE
+23155-227,71335-1757,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,63629-1193,800 mg,acyclovir tablet,ACYCLOVIR
+60505-5307,63629-1193,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5307,63629-1193,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5307,63629-1193,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,63629-1193,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+31722-777,71335-0323,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,71335-0323,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,71335-0323,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,71335-0323,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,71335-0323,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+31722-777,71335-0323,400 mg,acyclovir tablet,"POVIDONE, UNSPECIFIED"
+31722-777,71335-0323,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-777,31722-778,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,31722-778,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,31722-778,800 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-777,31722-778,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,31722-778,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+31722-777,31722-778,800 mg,acyclovir tablet,"POVIDONE, UNSPECIFIED"
+31722-777,31722-778,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+60505-5307,63629-1192,800 mg,acyclovir tablet,ACYCLOVIR
+60505-5307,63629-1192,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5307,63629-1192,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5307,63629-1192,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,63629-1192,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0018,71335-1111,400 mg,acyclovir tablet,ACYCLOVIR
+69117-0018,71335-1111,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0018,71335-1111,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0018,71335-1111,400 mg,acyclovir tablet,POVIDONE K30
+69117-0018,71335-1111,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+69117-0019,71335-1222,800 mg,acyclovir tablet,ACYCLOVIR
+69117-0019,71335-1222,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0019,71335-1222,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0019,71335-1222,800 mg,acyclovir tablet,POVIDONE K30
+69117-0019,71335-1222,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-113,63629-7639,800 mg,acyclovir tablet,ACYCLOVIR
+61442-113,63629-7639,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,63629-7639,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+61442-113,63629-7639,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-113,63629-7639,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0018,71335-1077,400 mg,acyclovir tablet,ACYCLOVIR
+69117-0018,71335-1077,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0018,71335-1077,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0018,71335-1077,400 mg,acyclovir tablet,POVIDONE K30
+69117-0018,71335-1077,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+50268-061,55154-4332,400 mg,acyclovir tablet,ACYCLOVIR
+50268-061,55154-4332,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+50268-061,55154-4332,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+50268-061,55154-4332,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+50268-061,55154-4332,400 mg,acyclovir tablet,"Starch, Corn"
+68382-791,58118-0791,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,58118-0791,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-791,58118-0791,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,58118-0791,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,58118-0791,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,58118-0791,400 mg,acyclovir tablet,"STARCH, CORN"
+31722-777,67046-335,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,67046-335,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,67046-335,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,67046-335,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,67046-335,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-777,67046-335,400 mg,acyclovir tablet,POVIDONE
+31722-777,67046-335,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+60505-5306,70934-557,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,70934-557,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,70934-557,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,70934-557,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,70934-557,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+60505-5306,60505-5307,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,60505-5307,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,60505-5307,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,60505-5307,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,60505-5307,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-113,70934-828,800 mg,acyclovir tablet,ACYCLOVIR
+61442-113,70934-828,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,70934-828,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-113,70934-828,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-113,70934-828,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-227,70934-465,400 mg,acyclovir tablet,ACYCLOVIR
+23155-227,70934-465,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+23155-227,70934-465,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-227,70934-465,400 mg,acyclovir tablet,POVIDONE K25
+23155-227,70934-465,400 mg,acyclovir tablet,SILICON DIOXIDE
+23155-227,70934-465,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+23155-227,23155-228,400 mg,acyclovir tablet,ACYCLOVIR
+23155-227,23155-228,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+23155-227,23155-228,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-227,23155-228,800 mg,acyclovir tablet,POVIDONE K25
+23155-227,23155-228,800 mg,acyclovir tablet,SILICON DIOXIDE
+23155-227,23155-228,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,70934-694,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,70934-694,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,70934-694,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,70934-694,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,70934-694,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+23155-228,70934-532,800 mg,acyclovir tablet,ACYCLOVIR
+23155-228,70934-532,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+23155-228,70934-532,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-228,70934-532,800 mg,acyclovir tablet,POVIDONE K25
+23155-228,70934-532,800 mg,acyclovir tablet,SILICON DIOXIDE
+23155-228,70934-532,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,70934-373,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,70934-373,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-791,70934-373,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,70934-373,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,70934-373,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,70934-373,400 mg,acyclovir tablet,"STARCH, CORN"
+69117-0019,70934-401,800 mg,acyclovir tablet,ACYCLOVIR
+69117-0019,70934-401,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0019,70934-401,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0019,70934-401,800 mg,acyclovir tablet,POVIDONE K30
+69117-0019,70934-401,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+69117-0018,70934-408,400 mg,acyclovir tablet,ACYCLOVIR
+69117-0018,70934-408,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0018,70934-408,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0018,70934-408,400 mg,acyclovir tablet,POVIDONE K30
+69117-0018,70934-408,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+23155-227,70934-512,400 mg,acyclovir tablet,ACYCLOVIR
+23155-227,70934-512,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+23155-227,70934-512,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-227,70934-512,400 mg,acyclovir tablet,POVIDONE K25
+23155-227,70934-512,400 mg,acyclovir tablet,SILICON DIOXIDE
+23155-227,70934-512,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,70934-354,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,70934-354,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,70934-354,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,70934-354,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,70934-354,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-777,70934-354,400 mg,acyclovir tablet,POVIDONE
+31722-777,70934-354,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-778,70934-313,800 mg,acyclovir tablet,ACYCLOVIR
+31722-778,70934-313,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-778,70934-313,800 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-778,70934-313,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-778,70934-313,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-778,70934-313,800 mg,acyclovir tablet,POVIDONE
+31722-778,70934-313,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,70934-131,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,70934-131,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-791,70934-131,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,70934-131,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,70934-131,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,70934-131,400 mg,acyclovir tablet,"STARCH, PREGELATINIZED CORN"
+68382-791,68382-792,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,68382-792,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-791,68382-792,800 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,68382-792,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,68382-792,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,68382-792,800 mg,acyclovir tablet,"STARCH, PREGELATINIZED CORN"
+60505-5307,61919-003,800 mg,acyclovir tablet,ACYCLOVIR
+60505-5307,61919-003,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5307,61919-003,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5307,61919-003,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,61919-003,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-778,61919-530,800 mg,acyclovir tablet,ACYCLOVIR
+31722-778,61919-530,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-778,61919-530,800 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-778,61919-530,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-778,61919-530,800 mg,acyclovir tablet,POVIDONE
+31722-778,61919-530,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-778,61919-530,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,61919-370,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,61919-370,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,61919-370,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,61919-370,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,61919-370,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-777,61919-654,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,61919-654,400 mg,acyclovir tablet,COLLOIDAL SILICON DIOXIDE
+31722-777,61919-654,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,61919-654,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,61919-654,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-777,61919-654,400 mg,acyclovir tablet,POVIDONE
+31722-777,61919-654,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,51407-145,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,51407-145,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,51407-145,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,51407-145,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,51407-145,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,61442-113,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,61442-113,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,61442-113,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,61442-113,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,61442-113,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,55700-664,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,55700-664,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-791,55700-664,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,55700-664,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,55700-664,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,55700-664,400 mg,acyclovir tablet,"STARCH, PREGELATINIZED CORN"
+68382-791,68382-792,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,68382-792,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-791,68382-792,800 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,68382-792,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,68382-792,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,68382-792,800 mg,acyclovir tablet,"STARCH, PREGELATINIZED CORN"
+60505-5307,0440-7033,800 mg,acyclovir tablet,ACYCLOVIR
+60505-5307,0440-7033,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5307,0440-7033,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5307,0440-7033,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,0440-7033,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+60505-5306,0904-5790,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,0904-5790,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,0904-5790,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,0904-5790,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,0904-5790,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-791,69677-104,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,69677-104,400 mg,acyclovir tablet,"STARCH, PREGELATINIZED CORN"
+68382-791,69677-104,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,69677-104,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,69677-104,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,69677-104,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-791,68382-792,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,68382-792,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-791,68382-792,800 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,68382-792,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,68382-792,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,68382-792,800 mg,acyclovir tablet,"STARCH, PREGELATINIZED CORN"
+0093-8943,66116-414,400 mg,acyclovir tablet,ACYCLOVIR
+0093-8943,66116-414,400 mg,acyclovir tablet,SILICON DIOXIDE
+0093-8943,66116-414,400 mg,acyclovir tablet,LACTOSE MONOHYDRATE
+0093-8943,66116-414,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+0093-8943,66116-414,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0093-8943,66116-414,400 mg,acyclovir tablet,POVIDONES
+0093-8943,66116-414,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0093-8943,66116-414,400 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+61442-112,51655-678,400 mg,acyclovir tablet,ACYCLOVIR
+61442-113,51655-099,800 mg,acyclovir tablet,ACYCLOVIR
+31722-777,51655-300,400 mg,acyclovir tablet,ACYCLOVIR
+31722-778,68071-3222,800 mg,acyclovir tablet,ACYCLOVIR
+31722-778,68071-3222,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-778,68071-3222,800 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-778,68071-3222,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-778,68071-3222,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-778,68071-3222,800 mg,acyclovir tablet,POVIDONE
+31722-778,68071-3222,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-792,66267-399,800 mg,acyclovir tablet,ACYCLOVIR
+68382-792,66267-399,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-792,66267-399,800 mg,acyclovir tablet,SILICON DIOXIDE
+68382-792,66267-399,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-792,66267-399,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-792,66267-399,800 mg,acyclovir tablet,"STARCH, PREGELATINIZED CORN"
+69117-0018,68071-5006,400 mg,acyclovir tablet,ACYCLOVIR
+69117-0018,68071-5006,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0018,68071-5006,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0018,68071-5006,400 mg,acyclovir tablet,POVIDONE K30
+69117-0018,68071-5006,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,68071-2287,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,68071-2287,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,68071-2287,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,68071-2287,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,68071-2287,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,68071-2447,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,68071-2447,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,68071-2447,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,68071-2447,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,68071-2447,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-227,68071-2279,400 mg,acyclovir tablet,ACYCLOVIR
+23155-227,68071-2279,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+23155-227,68071-2279,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-227,68071-2279,400 mg,acyclovir tablet,POVIDONE K25
+23155-227,68071-2279,400 mg,acyclovir tablet,SILICON DIOXIDE
+23155-227,68071-2279,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,68071-2501,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,68071-2501,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,68071-2501,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,68071-2501,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,68071-2501,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,68071-2506,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,68071-2506,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,68071-2506,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,68071-2506,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,68071-2506,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+60505-5306,68071-2247,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,68071-2247,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,68071-2247,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,68071-2247,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,68071-2247,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-777,68071-1841,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,68071-1841,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,68071-1841,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,68071-1841,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,68071-1841,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-777,68071-1841,400 mg,acyclovir tablet,POVIDONE
+31722-777,68071-1841,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0019,68071-4790,800 mg,acyclovir tablet,ACYCLOVIR
+69117-0019,68071-4790,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0019,68071-4790,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0019,68071-4790,800 mg,acyclovir tablet,POVIDONE K30
+69117-0019,68071-4790,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,68071-4799,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,68071-4799,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,68071-4799,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,68071-4799,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,68071-4799,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-777,68071-4799,400 mg,acyclovir tablet,POVIDONE
+31722-777,68071-4799,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+60505-5306,68071-5094,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,68071-5094,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,68071-5094,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,68071-5094,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,68071-5094,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+60505-5307,68071-5100,800 mg,acyclovir tablet,ACYCLOVIR
+60505-5307,68071-5100,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5307,68071-5100,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5307,68071-5100,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,68071-5100,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+23155-228,68071-5122,800 mg,acyclovir tablet,ACYCLOVIR
+23155-228,68071-5122,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+23155-228,68071-5122,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-228,68071-5122,800 mg,acyclovir tablet,POVIDONE K25
+23155-228,68071-5122,800 mg,acyclovir tablet,SILICON DIOXIDE
+23155-228,68071-5122,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-113,68071-2408,800 mg,acyclovir tablet,ACYCLOVIR
+61442-113,68071-2408,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,68071-2408,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-113,68071-2408,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-113,68071-2408,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-778,43063-589,800 mg,acyclovir tablet,ACYCLOVIR
+31722-778,43063-589,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-778,43063-589,800 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-778,43063-589,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-778,43063-589,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-778,43063-589,800 mg,acyclovir tablet,POVIDONE
+31722-778,43063-589,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-777,43063-928,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,43063-928,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,43063-928,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,43063-928,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,43063-928,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-777,43063-928,400 mg,acyclovir tablet,POVIDONE
+31722-777,43063-928,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,43063-340,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,43063-340,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,43063-340,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,43063-340,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,43063-340,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-777,54348-627,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,54348-627,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,54348-627,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,54348-627,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,54348-627,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-777,54348-627,400 mg,acyclovir tablet,POVIDONE
+31722-777,54348-627,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-778,54348-624,800 mg,acyclovir tablet,ACYCLOVIR
+31722-778,54348-624,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-778,54348-624,800 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-778,54348-624,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-778,54348-624,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-778,54348-624,800 mg,acyclovir tablet,POVIDONE
+31722-778,54348-624,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-113,68788-7923,800 mg,acyclovir tablet,ACYCLOVIR
+61442-113,68788-7923,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,68788-7923,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+61442-113,68788-7923,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-113,68788-7923,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0018,68788-7342,400 mg,acyclovir tablet,ACYCLOVIR
+69117-0018,68788-7342,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0018,68788-7342,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0018,68788-7342,400 mg,acyclovir tablet,POVIDONE K30
+69117-0018,68788-7342,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-792,68788-7378,800 mg,acyclovir tablet,ACYCLOVIR
+68382-792,68788-7378,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-792,68788-7378,800 mg,acyclovir tablet,SILICON DIOXIDE
+68382-792,68788-7378,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-792,68788-7378,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-792,68788-7378,800 mg,acyclovir tablet,"STARCH, CORN"
+68382-791,68788-7382,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,68788-7382,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-791,68788-7382,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,68788-7382,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,68788-7382,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,68788-7382,400 mg,acyclovir tablet,"STARCH, CORN"
+60505-5307,68788-7895,800 mg,acyclovir tablet,ACYCLOVIR
+60505-5307,68788-7895,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5307,68788-7895,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5307,68788-7895,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,68788-7895,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+60505-5306,68788-7760,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,68788-7760,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,68788-7760,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,68788-7760,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,68788-7760,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+31722-778,68788-7575,800 mg,acyclovir tablet,ACYCLOVIR
+31722-778,68788-7575,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-778,68788-7575,800 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-778,68788-7575,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-778,68788-7575,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+31722-778,68788-7575,800 mg,acyclovir tablet,"POVIDONE, UNSPECIFIED"
+31722-778,68788-7575,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-777,68788-7576,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,68788-7576,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,68788-7576,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,68788-7576,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,68788-7576,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+31722-777,68788-7576,400 mg,acyclovir tablet,"CROSPOVIDONE, UNSPECIFIED"
+31722-777,68788-7576,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0019,68788-7436,800 mg,acyclovir tablet,ACYCLOVIR
+69117-0019,68788-7436,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0019,68788-7436,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0019,68788-7436,800 mg,acyclovir tablet,POVIDONE K30
+69117-0019,68788-7436,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,63187-192,800 mg,acyclovir tablet,ACYCLOVIR
+60505-5307,63187-192,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5307,63187-192,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5307,63187-192,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,63187-192,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+31722-778,63187-574,800 mg,acyclovir tablet,ACYCLOVIR
+31722-778,63187-574,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-778,63187-574,800 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-778,63187-574,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-778,63187-574,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+31722-778,63187-574,800 mg,acyclovir tablet,"POVIDONE, UNSPECIFIED"
+31722-778,63187-574,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0018,71205-472,400 mg,acyclovir tablet,ACYCLOVIR
+69117-0018,71205-472,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0018,71205-472,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0018,71205-472,400 mg,acyclovir tablet,POVIDONE K30
+69117-0018,71205-472,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,71205-391,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,71205-391,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,71205-391,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,71205-391,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,71205-391,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+61442-112,71205-056,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,71205-056,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,71205-056,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+61442-112,71205-056,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,71205-056,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,61442-113,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,61442-113,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,61442-113,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+61442-112,61442-113,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,61442-113,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-777,63187-253,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,63187-253,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,63187-253,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,63187-253,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,63187-253,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+31722-777,63187-253,400 mg,acyclovir tablet,"POVIDONE, UNSPECIFIED"
+31722-777,63187-253,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-792,63187-366,800 mg,acyclovir tablet,ACYCLOVIR
+68382-792,63187-366,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+68382-792,63187-366,800 mg,acyclovir tablet,SILICON DIOXIDE
+68382-792,63187-366,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-792,63187-366,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-792,63187-366,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,55700-835,800 mg,acyclovir tablet,ACYCLOVIR
+61442-113,55700-835,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,55700-835,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-113,55700-835,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-113,55700-835,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-778,55700-786,800 mg,acyclovir tablet,ACYCLOVIR
+31722-778,55700-786,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-778,55700-786,800 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-778,55700-786,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-778,55700-786,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-778,55700-786,800 mg,acyclovir tablet,POVIDONE
+31722-778,55700-786,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,55700-539,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,55700-539,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,55700-539,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,55700-539,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,55700-539,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,42254-133,400.00 mg,acyclovir tablet,Acyclovir
+61442-112,42254-133,400.00 mg,acyclovir tablet,SILICON DIOXIDE
+61442-112,42254-133,400.00 mg,acyclovir tablet,magnesium stearate
+61442-112,42254-133,400.00 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,42254-133,400.00 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,42254-133,400.00 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,61442-113,400.00 mg,acyclovir tablet,Acyclovir
+61442-112,61442-113,800.00 mg,acyclovir tablet,SILICON DIOXIDE
+61442-112,61442-113,800.00 mg,acyclovir tablet,magnesium stearate
+61442-112,61442-113,800.00 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,61442-113,800.00 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,61442-113,800.00 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+60505-5306,67296-1707,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,67296-1707,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,67296-1707,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,67296-1707,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,67296-1707,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+63304-504,67296-0375,400 mg,acyclovir tablet,Acyclovir
+63304-504,67296-0375,400 mg,acyclovir tablet,SILICON DIOXIDE
+63304-504,67296-0375,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+63304-504,67296-0375,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+63304-504,67296-0375,400 mg,acyclovir tablet,"STARCH, CORN"
+63304-504,67296-0375,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,67296-0710,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,67296-0710,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,67296-0710,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,67296-0710,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,67296-0710,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,67296-1185,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,67296-1185,400 mg,acyclovir tablet,"STARCH, PREGELATINIZED CORN"
+68382-791,67296-1185,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-791,67296-1185,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,67296-1185,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,67296-1185,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+0093-8943,67296-1054,400 mg,acyclovir tablet,ACYCLOVIR
+0093-8943,67296-1054,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0093-8943,67296-1054,400 mg,acyclovir tablet,SILICON DIOXIDE
+0093-8943,67296-1054,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+0093-8943,67296-1054,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0093-8943,67296-1054,400 mg,acyclovir tablet,"STARCH, CORN"
+0093-8943,67296-1054,400 mg,acyclovir tablet,ALUMINUM OXIDE
+0093-8943,67296-1054,400 mg,acyclovir tablet,LACTOSE MONOHYDRATE
+0093-8943,67296-1054,400 mg,acyclovir tablet,POVIDONE K25
+0093-8943,67296-1054,400 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-777,67296-1089,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,67296-1089,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,67296-1089,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,67296-1089,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,67296-1089,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-777,67296-1089,400 mg,acyclovir tablet,POVIDONE
+31722-777,67296-1089,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0093-8947,67296-1219,800 mg,acyclovir tablet,ACYCLOVIR
+0093-8947,67296-1219,800 mg,acyclovir tablet,LACTOSE MONOHYDRATE
+0093-8947,67296-1219,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0093-8947,67296-1219,800 mg,acyclovir tablet,SILICON DIOXIDE
+0093-8947,67296-1219,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+0093-8947,67296-1219,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0093-8947,67296-1219,800 mg,acyclovir tablet,POVIDONE K25
+0093-8947,67296-1219,800 mg,acyclovir tablet,"STARCH, CORN"
+75834-122,67296-1625,400 mg,acyclovir tablet,ACYCLOVIR
+75834-122,67296-1625,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+75834-122,67296-1625,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+75834-122,67296-1625,400 mg,acyclovir tablet,"POVIDONE, UNSPECIFIED"
+75834-122,67296-1625,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+75834-122,67296-1625,400 mg,acyclovir tablet,TALC
+68382-791,67296-1185,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,67296-1185,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-791,67296-1185,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,67296-1185,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,67296-1185,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,67296-1185,400 mg,acyclovir tablet,"STARCH, PREGELATINIZED CORN"
+68382-792,67296-1193,800 mg,acyclovir tablet,ACYCLOVIR
+68382-792,67296-1193,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-792,67296-1193,800 mg,acyclovir tablet,"STARCH, PREGELATINIZED CORN"
+68382-792,67296-1193,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-792,67296-1193,800 mg,acyclovir tablet,SILICON DIOXIDE
+68382-792,67296-1193,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-778,67296-1300,800 mg,acyclovir tablet,ACYCLOVIR
+31722-778,67296-1300,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-778,67296-1300,800 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-778,67296-1300,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-778,67296-1300,800 mg,acyclovir tablet,POVIDONE
+31722-778,67296-1300,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-778,67296-1300,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,67296-1034,800 mg,acyclovir tablet,ACYCLOVIR
+60505-5307,67296-1034,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5307,67296-1034,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5307,67296-1034,800 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5307,67296-1034,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+69117-0018,70518-1942,400 mg,acyclovir tablet,ACYCLOVIR
+69117-0018,70518-1942,400 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+69117-0018,70518-1942,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+69117-0018,70518-1942,400 mg,acyclovir tablet,POVIDONE K30
+69117-0018,70518-1942,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,70518-2117,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,70518-2117,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,70518-2117,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,70518-2117,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,70518-2117,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-777,70518-2117,400 mg,acyclovir tablet,POVIDONE
+31722-777,70518-2117,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,70518-1332,400 mg,acyclovir tablet,ACYCLOVIR
+68382-791,70518-1332,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-791,70518-1332,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-791,70518-1332,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-791,70518-1332,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-791,70518-1332,400 mg,acyclovir tablet,"STARCH, CORN"
+31722-777,70518-2455,400 mg,acyclovir tablet,ACYCLOVIR
+31722-777,70518-2455,400 mg,acyclovir tablet,SILICON DIOXIDE
+31722-777,70518-2455,400 mg,acyclovir tablet,FERRIC OXIDE RED
+31722-777,70518-2455,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-777,70518-2455,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-777,70518-2455,400 mg,acyclovir tablet,POVIDONE
+31722-777,70518-2455,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+31722-778,70518-2518,800 mg,acyclovir tablet,ACYCLOVIR
+31722-778,70518-2518,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-778,70518-2518,800 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-778,70518-2518,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-778,70518-2518,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-778,70518-2518,800 mg,acyclovir tablet,POVIDONE
+31722-778,70518-2518,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+60505-5306,70518-0427,400 mg,acyclovir tablet,ACYCLOVIR
+60505-5306,70518-0427,400 mg,acyclovir tablet,SILICON DIOXIDE
+60505-5306,70518-0427,400 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+60505-5306,70518-0427,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+60505-5306,70518-0427,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+31722-778,53002-0270,800 mg,acyclovir tablet,ACYCLOVIR
+31722-778,53002-0270,800 mg,acyclovir tablet,SILICON DIOXIDE
+31722-778,53002-0270,800 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+31722-778,53002-0270,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+31722-778,53002-0270,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+31722-778,53002-0270,800 mg,acyclovir tablet,"POVIDONE, UNSPECIFIED"
+31722-778,53002-0270,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-113,53002-0271,800 mg,acyclovir tablet,ACYCLOVIR
+61442-113,53002-0271,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,53002-0271,800 mg,acyclovir tablet,MICROCRYSTALLINE CELLULOSE
+61442-113,53002-0271,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-113,53002-0271,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0093-8943,53808-0821,400 mg,acyclovir tablet,ACYCLOVIR
+0093-8943,53808-0821,400 mg,acyclovir tablet,SILICON DIOXIDE
+0093-8943,53808-0821,400 mg,acyclovir tablet,LACTOSE MONOHYDRATE
+0093-8943,53808-0821,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+0093-8943,53808-0821,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0093-8943,53808-0821,400 mg,acyclovir tablet,POVIDONE
+0093-8943,53808-0821,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0093-8943,53808-0821,400 mg,acyclovir tablet,FD&amp;C BLUE NO. 2
+0093-8943,0093-8947,30  in 1 BLISTER PACK,acyclovir tablet,ACYCLOVIR
+0093-8943,0093-8947,800 mg,acyclovir tablet,SILICON DIOXIDE
+0093-8943,0093-8947,800 mg,acyclovir tablet,LACTOSE MONOHYDRATE
+0093-8943,0093-8947,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+0093-8943,0093-8947,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0093-8943,0093-8947,800 mg,acyclovir tablet,POVIDONE
+0093-8943,0093-8947,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-112,53808-0628,400 mg,acyclovir tablet,ACYCLOVIR
+61442-112,53808-0628,400 mg,acyclovir tablet,"STARCH, CORN"
+61442-112,53808-0628,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-112,53808-0628,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-112,53808-0628,400 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0378-0302,53808-0609,800 mg,acyclovir tablet,ACYCLOVIR
+0378-0302,53808-0609,800 mg,acyclovir tablet,CROSCARMELLOSE SODIUM
+0378-0302,53808-0609,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+0378-0302,53808-0609,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+0378-0302,53808-0609,800 mg,acyclovir tablet,POVIDONES
+0378-0302,53808-0609,800 mg,acyclovir tablet,SODIUM LAURYL SULFATE
+63304-505,16590-003,800 mg,acyclovir tablet,ACYCLOVIR
+63304-505,16590-003,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+63304-505,16590-003,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+63304-505,63304-504,800 mg,acyclovir tablet,ACYCLOVIR
+63304-505,63304-504,400 mg,acyclovir tablet,MAGNESIUM STEARATE
+63304-505,63304-504,400 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+63304-505,63304-504,400 mg,acyclovir tablet,SILICON DIOXIDE
+68382-792,50436-0792,800 mg,acyclovir tablet,ACYCLOVIR
+68382-792,50436-0792,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+68382-792,50436-0792,800 mg,acyclovir tablet,SILICON DIOXIDE
+68382-792,50436-0792,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+68382-792,50436-0792,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+68382-792,50436-0792,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,72189-232,800 mg,acyclovir tablet,ACYCLOVIR
+61442-113,72189-232,800 mg,acyclovir tablet,MAGNESIUM STEARATE
+61442-113,72189-232,800 mg,acyclovir tablet,"STARCH, CORN"
+61442-113,72189-232,800 mg,acyclovir tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+61442-113,72189-232,800 mg,acyclovir tablet,"CELLULOSE, MICROCRYSTALLINE"
+61442-113,59746-325,800 mg,"valacyclovir hydrochloride tablet, film coated",VALACYCLOVIR HYDROCHLORIDE
+61442-113,59746-325,1 g,"valacyclovir hydrochloride tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+61442-113,59746-325,1 g,"valacyclovir hydrochloride tablet, film coated",FD&amp;C BLUE NO. 2
+61442-113,59746-325,1 g,"valacyclovir hydrochloride tablet, film coated",HYPROMELLOSES
+61442-113,59746-325,1 g,"valacyclovir hydrochloride tablet, film coated",TITANIUM DIOXIDE
+61442-113,59746-325,1 g,"valacyclovir hydrochloride tablet, film coated",MAGNESIUM STEARATE
+61442-113,59746-325,1 g,"valacyclovir hydrochloride tablet, film coated",POLYSORBATE 80
+61442-113,59746-325,1 g,"valacyclovir hydrochloride tablet, film coated",CROSPOVIDONE (15 MPA.S AT 5%)
+61442-113,59746-325,1 g,"valacyclovir hydrochloride tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+61442-113,31722-705,1 g,"valacyclovir tablet, film coated",VALACYCLOVIR HYDROCHLORIDE
+61442-113,31722-705,1 g,"valacyclovir tablet, film coated",HYPROMELLOSES
+61442-113,31722-705,1 g,"valacyclovir tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+61442-113,31722-705,1 g,"valacyclovir tablet, film coated",CROSPOVIDONE (15 MPA.S AT 5%)
+61442-113,31722-705,1 g,"valacyclovir tablet, film coated",MAGNESIUM STEARATE
+61442-113,31722-705,1 g,"valacyclovir tablet, film coated",POLYSORBATE 80
+61442-113,31722-705,1 g,"valacyclovir tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+61442-113,31722-705,1 g,"valacyclovir tablet, film coated",POVIDONE
+61442-113,31722-705,1 g,"valacyclovir tablet, film coated",TITANIUM DIOXIDE
+acyclovir,68712-049,50 mg," tablet, delayed release","CELLULOSE, MICROCRYSTALLINE"
+acyclovir,68712-049,50 mg," tablet, delayed release",SODIUM LAURYL SULFATE
+acyclovir,68712-049,50 mg," tablet, delayed release",POVIDONE
+acyclovir,68712-049,50 mg," tablet, delayed release",WATER
+acyclovir,68712-049,50 mg," tablet, delayed release",HYPROMELLOSE 2208 (15000 MPA.S)
+acyclovir,68712-049,50 mg," tablet, delayed release",MAGNESIUM STEARATE
+acyclovir,68712-049,50 mg," tablet, delayed release",SILICON DIOXIDE
+acyclovir,71403-049,50 mg," tablet, delayed release",MICROCRYSTALLINE CELLULOSE
+acyclovir,71403-049,50 mg," tablet, delayed release",SODIUM LAURYL SULFATE
+acyclovir,71403-049,50 mg," tablet, delayed release","POVIDONE, UNSPECIFIED"
+acyclovir,71403-049,50 mg," tablet, delayed release",WATER
+acyclovir,71403-049,50 mg," tablet, delayed release",HYPROMELLOSE 2208 (15000 MPA.S)
+acyclovir,71403-049,50 mg," tablet, delayed release",MAGNESIUM STEARATE
+acyclovir,71403-049,50 mg," tablet, delayed release",SILICON DIOXIDE
+acyclovir,0187-5104,50 mg  in 1 g, and hydrocortisone cream,HYDROCORTISONE
+acyclovir,0187-5104,10 mg  in 1 g, and hydrocortisone cream,cetostearyl alcohol
+acyclovir,0187-5104,10 mg  in 1 g, and hydrocortisone cream,mineral oil
+acyclovir,0187-5104,10 mg  in 1 g, and hydrocortisone cream,Poloxamer 188
+acyclovir,0187-5104,10 mg  in 1 g, and hydrocortisone cream,propylene glycol
+acyclovir,0187-5104,10 mg  in 1 g, and hydrocortisone cream,isopropyl myristate
+acyclovir,0187-5104,10 mg  in 1 g, and hydrocortisone cream,sodium lauryl sulfate
+acyclovir,0187-5104,10 mg  in 1 g, and hydrocortisone cream,petrolatum
+acyclovir,0187-5104,10 mg  in 1 g, and hydrocortisone cream,citric acid monohydrate
+acyclovir,0187-5104,10 mg  in 1 g, and hydrocortisone cream,sodium hydroxide
+acyclovir,0187-5104,10 mg  in 1 g, and hydrocortisone cream,water
+acyclovir,0187-5104,10 mg  in 1 g, and hydrocortisone cream,HYDROCHLORIC ACID
+acyclovir,0187-0994,50 mg  in 1 g, cream,Cetostearyl alcohol
+acyclovir,0187-0994,50 mg  in 1 g, cream,Mineral oil
+acyclovir,0187-0994,50 mg  in 1 g, cream,Poloxamer 407
+acyclovir,0187-0994,50 mg  in 1 g, cream,Sodium lauryl sulfate
+acyclovir,0187-0994,50 mg  in 1 g, cream,Water
+acyclovir,0187-0994,50 mg  in 1 g, cream,Petrolatum
+acyclovir,0187-0994,50 mg  in 1 g, cream,Propylene glycol
+acyclovir,0187-0993,50 mg  in 1 g, ointment,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+acyclovir,0378-9735,200 mg  in 5 mL, suspension,METHYLPARABEN
+acyclovir,0378-9735,200 mg  in 5 mL, suspension,PROPYLPARABEN
+acyclovir,0378-9735,200 mg  in 5 mL, suspension,"CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM"
+acyclovir,0378-9735,200 mg  in 5 mL, suspension,GLYCERIN
+acyclovir,0378-9735,200 mg  in 5 mL, suspension,MICROCRYSTALLINE CELLULOSE
+acyclovir,0378-9735,200 mg  in 5 mL, suspension,SORBITOL
+64455-994,42254-149,50 mg  in 1 g,acyclovir cream,ACYCLOVIR
+64455-994,42254-149,50 mg  in 1 g,acyclovir cream,CETOSTEARYL ALCOHOL
+64455-994,42254-149,50 mg  in 1 g,acyclovir cream,MINERAL OIL
+64455-994,42254-149,50 mg  in 1 g,acyclovir cream,POLOXAMER 407
+64455-994,42254-149,50 mg  in 1 g,acyclovir cream,PROPYLENE GLYCOL
+64455-994,42254-149,50 mg  in 1 g,acyclovir cream,SODIUM LAURYL SULFATE
+64455-994,42254-149,50 mg  in 1 g,acyclovir cream,WATER
+64455-994,42254-149,50 mg  in 1 g,acyclovir cream,PETROLATUM
+valacyclovir hydrochloride,55648-152,500 mg," tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+valacyclovir hydrochloride,55648-152,500 mg," tablet, film coated",CROSCARMELLOSE SODIUM
+valacyclovir hydrochloride,55648-152,500 mg," tablet, film coated",FD&amp;C BLUE NO. 2
+valacyclovir hydrochloride,55648-152,500 mg," tablet, film coated",HYPROMELLOSES
+valacyclovir hydrochloride,55648-152,500 mg," tablet, film coated",MAGNESIUM STEARATE
+valacyclovir hydrochloride,55648-152,500 mg," tablet, film coated",POLYETHYLENE GLYCOL 400
+valacyclovir hydrochloride,55648-152,500 mg," tablet, film coated",POLYSORBATE 80
+valacyclovir hydrochloride,55648-152,500 mg," tablet, film coated",POVIDONE K90
+valacyclovir hydrochloride,55648-152,500 mg," tablet, film coated",TALC
+valacyclovir hydrochloride,55648-152,500 mg," tablet, film coated",TITANIUM DIOXIDE
+valacyclovir hydrochloride,55648-153,1 g," tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+valacyclovir hydrochloride,55648-153,1 g," tablet, film coated",CROSCARMELLOSE SODIUM
+valacyclovir hydrochloride,55648-153,1 g," tablet, film coated",FD&amp;C BLUE NO. 2
+valacyclovir hydrochloride,55648-153,1 g," tablet, film coated",HYPROMELLOSES
+valacyclovir hydrochloride,55648-153,1 g," tablet, film coated",MAGNESIUM STEARATE
+valacyclovir hydrochloride,55648-153,1 g," tablet, film coated",POLYETHYLENE GLYCOL 400
+valacyclovir hydrochloride,55648-153,1 g," tablet, film coated",POLYSORBATE 80
+valacyclovir hydrochloride,55648-153,1 g," tablet, film coated",POVIDONE K90
+valacyclovir hydrochloride,55648-153,1 g," tablet, film coated",TALC
+valacyclovir hydrochloride,55648-153,1 g," tablet, film coated",TITANIUM DIOXIDE
+valacyclovir hydrochloride,51660-904,500 mg, tablet,FD&amp;C BLUE NO. 2
+valacyclovir hydrochloride,51660-904,500 mg, tablet,HYPROMELLOSES
+valacyclovir hydrochloride,51660-904,500 mg, tablet,MAGNESIUM STEARATE
+valacyclovir hydrochloride,51660-904,500 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+valacyclovir hydrochloride,51660-904,500 mg, tablet,POLYETHYLENE GLYCOL 400
+valacyclovir hydrochloride,51660-904,500 mg, tablet,POLYETHYLENE GLYCOL 6000
+valacyclovir hydrochloride,51660-904,500 mg, tablet,POLYSORBATE 80
+valacyclovir hydrochloride,51660-904,500 mg, tablet,POVIDONES
+valacyclovir hydrochloride,51660-904,500 mg, tablet,TITANIUM DIOXIDE
+valacyclovir hydrochloride,51660-904,500 mg, tablet,CROSPOVIDONE
+valacyclovir hydrochloride,51660-905,1 g, tablet,FD&amp;C BLUE NO. 2
+valacyclovir hydrochloride,51660-905,1 g, tablet,HYPROMELLOSES
+valacyclovir hydrochloride,51660-905,1 g, tablet,MAGNESIUM STEARATE
+valacyclovir hydrochloride,51660-905,1 g, tablet,"CELLULOSE, MICROCRYSTALLINE"
+valacyclovir hydrochloride,51660-905,1 g, tablet,POLYETHYLENE GLYCOL 400
+valacyclovir hydrochloride,51660-905,1 g, tablet,POLYETHYLENE GLYCOL 6000
+valacyclovir hydrochloride,51660-905,1 g, tablet,POLYSORBATE 80
+valacyclovir hydrochloride,51660-905,1 g, tablet,POVIDONES
+valacyclovir hydrochloride,51660-905,1 g, tablet,TITANIUM DIOXIDE
+valacyclovir hydrochloride,51660-905,1 g, tablet,CROSPOVIDONE
+64679-152,53217-054,500 mg,"valacyclovir hydrochloride tablet, film coated",VALACYCLOVIR HYDROCHLORIDE
+64679-152,53217-054,500 mg,"valacyclovir hydrochloride tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+64679-152,53217-054,500 mg,"valacyclovir hydrochloride tablet, film coated",CROSCARMELLOSE SODIUM
+64679-152,53217-054,500 mg,"valacyclovir hydrochloride tablet, film coated",FD&amp;C BLUE NO. 2
+64679-152,53217-054,500 mg,"valacyclovir hydrochloride tablet, film coated",HYPROMELLOSES
+64679-152,53217-054,500 mg,"valacyclovir hydrochloride tablet, film coated",MAGNESIUM STEARATE
+64679-152,53217-054,500 mg,"valacyclovir hydrochloride tablet, film coated",POLYETHYLENE GLYCOL 400
+64679-152,53217-054,500 mg,"valacyclovir hydrochloride tablet, film coated",POLYSORBATE 80
+64679-152,53217-054,500 mg,"valacyclovir hydrochloride tablet, film coated",POVIDONE K90
+64679-152,53217-054,500 mg,"valacyclovir hydrochloride tablet, film coated",TALC
+64679-152,53217-054,500 mg,"valacyclovir hydrochloride tablet, film coated",TITANIUM DIOXIDE
+0093-7259,66116-516,1 g,"valacyclovir hydrochloride tablet, film coated",VALACYCLOVIR HYDROCHLORIDE
+0093-7259,66116-516,1 g,"valacyclovir hydrochloride tablet, film coated",POWDERED CELLULOSE
+0093-7259,66116-516,1 g,"valacyclovir hydrochloride tablet, film coated",CROSCARMELLOSE SODIUM
+0093-7259,66116-516,1 g,"valacyclovir hydrochloride tablet, film coated",FD&amp;C BLUE NO. 2
+0093-7259,66116-516,1 g,"valacyclovir hydrochloride tablet, film coated",ALUMINUM OXIDE
+0093-7259,66116-516,1 g,"valacyclovir hydrochloride tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+0093-7259,66116-516,1 g,"valacyclovir hydrochloride tablet, film coated","STARCH, CORN"
+0093-7259,66116-516,1 g,"valacyclovir hydrochloride tablet, film coated",POLYETHYLENE GLYCOL 400
+0093-7259,66116-516,1 g,"valacyclovir hydrochloride tablet, film coated",POLYSORBATE 80
+0093-7259,66116-516,1 g,"valacyclovir hydrochloride tablet, film coated",SODIUM STEARYL FUMARATE
+0093-7259,66116-516,1 g,"valacyclovir hydrochloride tablet, film coated",TITANIUM DIOXIDE
+45963-558,51655-955,500 mg,"valacyclovir hydrochloride tablet, film coated",VALACYCLOVIR HYDROCHLORIDE
+0093-7258,53808-0635,500 mg,"valacyclovir hydrochloride tablet, film coated",VALACYCLOVIR HYDROCHLORIDE
+0093-7258,53808-0635,500 mg,"valacyclovir hydrochloride tablet, film coated",POWDERED CELLULOSE
+0093-7258,53808-0635,500 mg,"valacyclovir hydrochloride tablet, film coated",CROSCARMELLOSE SODIUM
+0093-7258,53808-0635,500 mg,"valacyclovir hydrochloride tablet, film coated",FD&amp;C BLUE NO. 2
+0093-7258,53808-0635,500 mg,"valacyclovir hydrochloride tablet, film coated",ALUMINUM OXIDE
+0093-7258,53808-0635,500 mg,"valacyclovir hydrochloride tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+0093-7258,53808-0635,500 mg,"valacyclovir hydrochloride tablet, film coated","STARCH, CORN"
+0093-7258,53808-0635,500 mg,"valacyclovir hydrochloride tablet, film coated",POLYETHYLENE GLYCOL 400
+0093-7258,53808-0635,500 mg,"valacyclovir hydrochloride tablet, film coated",POLYSORBATE 80
+0093-7258,53808-0635,500 mg,"valacyclovir hydrochloride tablet, film coated",SODIUM STEARYL FUMARATE
+0093-7258,53808-0635,500 mg,"valacyclovir hydrochloride tablet, film coated",TITANIUM DIOXIDE
+0173-0933,54868-3804,500 mg,"valacyclovir hydrochloride tablet, film coated",VALACYCLOVIR HYDROCHLORIDE
+0173-0933,54868-3804,500 mg,"valacyclovir hydrochloride tablet, film coated",CARNAUBA WAX
+0173-0933,54868-3804,500 mg,"valacyclovir hydrochloride tablet, film coated",COLLOIDAL SILICON DIOXIDE
+0173-0933,54868-3804,500 mg,"valacyclovir hydrochloride tablet, film coated",CROSPOVIDONE
+0173-0933,54868-3804,500 mg,"valacyclovir hydrochloride tablet, film coated",FD&amp;C BLUE NO. 2
+0173-0933,54868-3804,500 mg,"valacyclovir hydrochloride tablet, film coated",HYPROMELLOSES
+0173-0933,54868-3804,500 mg,"valacyclovir hydrochloride tablet, film coated",MAGNESIUM STEARATE
+0173-0933,54868-3804,500 mg,"valacyclovir hydrochloride tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+0173-0933,54868-3804,500 mg,"valacyclovir hydrochloride tablet, film coated",POLYETHYLENE GLYCOLS
+0173-0933,54868-3804,500 mg,"valacyclovir hydrochloride tablet, film coated",POLYSORBATE 80
+0173-0933,54868-3804,500 mg,"valacyclovir hydrochloride tablet, film coated",POVIDONE
+0173-0933,54868-3804,500 mg,"valacyclovir hydrochloride tablet, film coated",TITANIUM DIOXIDE
+0173-0933,0173-0565,500 mg,"valacyclovir hydrochloride tablet, film coated",VALACYCLOVIR HYDROCHLORIDE
+0173-0933,0173-0565,1 g,"valacyclovir hydrochloride tablet, film coated",CARNAUBA WAX
+0173-0933,0173-0565,1 g,"valacyclovir hydrochloride tablet, film coated",COLLOIDAL SILICON DIOXIDE
+0173-0933,0173-0565,1 g,"valacyclovir hydrochloride tablet, film coated",CROSPOVIDONE
+0173-0933,0173-0565,1 g,"valacyclovir hydrochloride tablet, film coated",FD&amp;C BLUE NO. 2
+0173-0933,0173-0565,1 g,"valacyclovir hydrochloride tablet, film coated",HYPROMELLOSES
+0173-0933,0173-0565,1 g,"valacyclovir hydrochloride tablet, film coated",MAGNESIUM STEARATE
+0173-0933,0173-0565,1 g,"valacyclovir hydrochloride tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+0173-0933,0173-0565,1 g,"valacyclovir hydrochloride tablet, film coated",POLYETHYLENE GLYCOLS
+0173-0933,0173-0565,1 g,"valacyclovir hydrochloride tablet, film coated",POLYSORBATE 80
+0173-0933,0173-0565,1 g,"valacyclovir hydrochloride tablet, film coated",POVIDONE
+0173-0933,0173-0565,1 g,"valacyclovir hydrochloride tablet, film coated",TITANIUM DIOXIDE

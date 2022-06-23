@@ -1,0 +1,271 @@
+MainDrug,NDC,Strength,Formulation,Inactive
+abiraterone acetate,68001-489,250 mg, tablet,SILICON DIOXIDE
+abiraterone acetate,68001-489,250 mg, tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,68001-489,250 mg, tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,68001-489,250 mg, tablet,MAGNESIUM STEARATE
+abiraterone acetate,68001-489,250 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+abiraterone acetate,68001-489,250 mg, tablet,POVIDONE
+abiraterone acetate,68001-489,250 mg, tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,0143-9597,250 mg, tablet,SILICON DIOXIDE
+abiraterone acetate,0143-9597,250 mg, tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,0143-9597,250 mg, tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,0143-9597,250 mg, tablet,MAGNESIUM STEARATE
+abiraterone acetate,0143-9597,250 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+abiraterone acetate,0143-9597,250 mg, tablet,POVIDONE
+abiraterone acetate,0143-9597,250 mg, tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,0143-9597,250 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+abiraterone acetate,69539-049,250 mg, tablet,SILICON DIOXIDE
+abiraterone acetate,69539-049,250 mg, tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,69539-049,250 mg, tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,69539-049,250 mg, tablet,MAGNESIUM STEARATE
+abiraterone acetate,69539-049,250 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+abiraterone acetate,69539-049,250 mg, tablet,POVIDONE
+abiraterone acetate,69539-049,250 mg, tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,72205-030,250 mg, tablet,SILICON DIOXIDE
+abiraterone acetate,72205-030,250 mg, tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,72205-030,250 mg, tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,72205-030,250 mg, tablet,MAGNESIUM STEARATE
+abiraterone acetate,72205-030,250 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+abiraterone acetate,72205-030,250 mg, tablet,POVIDONE
+abiraterone acetate,72205-030,250 mg, tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,69238-1165,250 mg,abiraterone tablet,SILICON DIOXIDE
+abiraterone acetate,69238-1165,250 mg,abiraterone tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,69238-1165,250 mg,abiraterone tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,69238-1165,250 mg,abiraterone tablet,MAGNESIUM STEARATE
+abiraterone acetate,69238-1165,250 mg,abiraterone tablet,POVIDONE
+abiraterone acetate,69238-1165,250 mg,abiraterone tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,69238-1165,250 mg,abiraterone tablet,"CELLULOSE, MICROCRYSTALLINE"
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,MAGNESIUM STEARATE
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,POVIDONE
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,FERROSOFERRIC OXIDE
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,FERRIC OXIDE RED
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,"POLYVINYL ALCOHOL, UNSPECIFIED"
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,TALC
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,TITANIUM DIOXIDE
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,SILICON DIOXIDE
+abiraterone acetate,69238-1754,500 mg,abiraterone tablet,MICROCRYSTALLINE CELLULOSE
+abiraterone acetate,57894-155,250 mg, tablet,lactose monohydrate
+abiraterone acetate,57894-155,250 mg, tablet,microcrystalline cellulose
+abiraterone acetate,57894-155,250 mg, tablet,croscarmellose sodium
+abiraterone acetate,57894-155,250 mg, tablet,"povidone, unspecified"
+abiraterone acetate,57894-155,250 mg, tablet,sodium lauryl sulfate
+abiraterone acetate,57894-155,250 mg, tablet,magnesium stearate
+abiraterone acetate,57894-155,250 mg, tablet,silicon dioxide
+abiraterone acetate,57894-199,500 mg," tablet, film coated",microcrystalline cellulose
+abiraterone acetate,57894-199,500 mg," tablet, film coated",croscarmellose sodium
+abiraterone acetate,57894-199,500 mg," tablet, film coated",Hypromellose 2910 (15 MPA.S)
+abiraterone acetate,57894-199,500 mg," tablet, film coated",lactose monohydrate
+abiraterone acetate,57894-199,500 mg," tablet, film coated",magnesium stearate
+abiraterone acetate,57894-199,500 mg," tablet, film coated",silicon dioxide
+abiraterone acetate,57894-199,500 mg," tablet, film coated",sodium lauryl sulfate
+abiraterone acetate,57894-199,500 mg," tablet, film coated","polyvinyl alcohol, unspecified"
+abiraterone acetate,57894-199,500 mg," tablet, film coated",titanium dioxide
+abiraterone acetate,57894-199,500 mg," tablet, film coated",polyethylene glycol 3350
+abiraterone acetate,57894-199,500 mg," tablet, film coated",talc
+abiraterone acetate,57894-199,500 mg," tablet, film coated",ferric oxide red
+abiraterone acetate,57894-199,500 mg," tablet, film coated",ferrosoferric oxide
+abiraterone acetate,57894-199,500 mg," tablet, film coated",Water
+abiraterone acetate,60505-4327,250 mg, tablet,SILICON DIOXIDE
+abiraterone acetate,60505-4327,250 mg, tablet,Crospovidone
+abiraterone acetate,60505-4327,250 mg, tablet,Lactose Monohydrate
+abiraterone acetate,60505-4327,250 mg, tablet,Magnesium Stearate
+abiraterone acetate,60505-4327,250 mg, tablet,Sodium Lauryl Sulfate
+abiraterone acetate,72606-566,250 mg, tablet,SILICON DIOXIDE
+abiraterone acetate,72606-566,250 mg, tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,72606-566,250 mg, tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,72606-566,250 mg, tablet,MAGNESIUM STEARATE
+abiraterone acetate,72606-566,250 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+abiraterone acetate,72606-566,250 mg, tablet,POVIDONE
+abiraterone acetate,72606-566,250 mg, tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,72606-573,500 mg, tablet,SILICON DIOXIDE
+abiraterone acetate,72606-573,500 mg, tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,72606-573,500 mg, tablet,HYPROMELLOSE 2910 (15 MPA.S)
+abiraterone acetate,72606-573,500 mg, tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,72606-573,500 mg, tablet,MAGNESIUM STEARATE
+abiraterone acetate,72606-573,500 mg, tablet,MICROCRYSTALLINE CELLULOSE 101
+abiraterone acetate,72606-573,500 mg, tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,72606-573,500 mg, tablet,FERROSOFERRIC OXIDE
+abiraterone acetate,72606-573,500 mg, tablet,FERRIC OXIDE RED
+abiraterone acetate,72606-573,500 mg, tablet,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+abiraterone acetate,72606-573,500 mg, tablet,"POLYVINYL ALCOHOL, UNSPECIFIED"
+abiraterone acetate,72606-573,500 mg, tablet,TALC
+abiraterone acetate,72606-573,500 mg, tablet,TITANIUM DIOXIDE
+abiraterone acetate,43598-358,250 mg, tablet,SILICON DIOXIDE
+abiraterone acetate,43598-358,250 mg, tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,43598-358,250 mg, tablet,HYPROMELLOSES
+abiraterone acetate,43598-358,250 mg, tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,43598-358,250 mg, tablet,MAGNESIUM STEARATE
+abiraterone acetate,43598-358,250 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+abiraterone acetate,43598-358,250 mg, tablet,"Polyethylene Glycol, Unspecified"
+abiraterone acetate,43598-358,250 mg, tablet,POVIDONE
+abiraterone acetate,43598-358,250 mg, tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,43598-358,250 mg, tablet,TITANIUM DIOXIDE
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",CROSCARMELLOSE SODIUM
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",HYPROMELLOSE 2910 (3 MPA.S)
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",HYPROMELLOSE 2910 (50 MPA.S)
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",LACTOSE MONOHYDRATE
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",MAGNESIUM STEARATE
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",MICROCRYSTALLINE CELLULOSE 101
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",MICROCRYSTALLINE CELLULOSE 102
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",POLYDEXTROSE
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",POLYETHYLENE GLYCOL 8000
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",POVIDONE K30
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",SODIUM LAURYL SULFATE
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",TITANIUM DIOXIDE
+abiraterone acetate,0378-6924,250 mg," tablet, film coated",TRIACETIN
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",CROSCARMELLOSE SODIUM
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",HYPROMELLOSE 2910 (3 MPA.S)
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",HYPROMELLOSE 2910 (6 MPA.S)
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",HYPROMELLOSE 2910 (50 MPA.S)
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",LACTOSE MONOHYDRATE
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",MAGNESIUM STEARATE
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",MICROCRYSTALLINE CELLULOSE 101
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",MICROCRYSTALLINE CELLULOSE 102
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",POLYDEXTROSE
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",POLYETHYLENE GLYCOL 8000
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",POVIDONE K30
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",SODIUM LAURYL SULFATE
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",TITANIUM DIOXIDE
+abiraterone acetate,0378-6921,500 mg," tablet, film coated",TRIACETIN
+abiraterone acetate,0378-6920,250 mg, tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,0378-6920,250 mg, tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,0378-6920,250 mg, tablet,MAGNESIUM STEARATE
+abiraterone acetate,0378-6920,250 mg, tablet,MICROCRYSTALLINE CELLULOSE 101
+abiraterone acetate,0378-6920,250 mg, tablet,MICROCRYSTALLINE CELLULOSE 102
+abiraterone acetate,0378-6920,250 mg, tablet,POVIDONE K30
+abiraterone acetate,0378-6920,250 mg, tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",CROSCARMELLOSE SODIUM
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",HYPROMELLOSE 2910 (15 MPA.S)
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",LACTOSE MONOHYDRATE
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",MAGNESIUM STEARATE
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",SILICON DIOXIDE
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",SODIUM LAURYL SULFATE
+abiraterone acetate,60505-4764,500 mg," tablet, film coated","POLYVINYL ALCOHOL, UNSPECIFIED"
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",TITANIUM DIOXIDE
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",POLYETHYLENE GLYCOL 3350
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",TALC
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",FERRIC OXIDE RED
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",FERROSOFERRIC OXIDE
+abiraterone acetate,60505-4764,500 mg," tablet, film coated",WATER
+abiraterone acetate,0093-1125,250 mg," tablet, film coated",SILICON DIOXIDE
+abiraterone acetate,0093-1125,250 mg," tablet, film coated",CROSCARMELLOSE SODIUM
+abiraterone acetate,0093-1125,250 mg," tablet, film coated",LACTOSE MONOHYDRATE
+abiraterone acetate,0093-1125,250 mg," tablet, film coated",MAGNESIUM STEARATE
+abiraterone acetate,0093-1125,250 mg," tablet, film coated",POLYETHYLENE GLYCOL 3350
+abiraterone acetate,0093-1125,250 mg," tablet, film coated",POLYETHYLENE GLYCOL 4000
+abiraterone acetate,0093-1125,250 mg," tablet, film coated",POVIDONE K30
+abiraterone acetate,0093-1125,250 mg," tablet, film coated",SODIUM LAURYL SULFATE
+abiraterone acetate,0093-1125,250 mg," tablet, film coated",TALC
+abiraterone acetate,0093-1125,250 mg," tablet, film coated",TITANIUM DIOXIDE
+abiraterone acetate,0093-1125,250 mg," tablet, film coated",MICROCRYSTALLINE CELLULOSE
+abiraterone acetate,0093-1125,250 mg," tablet, film coated","POLYVINYL ALCOHOL, UNSPECIFIED"
+abiraterone acetate,68462-135,250 mg, tablet,lactose monohydrate
+abiraterone acetate,68462-135,250 mg, tablet,MICROCRYSTALLINE CELLULOSE
+abiraterone acetate,68462-135,250 mg, tablet,croscarmellose sodium
+abiraterone acetate,68462-135,250 mg, tablet,"POVIDONE, UNSPECIFIED"
+abiraterone acetate,68462-135,250 mg, tablet,sodium lauryl sulfate
+abiraterone acetate,68462-135,250 mg, tablet,magnesium stearate
+abiraterone acetate,68462-135,250 mg, tablet,silicon dioxide
+abiraterone acetate,16714-963,250 mg, tablet,SILICON DIOXIDE
+abiraterone acetate,16714-963,250 mg, tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,16714-963,250 mg, tablet,HYPROMELLOSES
+abiraterone acetate,16714-963,250 mg, tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,16714-963,250 mg, tablet,MAGNESIUM STEARATE
+abiraterone acetate,16714-963,250 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+abiraterone acetate,16714-963,250 mg, tablet,"Polyethylene Glycol, Unspecified"
+abiraterone acetate,16714-963,250 mg, tablet,POVIDONE
+abiraterone acetate,16714-963,250 mg, tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,16714-963,250 mg, tablet,TITANIUM DIOXIDE
+abiraterone acetate,64980-418,250 mg, tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,64980-418,250 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+abiraterone acetate,64980-418,250 mg, tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,64980-418,250 mg, tablet,POVIDONE
+abiraterone acetate,64980-418,250 mg, tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,64980-418,250 mg, tablet,MAGNESIUM STEARATE
+abiraterone acetate,64980-418,250 mg, tablet,SILICON DIOXIDE
+abiraterone acetate,64679-021,250 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+abiraterone acetate,64679-021,250 mg, tablet,CROSCARMELLOSE SODIUM
+abiraterone acetate,64679-021,250 mg, tablet,LACTOSE MONOHYDRATE
+abiraterone acetate,64679-021,250 mg, tablet,MAGNESIUM STEARATE
+abiraterone acetate,64679-021,250 mg, tablet,POVIDONE
+abiraterone acetate,64679-021,250 mg, tablet,SILICON DIOXIDE
+abiraterone acetate,64679-021,250 mg, tablet,SODIUM LAURYL SULFATE
+69238-1165,60687-455,250 mg,abiraterone tablet,ABIRATERONE ACETATE
+69238-1165,60687-455,250 mg,abiraterone tablet,SILICON DIOXIDE
+69238-1165,60687-455,250 mg,abiraterone tablet,CROSCARMELLOSE SODIUM
+69238-1165,60687-455,250 mg,abiraterone tablet,LACTOSE MONOHYDRATE
+69238-1165,60687-455,250 mg,abiraterone tablet,MAGNESIUM STEARATE
+69238-1165,60687-455,250 mg,abiraterone tablet,MICROCRYSTALLINE CELLULOSE
+69238-1165,60687-455,250 mg,abiraterone tablet,"POVIDONE, UNSPECIFIED"
+69238-1165,60687-455,250 mg,abiraterone tablet,SODIUM LAURYL SULFATE
+69238-1165,42291-024,250 mg,abiraterone tablet,ABIRATERONE ACETATE
+69238-1165,42291-024,250 mg,abiraterone tablet,SILICON DIOXIDE
+69238-1165,42291-024,250 mg,abiraterone tablet,CROSCARMELLOSE SODIUM
+69238-1165,42291-024,250 mg,abiraterone tablet,LACTOSE MONOHYDRATE
+69238-1165,42291-024,250 mg,abiraterone tablet,MAGNESIUM STEARATE
+69238-1165,42291-024,250 mg,abiraterone tablet,POVIDONE
+69238-1165,42291-024,250 mg,abiraterone tablet,SODIUM LAURYL SULFATE
+69238-1165,42291-024,250 mg,abiraterone tablet,"CELLULOSE, MICROCRYSTALLINE"
+69238-1754,42291-073,500 mg,abiraterone tablet,ABIRATERONE ACETATE
+69238-1754,42291-073,500 mg,abiraterone tablet,CROSCARMELLOSE SODIUM
+69238-1754,42291-073,500 mg,abiraterone tablet,LACTOSE MONOHYDRATE
+69238-1754,42291-073,500 mg,abiraterone tablet,MAGNESIUM STEARATE
+69238-1754,42291-073,500 mg,abiraterone tablet,POVIDONE
+69238-1754,42291-073,500 mg,abiraterone tablet,SODIUM LAURYL SULFATE
+69238-1754,42291-073,500 mg,abiraterone tablet,FERROSOFERRIC OXIDE
+69238-1754,42291-073,500 mg,abiraterone tablet,FERRIC OXIDE RED
+69238-1754,42291-073,500 mg,abiraterone tablet,"POLYETHYLENE GLYCOL, UNSPECIFIED"
+69238-1754,42291-073,500 mg,abiraterone tablet,"POLYVINYL ALCOHOL, UNSPECIFIED"
+69238-1754,42291-073,500 mg,abiraterone tablet,TALC
+69238-1754,42291-073,500 mg,abiraterone tablet,TITANIUM DIOXIDE
+69238-1754,42291-073,500 mg,abiraterone tablet,SILICON DIOXIDE
+69238-1754,42291-073,500 mg,abiraterone tablet,MICROCRYSTALLINE CELLULOSE
+0378-6920,51407-181,250 mg,abiraterone acetate tablet,ABIRATERONE ACETATE
+0378-6920,51407-181,250 mg,abiraterone acetate tablet,CROSCARMELLOSE SODIUM
+0378-6920,51407-181,250 mg,abiraterone acetate tablet,LACTOSE MONOHYDRATE
+0378-6920,51407-181,250 mg,abiraterone acetate tablet,MAGNESIUM STEARATE
+0378-6920,51407-181,250 mg,abiraterone acetate tablet,MICROCRYSTALLINE CELLULOSE 101
+0378-6920,51407-181,250 mg,abiraterone acetate tablet,MICROCRYSTALLINE CELLULOSE 102
+0378-6920,51407-181,250 mg,abiraterone acetate tablet,POVIDONE K30
+0378-6920,51407-181,250 mg,abiraterone acetate tablet,SODIUM LAURYL SULFATE
+60505-4327,0904-6948,250 mg,abiraterone acetate tablet,Abiraterone Acetate
+60505-4327,0904-6948,250 mg,abiraterone acetate tablet,SILICON DIOXIDE
+60505-4327,0904-6948,250 mg,abiraterone acetate tablet,CROSPOVIDONE (15 MPA.S AT 5%)
+60505-4327,0904-6948,250 mg,abiraterone acetate tablet,Lactose Monohydrate
+60505-4327,0904-6948,250 mg,abiraterone acetate tablet,Magnesium Stearate
+60505-4327,0904-6948,250 mg,abiraterone acetate tablet,Sodium Lauryl Sulfate
+0378-6920,42292-057,250 mg,abiraterone acetate tablet,ABIRATERONE ACETATE
+0378-6920,42292-057,250 mg,abiraterone acetate tablet,CROSCARMELLOSE SODIUM
+0378-6920,42292-057,250 mg,abiraterone acetate tablet,LACTOSE MONOHYDRATE
+0378-6920,42292-057,250 mg,abiraterone acetate tablet,MAGNESIUM STEARATE
+0378-6920,42292-057,250 mg,abiraterone acetate tablet,MICROCRYSTALLINE CELLULOSE
+0378-6920,42292-057,250 mg,abiraterone acetate tablet,POVIDONE K30
+0378-6920,42292-057,250 mg,abiraterone acetate tablet,SODIUM LAURYL SULFATE
+abiraterone acetate,57894-150,250 mg, tablet,lactose monohydrate
+abiraterone acetate,57894-150,250 mg, tablet,microcrystalline cellulose
+abiraterone acetate,57894-150,250 mg, tablet,croscarmellose sodium
+abiraterone acetate,57894-150,250 mg, tablet,"povidone, unspecified"
+abiraterone acetate,57894-150,250 mg, tablet,sodium lauryl sulfate
+abiraterone acetate,57894-150,250 mg, tablet,magnesium stearate
+abiraterone acetate,57894-150,250 mg, tablet,silicon dioxide
+abiraterone acetate,57894-195,250 mg," tablet, film coated",Abiraterone acetate
+abiraterone acetate,57894-195,500 mg," tablet, film coated",microcrystalline cellulose
+abiraterone acetate,57894-195,500 mg," tablet, film coated",croscarmellose sodium
+abiraterone acetate,57894-195,500 mg," tablet, film coated",hypromellose 2910 (15 MPA.S)
+abiraterone acetate,57894-195,500 mg," tablet, film coated",lactose monohydrate
+abiraterone acetate,57894-195,500 mg," tablet, film coated",magnesium stearate
+abiraterone acetate,57894-195,500 mg," tablet, film coated",silicon dioxide
+abiraterone acetate,57894-195,500 mg," tablet, film coated",sodium lauryl sulfate
+abiraterone acetate,57894-195,500 mg," tablet, film coated","polyvinyl alcohol, unspecified"
+abiraterone acetate,57894-195,500 mg," tablet, film coated",titanium dioxide
+abiraterone acetate,57894-195,500 mg," tablet, film coated",polyethylene glycol 3350
+abiraterone acetate,57894-195,500 mg," tablet, film coated",talc
+abiraterone acetate,57894-195,500 mg," tablet, film coated",ferric oxide red
+abiraterone acetate,57894-195,500 mg," tablet, film coated",ferrosoferric oxide
+abiraterone acetate,57894-195,500 mg," tablet, film coated",Water

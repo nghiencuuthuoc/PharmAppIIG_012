@@ -1,0 +1,95 @@
+MainDrug,NDC,Strength,Formulation,Inactive
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated","STARCH, CORN"
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",D&amp;C YELLOW NO. 10
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",FD&amp;C YELLOW NO. 6
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated","HYPROMELLOSE, UNSPECIFIED"
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",METHACRYLIC ACID
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",MICROCRYSTALLINE CELLULOSE
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",POLYDEXTROSE
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",SHELLAC
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",SILICON DIOXIDE
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",DIMETHICONE
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",WATER
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",SODIUM BICARBONATE
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",SODIUM LAURYL SULFATE
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",TALC
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",TITANIUM DIOXIDE
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",TRIACETIN
+aspirin,60503-601,81 mg,"acetylsalicylic acid tablet, coated",TRIETHYL CITRATE
+aspirin,73678-160,6 mg  in 0.1 mL,acetylsalicylic acid spray,PROPYLENE GLYCOL
+aspirin,73678-160,6 mg  in 0.1 mL,acetylsalicylic acid spray,ALOE
+aspirin,73678-160,6 mg  in 0.1 mL,acetylsalicylic acid spray,SORBIC ACID
+aspirin,73678-160,6 mg  in 0.1 mL,acetylsalicylic acid spray,MENTHOL
+aspirin,73678-160,6 mg  in 0.1 mL,acetylsalicylic acid spray,"LACTOFERRIN, BOVINE"
+aspirin,73678-160,6 mg  in 0.1 mL,acetylsalicylic acid spray,LYSOZYME
+aspirin,73678-160,6 mg  in 0.1 mL,acetylsalicylic acid spray,SODIUM CHLORIDE
+aspirin,73678-160,6 mg  in 0.1 mL,acetylsalicylic acid spray,WATER
+aspirin,73678-160,6 mg  in 0.1 mL,acetylsalicylic acid spray,ALCOHOL
+aspirin,73678-260,6 mg,"acetylsalicylic acid, menthol lozenge",MENTHOL
+aspirin,73678-260,5 mg,"acetylsalicylic acid, menthol lozenge",ISOMALT
+aspirin,73678-260,5 mg,"acetylsalicylic acid, menthol lozenge",HONEY
+aspirin,73678-260,5 mg,"acetylsalicylic acid, menthol lozenge","LACTOFERRIN, BOVINE"
+aspirin,73678-260,5 mg,"acetylsalicylic acid, menthol lozenge",LYSOZYME
+aspirin,73678-260,5 mg,"acetylsalicylic acid, menthol lozenge",ALOE
+aspirin,73678-260,5 mg,"acetylsalicylic acid, menthol lozenge",SODIUM CHLORIDE
+aspirin,73678-260,5 mg,"acetylsalicylic acid, menthol lozenge",WATER
+aspirin,73678-260,5 mg,"acetylsalicylic acid, menthol lozenge",STEVIA REBAUDIANA WHOLE
+aspirin,73678-360,6 mg,"acetylsalicylic acid, menthol lozenge",MENTHOL
+aspirin,73678-360,5 mg,"acetylsalicylic acid, menthol lozenge",ISOMALT
+aspirin,73678-360,5 mg,"acetylsalicylic acid, menthol lozenge",HONEY
+aspirin,73678-360,5 mg,"acetylsalicylic acid, menthol lozenge","LACTOFERRIN, BOVINE"
+aspirin,73678-360,5 mg,"acetylsalicylic acid, menthol lozenge",LYSOZYME
+aspirin,73678-360,5 mg,"acetylsalicylic acid, menthol lozenge",ALOE
+aspirin,73678-360,5 mg,"acetylsalicylic acid, menthol lozenge",SODIUM CHLORIDE
+aspirin,73678-360,5 mg,"acetylsalicylic acid, menthol lozenge",WATER
+aspirin,73678-360,5 mg,"acetylsalicylic acid, menthol lozenge",STEVIA REBAUDIANA WHOLE
+aspirin,73678-460,6 mg,"acetylsalicylic acid, menthol lozenge",MENTHOL
+aspirin,73678-460,5 mg,"acetylsalicylic acid, menthol lozenge",ISOMALT
+aspirin,73678-460,5 mg,"acetylsalicylic acid, menthol lozenge",HONEY
+aspirin,73678-460,5 mg,"acetylsalicylic acid, menthol lozenge","LACTOFERRIN, BOVINE"
+aspirin,73678-460,5 mg,"acetylsalicylic acid, menthol lozenge",LYSOZYME
+aspirin,73678-460,5 mg,"acetylsalicylic acid, menthol lozenge",ALOE
+aspirin,73678-460,5 mg,"acetylsalicylic acid, menthol lozenge",SODIUM CHLORIDE
+aspirin,73678-460,5 mg,"acetylsalicylic acid, menthol lozenge",WATER
+aspirin,73678-460,5 mg,"acetylsalicylic acid, menthol lozenge",STEVIA REBAUDIANA WHOLE
+aspirin,27102-130,300 mg,"acetylsalicylic acid tablet, chewable",CALCIUM CARBONATE
+aspirin,27102-130,300 mg,"acetylsalicylic acid tablet, chewable",BARLEY MALT SYRUP
+aspirin,27102-130,300 mg,"acetylsalicylic acid tablet, chewable","CELLULOSE, MICROCRYSTALLINE"
+aspirin,27102-130,300 mg,"acetylsalicylic acid tablet, chewable",STEARIC ACID
+aspirin,27102-130,300 mg,"acetylsalicylic acid tablet, chewable",MAGNESIUM STEARATE
+aspirin,27102-130,300 mg,"acetylsalicylic acid tablet, chewable",SKIM MILK
+aspirin,27102-130,300 mg,"acetylsalicylic acid tablet, chewable",MONTMORILLONITE
+aspirin,27102-130,300 mg,"acetylsalicylic acid tablet, chewable",ANHYDROUS DIBASIC CALCIUM PHOSPHATE
+aspirin,27102-130,300 mg,"acetylsalicylic acid tablet, chewable",MALTODEXTRIN
+aspirin,27102-131,60 mg,"acetylsalicylic acid tablet, chewable",CALCIUM CARBONATE
+aspirin,27102-131,60 mg,"acetylsalicylic acid tablet, chewable",BARLEY MALT SYRUP
+aspirin,27102-131,60 mg,"acetylsalicylic acid tablet, chewable","CELLULOSE, MICROCRYSTALLINE"
+aspirin,27102-131,60 mg,"acetylsalicylic acid tablet, chewable",STEARIC ACID
+aspirin,27102-131,60 mg,"acetylsalicylic acid tablet, chewable",MAGNESIUM STEARATE
+aspirin,27102-131,60 mg,"acetylsalicylic acid tablet, chewable",SKIM MILK
+aspirin,27102-131,60 mg,"acetylsalicylic acid tablet, chewable",MONTMORILLONITE
+aspirin,27102-131,60 mg,"acetylsalicylic acid tablet, chewable",ANHYDROUS DIBASIC CALCIUM PHOSPHATE
+aspirin,27102-131,60 mg,"acetylsalicylic acid tablet, chewable",MALTODEXTRIN
+5-bromo-2-acetylsalicylic acid,0280-2095,81 mg,"acetylsalicylic acid tablet, coated","CELLULOSE, MICROCRYSTALLINE"
+5-bromo-2-acetylsalicylic acid,0280-2095,81 mg,"acetylsalicylic acid tablet, coated",LACTOSE MONOHYDRATE
+5-bromo-2-acetylsalicylic acid,0280-2095,81 mg,"acetylsalicylic acid tablet, coated","STARCH, PREGELATINIZED CORN"
+5-bromo-2-acetylsalicylic acid,0280-2095,81 mg,"acetylsalicylic acid tablet, coated",POWDERED CELLULOSE
+5-bromo-2-acetylsalicylic acid,0280-2095,81 mg,"acetylsalicylic acid tablet, coated",CROSCARMELLOSE SODIUM
+5-bromo-2-acetylsalicylic acid,0280-2095,81 mg,"acetylsalicylic acid tablet, coated",METHACRYLIC ACID
+5-bromo-2-acetylsalicylic acid,0280-2095,81 mg,"acetylsalicylic acid tablet, coated",POLYSORBATE 80
+5-bromo-2-acetylsalicylic acid,0280-2095,81 mg,"acetylsalicylic acid tablet, coated",SODIUM LAURYL SULFATE
+5-bromo-2-acetylsalicylic acid,0280-2095,81 mg,"acetylsalicylic acid tablet, coated",TRIACETIN
+5-bromo-2-acetylsalicylic acid,0280-2095,81 mg,"acetylsalicylic acid tablet, coated",WATER
+aspirin,58487-001,162.5 mg,"acetylsalicylic acid capsule, extended release",Ethylcelluloses
+aspirin,58487-001,162.5 mg,"acetylsalicylic acid capsule, extended release",Povidones
+aspirin,58487-001,162.5 mg,"acetylsalicylic acid capsule, extended release",Castor Oil
+aspirin,58487-001,162.5 mg,"acetylsalicylic acid capsule, extended release",Tartaric Acid
+aspirin,58487-001,162.5 mg,"acetylsalicylic acid capsule, extended release",Magnesium Stearate
+aspirin,58487-001,162.5 mg,"acetylsalicylic acid capsule, extended release",Silicon Dioxide
+aspirin,58487-001,162.5 mg,"acetylsalicylic acid capsule, extended release",Talc
+aspirin,58487-001,162.5 mg,"acetylsalicylic acid capsule, extended release",Gelatin
+aspirin,58487-001,162.5 mg,"acetylsalicylic acid capsule, extended release",Titanium Dioxide
+aspirin,53666-408,500 mg,"acetylsalicylic acid, phenylephrine bitartrate, chlorpheniramine maleate tablet, effervescent",Chlorpheniramine maleate
+aspirin,53666-408,500 mg,"acetylsalicylic acid, phenylephrine bitartrate, chlorpheniramine maleate tablet, effervescent",Phenylephrine Bitartrate
+aspirin,53666-408,2 mg,"acetylsalicylic acid, phenylephrine bitartrate, chlorpheniramine maleate tablet, effervescent",SODIUM BICARBONATE

@@ -1,0 +1,497 @@
+MainDrug,NDC,Strength,Formulation,Inactive
+acetazolamide sodium,67457-853,500 mg  in 5 mL," injection, powder, lyophilized, for solution",sodium hydroxide
+acetazolamide sodium,67457-853,500 mg  in 5 mL," injection, powder, lyophilized, for solution",hydrochloric acid
+acetazolamide,65841-762,500 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acetazolamide,65841-762,500 mg, capsule,FERRIC OXIDE YELLOW
+acetazolamide,65841-762,500 mg, capsule,GELATIN
+acetazolamide,65841-762,500 mg, capsule,SODIUM LAURYL SULFATE
+acetazolamide,65841-762,500 mg, capsule,TALC
+acetazolamide,65841-762,500 mg, capsule,TITANIUM DIOXIDE
+acetazolamide,16729-331,500 mg," capsule, extended release",ETHYL ACRYLATE
+acetazolamide,16729-331,500 mg," capsule, extended release",METHACRYLATE/METHOXY PEG-10 MALEATE/STYRENE COPOLYMER
+acetazolamide,16729-331,500 mg," capsule, extended release","CELLULOSE, MICROCRYSTALLINE"
+acetazolamide,16729-331,500 mg," capsule, extended release",TALC
+acetazolamide,16729-331,500 mg," capsule, extended release",SODIUM LAURYL SULFATE
+acetazolamide,16729-331,500 mg," capsule, extended release",FD&amp;C BLUE NO. 1
+acetazolamide,16729-331,500 mg," capsule, extended release",FD&amp;C YELLOW NO. 6
+acetazolamide,16729-331,500 mg," capsule, extended release",GELATIN
+acetazolamide,16729-331,500 mg," capsule, extended release",FERRIC OXIDE YELLOW
+acetazolamide,16729-331,500 mg," capsule, extended release",TITANIUM DIOXIDE
+acetazolamide,16729-331,500 mg," capsule, extended release",SHELLAC
+acetazolamide,16729-331,500 mg," capsule, extended release",FERROSOFERRIC OXIDE
+acetazolamide,16729-331,500 mg," capsule, extended release",POTASSIUM HYDROXIDE
+acetazolamide,62332-349,500 mg," capsule, extended release",MICROCRYSTALLINE CELLULOSE
+acetazolamide,62332-349,500 mg," capsule, extended release",SODIUM LAURYL SULFATE
+acetazolamide,62332-349,500 mg," capsule, extended release",TALC
+acetazolamide,62332-349,500 mg," capsule, extended release",D&amp;C RED NO. 28
+acetazolamide,62332-349,500 mg," capsule, extended release",D&amp;C YELLOW NO. 10
+acetazolamide,62332-349,500 mg," capsule, extended release",FD&amp;C RED NO. 40
+acetazolamide,62332-349,500 mg," capsule, extended release","GELATIN, UNSPECIFIED"
+acetazolamide,62332-349,500 mg," capsule, extended release",TITANIUM DIOXIDE
+acetazolamide,62332-349,500 mg," capsule, extended release",SHELLAC
+acetazolamide,62332-349,500 mg," capsule, extended release",PROPYLENE GLYCOL
+acetazolamide,62332-349,500 mg," capsule, extended release",POTASSIUM HYDROXIDE
+acetazolamide,62332-349,500 mg," capsule, extended release",FERROSOFERRIC OXIDE
+acetazolamide,46708-349,500 mg," capsule, extended release",MICROCRYSTALLINE CELLULOSE
+acetazolamide,46708-349,500 mg," capsule, extended release",SODIUM LAURYL SULFATE
+acetazolamide,46708-349,500 mg," capsule, extended release",TALC
+acetazolamide,46708-349,500 mg," capsule, extended release",D&amp;C RED NO. 28
+acetazolamide,46708-349,500 mg," capsule, extended release",D&amp;C YELLOW NO. 10
+acetazolamide,46708-349,500 mg," capsule, extended release",FD&amp;C RED NO. 40
+acetazolamide,46708-349,500 mg," capsule, extended release","GELATIN, UNSPECIFIED"
+acetazolamide,46708-349,500 mg," capsule, extended release",TITANIUM DIOXIDE
+acetazolamide,46708-349,500 mg," capsule, extended release",SHELLAC
+acetazolamide,46708-349,500 mg," capsule, extended release",PROPYLENE GLYCOL
+acetazolamide,46708-349,500 mg," capsule, extended release",POTASSIUM HYDROXIDE
+acetazolamide,46708-349,500 mg," capsule, extended release",FERROSOFERRIC OXIDE
+acetazolamide,23155-120,500 mg," capsule, extended release",MICROCRYSTALLINE CELLULOSE
+acetazolamide,23155-120,500 mg," capsule, extended release",SODIUM LAURYL SULFATE
+acetazolamide,23155-120,500 mg," capsule, extended release",HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+acetazolamide,23155-120,500 mg," capsule, extended release",FD&amp;C GREEN NO. 3
+acetazolamide,23155-120,500 mg," capsule, extended release",FERROSOFERRIC OXIDE
+acetazolamide,23155-120,500 mg," capsule, extended release",TITANIUM DIOXIDE
+acetazolamide,23155-120,500 mg," capsule, extended release","GELATIN, UNSPECIFIED"
+acetazolamide,23155-120,500 mg," capsule, extended release",SHELLAC
+acetazolamide,23155-120,500 mg," capsule, extended release",PROPYLENE GLYCOL
+acetazolamide,23155-120,500 mg," capsule, extended release",POTASSIUM HYDROXIDE
+acetazolamide,23155-120,500 mg," capsule, extended release",TALC
+acetazolamide,23155-120,500 mg," capsule, extended release",FERRIC OXIDE YELLOW
+acetazolamide,23155-787,500 mg," capsule, extended release",AMMONIO METHACRYLATE COPOLYMER TYPE A
+acetazolamide,23155-787,500 mg," capsule, extended release",AMMONIO METHACRYLATE COPOLYMER TYPE B
+acetazolamide,23155-787,500 mg," capsule, extended release",FD&amp;C YELLOW NO. 6
+acetazolamide,23155-787,500 mg," capsule, extended release",GELATIN
+acetazolamide,23155-787,500 mg," capsule, extended release","CELLULOSE, MICROCRYSTALLINE"
+acetazolamide,23155-787,500 mg," capsule, extended release",SODIUM LAURYL SULFATE
+acetazolamide,23155-787,500 mg," capsule, extended release",TALC
+acetazolamide,23155-787,500 mg," capsule, extended release",TITANIUM DIOXIDE
+acetazolamide,23155-787,500 mg," capsule, extended release",FERROSOFERRIC OXIDE
+acetazolamide,50742-233,500 mg," capsule, extended release","CELLULOSE, MICROCRYSTALLINE"
+acetazolamide,50742-233,500 mg," capsule, extended release",HYDROXYPROPYL CELLULOSE
+acetazolamide,50742-233,500 mg," capsule, extended release","STARCH, PREGELATINIZED CORN"
+acetazolamide,50742-233,500 mg," capsule, extended release",TALC
+acetazolamide,50742-233,500 mg," capsule, extended release",GELATIN
+acetazolamide,50742-233,500 mg," capsule, extended release",SODIUM LAURYL SULFATE
+acetazolamide,50742-233,500 mg," capsule, extended release",TITANIUM DIOXIDE
+acetazolamide,50742-233,500 mg," capsule, extended release",SHELLAC
+acetazolamide,50742-233,500 mg," capsule, extended release",POTASSIUM HYDROXIDE
+acetazolamide,50742-233,500 mg," capsule, extended release",FERROSOFERRIC OXIDE
+acetazolamide,29033-030,500 mg," capsule, extended release",FERRIC OXIDE YELLOW
+acetazolamide,29033-030,500 mg," capsule, extended release",FERROSOFERRIC OXIDE
+acetazolamide,29033-030,500 mg," capsule, extended release",D&amp;C YELLOW NO. 10
+acetazolamide,29033-030,500 mg," capsule, extended release",FD&amp;C BLUE NO. 1
+acetazolamide,29033-030,500 mg," capsule, extended release",FD&amp;C BLUE NO. 2
+acetazolamide,29033-030,500 mg," capsule, extended release",FD&amp;C RED NO. 40
+acetazolamide,29033-030,500 mg," capsule, extended release",GELATIN
+acetazolamide,29033-030,500 mg," capsule, extended release",SHELLAC
+acetazolamide,29033-030,500 mg," capsule, extended release",TITANIUM DIOXIDE
+acetazolamide,29033-030,500 mg," capsule, extended release","CELLULOSE, MICROCRYSTALLINE"
+acetazolamide,29033-030,500 mg," capsule, extended release",SILICON DIOXIDE
+acetazolamide,29033-030,500 mg," capsule, extended release",HYPROMELLOSES
+acetazolamide,29033-030,500 mg," capsule, extended release",PROPYLENE GLYCOL
+acetazolamide,29033-030,500 mg," capsule, extended release",OLEIC ACID
+acetazolamide,29033-030,500 mg," capsule, extended release",ETHYLCELLULOSES
+acetazolamide,29033-030,500 mg," capsule, extended release",MEDIUM-CHAIN TRIGLYCERIDES
+acetazolamide,29033-030,500 mg," capsule, extended release",AMMONIA
+acetazolamide,29033-030,500 mg," capsule, extended release",TALC
+acetazolamide,70710-1591,500 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acetazolamide,70710-1591,500 mg, capsule,FERRIC OXIDE YELLOW
+acetazolamide,70710-1591,500 mg, capsule,GELATIN
+acetazolamide,70710-1591,500 mg, capsule,SODIUM LAURYL SULFATE
+acetazolamide,70710-1591,500 mg, capsule,TALC
+acetazolamide,70710-1591,500 mg, capsule,TITANIUM DIOXIDE
+acetazolamide,42571-243,500 mg, extended-release capsule,HYDROXYPROPYL CELLULOSE
+acetazolamide,42571-243,500 mg, extended-release capsule,TALC
+acetazolamide,42571-243,500 mg, extended-release capsule,"CELLULOSE, MICROCRYSTALLINE"
+acetazolamide,42571-243,500 mg, extended-release capsule,SODIUM LAURYL SULFATE
+acetazolamide,42571-243,500 mg, extended-release capsule,D&amp;C RED NO. 28
+acetazolamide,42571-243,500 mg, extended-release capsule,D&amp;C YELLOW NO. 10
+acetazolamide,42571-243,500 mg, extended-release capsule,FD&amp;C RED NO. 40
+acetazolamide,42571-243,500 mg, extended-release capsule,GELATIN
+acetazolamide,42571-243,500 mg, extended-release capsule,TITANIUM DIOXIDE
+acetazolamide,42571-243,500 mg, extended-release capsule,SHELLAC
+acetazolamide,42571-243,500 mg, extended-release capsule,ALCOHOL
+acetazolamide,42571-243,500 mg, extended-release capsule,ISOPROPYL ALCOHOL
+acetazolamide,42571-243,500 mg, extended-release capsule,BUTYL ALCOHOL
+acetazolamide,42571-243,500 mg, extended-release capsule,PROPYLENE GLYCOL
+acetazolamide,42571-243,500 mg, extended-release capsule,AMMONIA
+acetazolamide,42571-243,500 mg, extended-release capsule,FERROSOFERRIC OXIDE
+acetazolamide,42571-243,500 mg, extended-release capsule,POTASSIUM HYDROXIDE
+acetazolamide sodium,70771-1490,500 mg  in 5 mL,"acetazolamide injection, powder, lyophilized, for solution",SODIUM HYDROXIDE
+acetazolamide sodium,70771-1490,500 mg  in 5 mL,"acetazolamide injection, powder, lyophilized, for solution",HYDROCHLORIC ACID
+acetazolamide sodium,23155-313,500 mg  in 5 mL,"acetazolamide injection, powder, lyophilized, for solution",SODIUM HYDROXIDE
+acetazolamide sodium,23155-313,500 mg  in 5 mL,"acetazolamide injection, powder, lyophilized, for solution",HYDROCHLORIC ACID
+acetazolamide sodium,0143-9006,500 mg,"acetazolamide injection, powder, lyophilized, for solution",SODIUM HYDROXIDE
+acetazolamide sodium,0143-9006,500 mg,"acetazolamide injection, powder, lyophilized, for solution",HYDROCHLORIC ACID
+acetazolamide sodium,0143-9503,500 mg,"acetazolamide injection, powder, lyophilized, for solution",SODIUM HYDROXIDE
+acetazolamide sodium,0143-9503,500 mg,"acetazolamide injection, powder, lyophilized, for solution",HYDROCHLORIC ACID
+acetazolamide sodium,39822-0190,500 mg  in 5 mL,"acetazolamide injection, powder, lyophilized, for solution",SODIUM HYDROXIDE
+acetazolamide sodium,39822-0190,500 mg  in 5 mL,"acetazolamide injection, powder, lyophilized, for solution",HYDROCHLORIC ACID
+acetazolamide sodium,68382-076,500 mg  in 5 mL,"acetazolamide injection, powder, lyophilized, for solution",SODIUM HYDROXIDE
+acetazolamide sodium,68382-076,500 mg  in 5 mL,"acetazolamide injection, powder, lyophilized, for solution",HYDROCHLORIC ACID
+acetazolamide,72888-047,125 mg, tablet,"STARCH, CORN"
+acetazolamide,72888-047,125 mg, tablet,"GELATIN, UNSPECIFIED"
+acetazolamide,72888-047,125 mg, tablet,GLYCERIN
+acetazolamide,72888-047,125 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,72888-047,125 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,72888-047,125 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A
+acetazolamide,72888-047,125 mg, tablet,TALC
+acetazolamide,72888-048,250 mg, tablet,"STARCH, CORN"
+acetazolamide,72888-048,250 mg, tablet,"GELATIN, UNSPECIFIED"
+acetazolamide,72888-048,250 mg, tablet,GLYCERIN
+acetazolamide,72888-048,250 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,72888-048,250 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,72888-048,250 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A
+acetazolamide,72888-048,250 mg, tablet,TALC
+acetazolamide,51991-884,125 mg, tablet,MAGNESIUM PALMITOSTEARATE
+acetazolamide,51991-884,125 mg, tablet,"POVIDONE, UNSPECIFIED"
+acetazolamide,51991-884,125 mg, tablet,"STARCH, CORN"
+acetazolamide,51991-884,125 mg, tablet,CROSPOVIDONE
+acetazolamide,51991-884,125 mg, tablet,DIBASIC CALCIUM PHOSPHATE DIHYDRATE
+acetazolamide,51991-884,125 mg, tablet,WATER
+acetazolamide,51991-885,250 mg, tablet,MAGNESIUM PALMITOSTEARATE
+acetazolamide,51991-885,250 mg, tablet,"POVIDONE, UNSPECIFIED"
+acetazolamide,51991-885,250 mg, tablet,"STARCH, CORN"
+acetazolamide,51991-885,250 mg, tablet,CROSPOVIDONE
+acetazolamide,51991-885,250 mg, tablet,DIBASIC CALCIUM PHOSPHATE DIHYDRATE
+acetazolamide,51991-885,250 mg, tablet,WATER
+acetazolamide,71930-008,125 mg, tablet,DIBASIC CALCIUM PHOSPHATE DIHYDRATE
+acetazolamide,71930-008,125 mg, tablet,"STARCH, CORN"
+acetazolamide,71930-008,125 mg, tablet,CROSPOVIDONE
+acetazolamide,71930-008,125 mg, tablet,POVIDONE
+acetazolamide,71930-008,125 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,71930-009,250 mg, tablet,DIBASIC CALCIUM PHOSPHATE DIHYDRATE
+acetazolamide,71930-009,250 mg, tablet,"STARCH, CORN"
+acetazolamide,71930-009,250 mg, tablet,CROSPOVIDONE
+acetazolamide,71930-009,250 mg, tablet,POVIDONE
+acetazolamide,71930-009,250 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,23155-287,125 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,23155-287,125 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,23155-287,125 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acetazolamide,23155-287,125 mg, tablet,POVIDONE
+acetazolamide,23155-287,125 mg, tablet,"STARCH, CORN"
+acetazolamide,23155-287,125 mg, tablet,SODIUM LAURYL SULFATE
+acetazolamide,23155-287,125 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acetazolamide,23155-288,250 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,23155-288,250 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,23155-288,250 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acetazolamide,23155-288,250 mg, tablet,POVIDONE
+acetazolamide,23155-288,250 mg, tablet,"STARCH, CORN"
+acetazolamide,23155-288,250 mg, tablet,SODIUM LAURYL SULFATE
+acetazolamide,23155-288,250 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acetazolamide,0527-1050,250 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,0527-1050,250 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acetazolamide,0527-1050,250 mg, tablet,"STARCH, CORN"
+acetazolamide,0527-1050,250 mg, tablet,CALCIUM STEARATE
+acetazolamide,70756-720,125 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,70756-720,125 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,70756-720,125 mg, tablet,POVIDONE K30
+acetazolamide,70756-720,125 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acetazolamide,70756-720,125 mg, tablet,"STARCH, CORN"
+acetazolamide,70756-720,125 mg, tablet,TALC
+acetazolamide,70756-720,125 mg, tablet,WATER
+acetazolamide,70756-721,250 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,70756-721,250 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,70756-721,250 mg, tablet,POVIDONE K30
+acetazolamide,70756-721,250 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acetazolamide,70756-721,250 mg, tablet,"STARCH, CORN"
+acetazolamide,70756-721,250 mg, tablet,TALC
+acetazolamide,70756-721,250 mg, tablet,WATER
+acetazolamide,10135-567,250 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,10135-567,250 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acetazolamide,10135-567,250 mg, tablet,"STARCH, CORN"
+acetazolamide,10135-567,250 mg, tablet,CALCIUM STEARATE
+acetazolamide,70954-033,125 mg, tablet,POVIDONE K30
+acetazolamide,70954-033,125 mg, tablet,CROSCARMELLOSE SODIUM
+acetazolamide,70954-033,125 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,70954-033,125 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acetazolamide,70954-033,125 mg, tablet,SILICON DIOXIDE
+acetazolamide,70954-033,125 mg, tablet,TALC
+acetazolamide,70954-033,125 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,70954-034,250 mg, tablet,POVIDONE K30
+acetazolamide,70954-034,250 mg, tablet,CROSCARMELLOSE SODIUM
+acetazolamide,70954-034,250 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,70954-034,250 mg, tablet,"CELLULOSE, MICROCRYSTALLINE"
+acetazolamide,70954-034,250 mg, tablet,SILICON DIOXIDE
+acetazolamide,70954-034,250 mg, tablet,TALC
+acetazolamide,70954-034,250 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,64380-833,125 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,64380-833,125 mg, tablet,"STARCH, CORN"
+acetazolamide,64380-833,125 mg, tablet,GELATIN
+acetazolamide,64380-833,125 mg, tablet,GLYCERIN
+acetazolamide,64380-833,125 mg, tablet,WATER
+acetazolamide,64380-833,125 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acetazolamide,64380-833,125 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,64380-833,125 mg, tablet,TALC
+acetazolamide,64380-834,250 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,64380-834,250 mg, tablet,"STARCH, CORN"
+acetazolamide,64380-834,250 mg, tablet,GELATIN
+acetazolamide,64380-834,250 mg, tablet,GLYCERIN
+acetazolamide,64380-834,250 mg, tablet,WATER
+acetazolamide,64380-834,250 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+acetazolamide,64380-834,250 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,64380-834,250 mg, tablet,TALC
+acetazolamide,51672-4022,125 mg, tablet,Lactose Monohydrate
+acetazolamide,51672-4022,125 mg, tablet,"Starch, Corn"
+acetazolamide,51672-4022,125 mg, tablet,"Gelatin, Unspecified"
+acetazolamide,51672-4022,125 mg, tablet,Glycerin
+acetazolamide,51672-4022,125 mg, tablet,Water
+acetazolamide,51672-4022,125 mg, tablet,Talc
+acetazolamide,51672-4022,125 mg, tablet,Sodium Starch Glycolate Type A Potato
+acetazolamide,51672-4022,125 mg, tablet,Magnesium Stearate
+acetazolamide,51672-4023,250 mg, tablet,Lactose Monohydrate
+acetazolamide,51672-4023,250 mg, tablet,"Starch, Corn"
+acetazolamide,51672-4023,250 mg, tablet,"Gelatin, Unspecified"
+acetazolamide,51672-4023,250 mg, tablet,Glycerin
+acetazolamide,51672-4023,250 mg, tablet,Water
+acetazolamide,51672-4023,250 mg, tablet,Talc
+acetazolamide,51672-4023,250 mg, tablet,Sodium Starch Glycolate Type A Potato
+acetazolamide,51672-4023,250 mg, tablet,Magnesium Stearate
+acetazolamide,52817-200,125 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,52817-200,125 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,52817-200,125 mg, tablet,MICROCRYSTALLINE CELLULOSE
+acetazolamide,52817-200,125 mg, tablet,POVIDONE K30
+acetazolamide,52817-200,125 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A
+acetazolamide,52817-200,125 mg, tablet,"STARCH, CORN"
+acetazolamide,52817-201,250 mg, tablet,LACTOSE MONOHYDRATE
+acetazolamide,52817-201,250 mg, tablet,MAGNESIUM STEARATE
+acetazolamide,52817-201,250 mg, tablet,MICROCRYSTALLINE CELLULOSE
+acetazolamide,52817-201,250 mg, tablet,POVIDONE K30
+acetazolamide,52817-201,250 mg, tablet,SODIUM STARCH GLYCOLATE TYPE A
+acetazolamide,52817-201,250 mg, tablet,"STARCH, CORN"
+70710-1591,60687-578,500 mg,acetazolamide capsule,ACETAZOLAMIDE
+70710-1591,60687-578,500 mg,acetazolamide capsule,"GELATIN, UNSPECIFIED"
+70710-1591,60687-578,500 mg,acetazolamide capsule,FERRIC OXIDE YELLOW
+70710-1591,60687-578,500 mg,acetazolamide capsule,MICROCRYSTALLINE CELLULOSE
+70710-1591,60687-578,500 mg,acetazolamide capsule,SODIUM LAURYL SULFATE
+70710-1591,60687-578,500 mg,acetazolamide capsule,TALC
+70710-1591,60687-578,500 mg,acetazolamide capsule,TITANIUM DIOXIDE
+70710-1591,60687-578,500 mg,acetazolamide capsule,FERROSOFERRIC OXIDE
+70710-1591,60687-578,500 mg,acetazolamide capsule,BUTYL ALCOHOL
+70710-1591,60687-578,500 mg,acetazolamide capsule,ALCOHOL
+70710-1591,60687-578,500 mg,acetazolamide capsule,ISOPROPYL ALCOHOL
+70710-1591,60687-578,500 mg,acetazolamide capsule,POTASSIUM HYDROXIDE
+70710-1591,60687-578,500 mg,acetazolamide capsule,PROPYLENE GLYCOL
+70710-1591,60687-578,500 mg,acetazolamide capsule,SHELLAC
+70710-1591,60687-578,500 mg,acetazolamide capsule,AMMONIA
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release",ACETAZOLAMIDE
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release",MICROCRYSTALLINE CELLULOSE
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release",SODIUM LAURYL SULFATE
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release",HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release",FD&amp;C GREEN NO. 3
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release",FERROSOFERRIC OXIDE
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release",TITANIUM DIOXIDE
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release","GELATIN, UNSPECIFIED"
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release",SHELLAC
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release",PROPYLENE GLYCOL
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release",POTASSIUM HYDROXIDE
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release",TALC
+23155-120,50090-3132,500 mg,"acetazolamide capsule, extended release",FERRIC OXIDE YELLOW
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",ACETAZOLAMIDE
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",FERRIC OXIDE YELLOW
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",FERROSOFERRIC OXIDE
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",D&amp;C YELLOW NO. 10
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",FD&amp;C BLUE NO. 1
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",FD&amp;C BLUE NO. 2
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",FD&amp;C RED NO. 40
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release","GELATIN, UNSPECIFIED"
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",SHELLAC
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",TITANIUM DIOXIDE
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",MICROCRYSTALLINE CELLULOSE
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",SILICON DIOXIDE
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release","HYPROMELLOSE, UNSPECIFIED"
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",PROPYLENE GLYCOL
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",OLEIC ACID
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release","ETHYLCELLULOSE, UNSPECIFIED"
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",MEDIUM-CHAIN TRIGLYCERIDES
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",AMMONIA
+29033-030,63629-8257,500 mg,"acetazolamide capsule, extended release",TALC
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,ACETAZOLAMIDE
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,"HYPROMELLOSE, UNSPECIFIED"
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,MAGNESIUM STEARATE
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,MICROCRYSTALLINE CELLULOSE
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,SODIUM LAURYL SULFATE
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,D&amp;C RED NO. 28
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,D&amp;C YELLOW NO. 10
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,FD&amp;C RED NO. 40
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,"GELATIN, UNSPECIFIED"
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,TITANIUM DIOXIDE
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,SHELLAC
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,ALCOHOL
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,ISOPROPYL ALCOHOL
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,BUTYL ALCOHOL
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,PROPYLENE GLYCOL
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,AMMONIA
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,FERROSOFERRIC OXIDE
+42571-243,50090-5608,500 mg,acetazolamide extended-release capsule,POTASSIUM HYDROXIDE
+71930-009,60687-619,250 mg,acetazolamide tablet,ACETAZOLAMIDE
+71930-009,60687-619,250 mg,acetazolamide tablet,DIBASIC CALCIUM PHOSPHATE DIHYDRATE
+71930-009,60687-619,250 mg,acetazolamide tablet,"STARCH, CORN"
+71930-009,60687-619,250 mg,acetazolamide tablet,CROSPOVIDONE (120 .MU.M)
+71930-009,60687-619,250 mg,acetazolamide tablet,"POVIDONE, UNSPECIFIED"
+71930-009,60687-619,250 mg,acetazolamide tablet,WATER
+71930-009,60687-619,250 mg,acetazolamide tablet,MAGNESIUM STEARATE
+0527-1050,68084-541,250 mg,acetazolamide tablet,ACETAZOLAMIDE
+0527-1050,68084-541,250 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+0527-1050,68084-541,250 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0527-1050,68084-541,250 mg,acetazolamide tablet,"STARCH, CORN"
+0527-1050,68084-541,250 mg,acetazolamide tablet,CALCIUM STEARATE
+64380-833,50090-4511,125 mg,acetazolamide tablet,ACETAZOLAMIDE
+64380-833,50090-4511,125 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+64380-833,50090-4511,125 mg,acetazolamide tablet,"STARCH, CORN"
+64380-833,50090-4511,125 mg,acetazolamide tablet,"GELATIN, UNSPECIFIED"
+64380-833,50090-4511,125 mg,acetazolamide tablet,GLYCERIN
+64380-833,50090-4511,125 mg,acetazolamide tablet,WATER
+64380-833,50090-4511,125 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+64380-833,50090-4511,125 mg,acetazolamide tablet,MAGNESIUM STEARATE
+64380-833,50090-4511,125 mg,acetazolamide tablet,TALC
+0527-1050,50090-3003,250 mg,acetazolamide tablet,ACETAZOLAMIDE
+0527-1050,50090-3003,250 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+0527-1050,50090-3003,250 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0527-1050,50090-3003,250 mg,acetazolamide tablet,"STARCH, CORN"
+0527-1050,50090-3003,250 mg,acetazolamide tablet,CALCIUM STEARATE
+51672-4022,50090-0577,125 mg,acetazolamide tablet,ACETAZOLAMIDE
+51672-4022,50090-0577,125 mg,acetazolamide tablet,Lactose Monohydrate
+51672-4022,50090-0577,125 mg,acetazolamide tablet,"Starch, Corn"
+51672-4022,50090-0577,125 mg,acetazolamide tablet,"Gelatin, Unspecified"
+51672-4022,50090-0577,125 mg,acetazolamide tablet,Glycerin
+51672-4022,50090-0577,125 mg,acetazolamide tablet,Water
+51672-4022,50090-0577,125 mg,acetazolamide tablet,Talc
+51672-4022,50090-0577,125 mg,acetazolamide tablet,Sodium Starch Glycolate Type A Potato
+51672-4022,50090-0577,125 mg,acetazolamide tablet,Magnesium Stearate
+64380-834,50090-5593,250 mg,acetazolamide tablet,ACETAZOLAMIDE
+64380-834,50090-5593,250 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+64380-834,50090-5593,250 mg,acetazolamide tablet,"STARCH, CORN"
+64380-834,50090-5593,250 mg,acetazolamide tablet,"GELATIN, UNSPECIFIED"
+64380-834,50090-5593,250 mg,acetazolamide tablet,GLYCERIN
+64380-834,50090-5593,250 mg,acetazolamide tablet,WATER
+64380-834,50090-5593,250 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+64380-834,50090-5593,250 mg,acetazolamide tablet,MAGNESIUM STEARATE
+64380-834,50090-5593,250 mg,acetazolamide tablet,TALC
+71930-008,50090-5217,125 mg,acetazolamide tablet,ACETAZOLAMIDE
+71930-008,50090-5217,125 mg,acetazolamide tablet,DIBASIC CALCIUM PHOSPHATE DIHYDRATE
+71930-008,50090-5217,125 mg,acetazolamide tablet,"STARCH, CORN"
+71930-008,50090-5217,125 mg,acetazolamide tablet,CROSPOVIDONE (15 MPA.S AT 5%)
+71930-008,50090-5217,125 mg,acetazolamide tablet,"POVIDONE, UNSPECIFIED"
+71930-008,50090-5217,125 mg,acetazolamide tablet,MAGNESIUM STEARATE
+23155-287,50090-5617,125 mg,acetazolamide tablet,ACETAZOLAMIDE
+23155-287,50090-5617,125 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+23155-287,50090-5617,125 mg,acetazolamide tablet,MAGNESIUM STEARATE
+23155-287,50090-5617,125 mg,acetazolamide tablet,MICROCRYSTALLINE CELLULOSE
+23155-287,50090-5617,125 mg,acetazolamide tablet,"POVIDONE, UNSPECIFIED"
+23155-287,50090-5617,125 mg,acetazolamide tablet,"STARCH, CORN"
+23155-287,50090-5617,125 mg,acetazolamide tablet,SODIUM LAURYL SULFATE
+23155-287,50090-5617,125 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0527-1050,42291-103,250 mg,acetazolamide tablet,ACETAZOLAMIDE
+0527-1050,42291-103,250 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+0527-1050,42291-103,250 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0527-1050,42291-103,250 mg,acetazolamide tablet,"STARCH, CORN"
+0527-1050,42291-103,250 mg,acetazolamide tablet,CALCIUM STEARATE
+23155-287,42291-089,125 mg,acetazolamide tablet,ACETAZOLAMIDE
+23155-287,42291-089,125 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+23155-287,42291-089,125 mg,acetazolamide tablet,MAGNESIUM STEARATE
+23155-287,42291-089,125 mg,acetazolamide tablet,"CELLULOSE, MICROCRYSTALLINE"
+23155-287,42291-089,125 mg,acetazolamide tablet,POVIDONE
+23155-287,42291-089,125 mg,acetazolamide tablet,"STARCH, CORN"
+23155-287,42291-089,125 mg,acetazolamide tablet,SODIUM LAURYL SULFATE
+23155-287,42291-089,125 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+23155-287,23155-288,125 mg,acetazolamide tablet,ACETAZOLAMIDE
+23155-287,23155-288,250 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+23155-287,23155-288,250 mg,acetazolamide tablet,MAGNESIUM STEARATE
+23155-287,23155-288,250 mg,acetazolamide tablet,"CELLULOSE, MICROCRYSTALLINE"
+23155-287,23155-288,250 mg,acetazolamide tablet,POVIDONE
+23155-287,23155-288,250 mg,acetazolamide tablet,"STARCH, CORN"
+23155-287,23155-288,250 mg,acetazolamide tablet,SODIUM LAURYL SULFATE
+23155-287,23155-288,250 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+64380-834,50268-054,250 mg,acetazolamide tablet,ACETAZOLAMIDE
+64380-834,50268-054,250 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+64380-834,50268-054,250 mg,acetazolamide tablet,"STARCH, CORN"
+64380-834,50268-054,250 mg,acetazolamide tablet,GELATIN
+64380-834,50268-054,250 mg,acetazolamide tablet,GLYCERIN
+64380-834,50268-054,250 mg,acetazolamide tablet,WATER
+64380-834,50268-054,250 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+64380-834,50268-054,250 mg,acetazolamide tablet,MAGNESIUM STEARATE
+64380-834,50268-054,250 mg,acetazolamide tablet,TALC
+70756-720,63629-1194,125 mg,acetazolamide tablet,ACETAZOLAMIDE
+70756-720,63629-1194,125 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+70756-720,63629-1194,125 mg,acetazolamide tablet,MAGNESIUM STEARATE
+70756-720,63629-1194,125 mg,acetazolamide tablet,POVIDONE K30
+70756-720,63629-1194,125 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+70756-720,63629-1194,125 mg,acetazolamide tablet,"STARCH, CORN"
+70756-720,63629-1194,125 mg,acetazolamide tablet,TALC
+70756-720,63629-1194,125 mg,acetazolamide tablet,WATER
+70756-721,63629-1195,250 mg,acetazolamide tablet,ACETAZOLAMIDE
+70756-721,63629-1195,250 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+70756-721,63629-1195,250 mg,acetazolamide tablet,MAGNESIUM STEARATE
+70756-721,63629-1195,250 mg,acetazolamide tablet,POVIDONE K30
+70756-721,63629-1195,250 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+70756-721,63629-1195,250 mg,acetazolamide tablet,"STARCH, CORN"
+70756-721,63629-1195,250 mg,acetazolamide tablet,TALC
+70756-721,63629-1195,250 mg,acetazolamide tablet,WATER
+64380-834,71335-1370,250 mg,acetazolamide tablet,ACETAZOLAMIDE
+64380-834,71335-1370,250 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+64380-834,71335-1370,250 mg,acetazolamide tablet,"STARCH, CORN"
+64380-834,71335-1370,250 mg,acetazolamide tablet,"GELATIN, UNSPECIFIED"
+64380-834,71335-1370,250 mg,acetazolamide tablet,GLYCERIN
+64380-834,71335-1370,250 mg,acetazolamide tablet,WATER
+64380-834,71335-1370,250 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+64380-834,71335-1370,250 mg,acetazolamide tablet,MAGNESIUM STEARATE
+64380-834,71335-1370,250 mg,acetazolamide tablet,TALC
+23155-288,63629-7889,250 mg,acetazolamide tablet,ACETAZOLAMIDE
+23155-288,63629-7889,250 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+23155-288,63629-7889,250 mg,acetazolamide tablet,MAGNESIUM STEARATE
+23155-288,63629-7889,250 mg,acetazolamide tablet,MICROCRYSTALLINE CELLULOSE
+23155-288,63629-7889,250 mg,acetazolamide tablet,"POVIDONE, UNSPECIFIED"
+23155-288,63629-7889,250 mg,acetazolamide tablet,"STARCH, CORN"
+23155-288,63629-7889,250 mg,acetazolamide tablet,SODIUM LAURYL SULFATE
+23155-288,63629-7889,250 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+71930-008,70934-926,125 mg,acetazolamide tablet,ACETAZOLAMIDE
+71930-008,70934-926,125 mg,acetazolamide tablet,DIBASIC CALCIUM PHOSPHATE DIHYDRATE
+71930-008,70934-926,125 mg,acetazolamide tablet,"STARCH, CORN"
+71930-008,70934-926,125 mg,acetazolamide tablet,CROSPOVIDONE
+71930-008,70934-926,125 mg,acetazolamide tablet,POVIDONE
+71930-008,70934-926,125 mg,acetazolamide tablet,MAGNESIUM STEARATE
+23155-288,0904-6663,250 mg,acetazolamide tablet,ACETAZOLAMIDE
+23155-288,0904-6663,250 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+23155-288,0904-6663,250 mg,acetazolamide tablet,MAGNESIUM STEARATE
+23155-288,0904-6663,250 mg,acetazolamide tablet,MICROCRYSTALLINE CELLULOSE
+23155-288,0904-6663,250 mg,acetazolamide tablet,"POVIDONE, UNSPECIFIED"
+23155-288,0904-6663,250 mg,acetazolamide tablet,"STARCH, CORN"
+23155-288,0904-6663,250 mg,acetazolamide tablet,SODIUM LAURYL SULFATE
+23155-288,0904-6663,250 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+64380-833,72789-045,125 mg,acetazolamide tablet,ACETAZOLAMIDE
+64380-833,72789-045,125 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+64380-833,72789-045,125 mg,acetazolamide tablet,"STARCH, CORN"
+64380-833,72789-045,125 mg,acetazolamide tablet,GELATIN
+64380-833,72789-045,125 mg,acetazolamide tablet,GLYCERIN
+64380-833,72789-045,125 mg,acetazolamide tablet,WATER
+64380-833,72789-045,125 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+64380-833,72789-045,125 mg,acetazolamide tablet,MAGNESIUM STEARATE
+64380-833,72789-045,125 mg,acetazolamide tablet,TALC
+51672-4022,55289-720,125 mg,acetazolamide tablet,ACETAZOLAMIDE
+51672-4022,55289-720,125 mg,acetazolamide tablet,"STARCH, CORN"
+51672-4022,55289-720,125 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+51672-4022,55289-720,125 mg,acetazolamide tablet,"GELATIN, UNSPECIFIED"
+51672-4022,55289-720,125 mg,acetazolamide tablet,GLYCERIN
+51672-4022,55289-720,125 mg,acetazolamide tablet,WATER
+51672-4022,55289-720,125 mg,acetazolamide tablet,TALC
+51672-4022,55289-720,125 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+51672-4022,55289-720,125 mg,acetazolamide tablet,MAGNESIUM STEARATE
+0527-1050,54868-1195,250 mg,acetazolamide tablet,ACETAZOLAMIDE
+0527-1050,54868-1195,250 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+0527-1050,54868-1195,250 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0527-1050,54868-1195,250 mg,acetazolamide tablet,"STARCH, CORN"
+0527-1050,54868-1195,250 mg,acetazolamide tablet,CALCIUM STEARATE
+64380-833,71205-308,125 mg,acetazolamide tablet,ACETAZOLAMIDE
+64380-833,71205-308,125 mg,acetazolamide tablet,LACTOSE MONOHYDRATE
+64380-833,71205-308,125 mg,acetazolamide tablet,"STARCH, CORN"
+64380-833,71205-308,125 mg,acetazolamide tablet,"GELATIN, UNSPECIFIED"
+64380-833,71205-308,125 mg,acetazolamide tablet,GLYCERIN
+64380-833,71205-308,125 mg,acetazolamide tablet,WATER
+64380-833,71205-308,125 mg,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+64380-833,71205-308,125 mg,acetazolamide tablet,MAGNESIUM STEARATE
+64380-833,71205-308,125 mg,acetazolamide tablet,TALC
+0527-1050,67296-0801,250,acetazolamide tablet,ACETAZOLAMIDE
+0527-1050,67296-0801,250,acetazolamide tablet,LACTOSE MONOHYDRATE
+0527-1050,67296-0801,250,acetazolamide tablet,SODIUM STARCH GLYCOLATE TYPE A POTATO
+0527-1050,67296-0801,250,acetazolamide tablet,"STARCH, CORN"
+0527-1050,67296-0801,250,acetazolamide tablet,CALCIUM STEARATE

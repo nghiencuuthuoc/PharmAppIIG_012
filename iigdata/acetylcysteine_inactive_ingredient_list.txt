@@ -1,0 +1,116 @@
+MainDrug,NDC,Strength,Formulation,Inactive
+acetylcysteine,51754-0104,200 mg  in 1 mL, injection injection,WATER
+acetylcysteine,51754-0104,200 mg  in 1 mL, injection injection,EDETATE DISODIUM
+acetylcysteine,51754-0104,200 mg  in 1 mL, injection injection,SODIUM HYDROXIDE
+acetylcysteine,0517-7504,100 mg  in 1 mL, inhalant,EDETATE DISODIUM
+acetylcysteine,0517-7504,100 mg  in 1 mL, inhalant,WATER
+acetylcysteine,0517-7604,200 mg  in 1 mL, inhalant,EDETATE DISODIUM
+acetylcysteine,0517-7604,200 mg  in 1 mL, inhalant,WATER
+acetylcysteine,0517-7510,100 mg  in 1 mL, inhalant,EDETATE DISODIUM
+acetylcysteine,0517-7510,100 mg  in 1 mL, inhalant,WATER
+acetylcysteine,0517-7610,200 mg  in 1 mL, inhalant,EDETATE DISODIUM
+acetylcysteine,0517-7610,200 mg  in 1 mL, inhalant,WATER
+acetylcysteine,0517-7630,200 mg  in 1 mL, inhalant,EDETATE DISODIUM
+acetylcysteine,0517-7630,200 mg  in 1 mL, inhalant,WATER
+acetylcysteine,17478-660,200 mg  in 1 mL, injection,Edetate Disodium
+acetylcysteine,17478-660,200 mg  in 1 mL, injection,Sodium Hydroxide
+acetylcysteine,17478-660,200 mg  in 1 mL, injection,Water
+acetylcysteine,14445-412,200 mg  in 1 mL, injection,EDETATE DISODIUM
+acetylcysteine,14445-412,200 mg  in 1 mL, injection,SODIUM HYDROXIDE
+acetylcysteine,14445-412,200 mg  in 1 mL, injection,WATER
+acetylcysteine,0574-0805,200 mg  in 1 mL, injection,SODIUM HYDROXIDE
+acetylcysteine,0574-0805,200 mg  in 1 mL, injection,WATER
+acetylcysteine,55150-259,6 g  in 30 mL," injection, solution",EDETATE DISODIUM
+acetylcysteine,55150-259,6 g  in 30 mL," injection, solution",SODIUM HYDROXIDE
+acetylcysteine,55150-259,6 g  in 30 mL," injection, solution",WATER
+acetylcysteine,70771-1412,200 mg  in 1 mL," injection, solution",EDETATE DISODIUM
+acetylcysteine,70771-1412,200 mg  in 1 mL," injection, solution",NITROGEN
+acetylcysteine,70771-1412,200 mg  in 1 mL," injection, solution",SODIUM HYDROXIDE
+acetylcysteine,70771-1412,200 mg  in 1 mL," injection, solution",WATER
+acetylcysteine,63323-963,200 mg  in 1 mL," injection, solution",EDETATE DISODIUM
+acetylcysteine,63323-963,200 mg  in 1 mL," injection, solution",SODIUM HYDROXIDE
+acetylcysteine,63323-963,200 mg  in 1 mL," injection, solution",WATER
+acetylcysteine,63323-963,200 mg  in 1 mL," injection, solution",EDETATE DISODIUM
+acetylcysteine,63323-963,200 mg  in 1 mL," injection, solution",SODIUM HYDROXIDE
+acetylcysteine,63323-963,200 mg  in 1 mL," injection, solution",WATER
+acetylcysteine,25021-812,200 mg  in 1 mL," injection, solution",edetate disodium
+acetylcysteine,25021-812,200 mg  in 1 mL," injection, solution",sodium hydroxide
+acetylcysteine,25021-812,200 mg  in 1 mL," injection, solution",water
+acetylcysteine,25021-812,200 mg  in 1 mL," injection, solution",edetate disodium
+acetylcysteine,25021-812,200 mg  in 1 mL," injection, solution",sodium hydroxide
+acetylcysteine,25021-812,200 mg  in 1 mL," injection, solution",water
+acetylcysteine,70710-1015,200 mg  in 1 mL," injection, solution",EDETATE DISODIUM
+acetylcysteine,70710-1015,200 mg  in 1 mL," injection, solution",NITROGEN
+acetylcysteine,70710-1015,200 mg  in 1 mL," injection, solution",SODIUM HYDROXIDE
+acetylcysteine,70710-1015,200 mg  in 1 mL," injection, solution",WATER
+acetylcysteine,63323-694,200 mg  in 1 mL, solution,EDETATE DISODIUM
+acetylcysteine,63323-694,200 mg  in 1 mL, solution,SODIUM HYDROXIDE
+acetylcysteine,63323-694,200 mg  in 1 mL, solution,HYDROCHLORIC ACID
+acetylcysteine,63323-690,200 mg  in 1 mL, solution,EDETATE DISODIUM
+acetylcysteine,63323-690,200 mg  in 1 mL, solution,SODIUM HYDROXIDE
+acetylcysteine,63323-690,200 mg  in 1 mL, solution,HYDROCHLORIC ACID
+acetylcysteine,63323-695,100 mg  in 1 mL, solution,EDETATE DISODIUM
+acetylcysteine,63323-695,100 mg  in 1 mL, solution,SODIUM HYDROXIDE
+acetylcysteine,63323-695,100 mg  in 1 mL, solution,HYDROCHLORIC ACID
+acetylcysteine,63323-693,100 mg  in 1 mL, solution,EDETATE DISODIUM
+acetylcysteine,63323-693,100 mg  in 1 mL, solution,SODIUM HYDROXIDE
+acetylcysteine,63323-693,100 mg  in 1 mL, solution,HYDROCHLORIC ACID
+acetylcysteine,63323-691,100 mg  in 1 mL, solution,EDETATE DISODIUM
+acetylcysteine,63323-691,100 mg  in 1 mL, solution,SODIUM HYDROXIDE
+acetylcysteine,63323-691,100 mg  in 1 mL, solution,HYDROCHLORIC ACID
+acetylcysteine,63323-694,200 mg  in 1 mL, solution,EDETATE DISODIUM
+acetylcysteine,63323-694,200 mg  in 1 mL, solution,SODIUM HYDROXIDE
+acetylcysteine,63323-694,200 mg  in 1 mL, solution,HYDROCHLORIC ACID
+acetylcysteine,63323-692,200 mg  in 1 mL, solution,EDETATE DISODIUM
+acetylcysteine,63323-692,200 mg  in 1 mL, solution,SODIUM HYDROXIDE
+acetylcysteine,63323-692,200 mg  in 1 mL, solution,HYDROCHLORIC ACID
+acetylcysteine,63323-690,200 mg  in 1 mL, solution,EDETATE DISODIUM
+acetylcysteine,63323-690,200 mg  in 1 mL, solution,SODIUM HYDROXIDE
+acetylcysteine,63323-690,200 mg  in 1 mL, solution,HYDROCHLORIC ACID
+acetylcysteine,0409-3307,100 mg  in 1 mL, solution,EDETATE DISODIUM
+acetylcysteine,0409-3307,100 mg  in 1 mL, solution,SODIUM HYDROXIDE
+acetylcysteine,0409-3307,100 mg  in 1 mL, solution,HYDROCHLORIC ACID
+acetylcysteine,0409-3308,200 mg  in 1 mL, solution,EDETATE DISODIUM
+acetylcysteine,0409-3308,200 mg  in 1 mL, solution,SODIUM HYDROXIDE
+acetylcysteine,0409-3308,200 mg  in 1 mL, solution,HYDROCHLORIC ACID
+0517-7604,55154-5731,200 mg  in 1 mL,acetylcysteine inhalant,acetylcysteine
+0517-7604,55154-5731,200 mg  in 1 mL,acetylcysteine inhalant,edetate disodium
+0517-7604,55154-5731,200 mg  in 1 mL,acetylcysteine inhalant,SODIUM HYDROXIDE
+0517-7604,55154-5731,200 mg  in 1 mL,acetylcysteine inhalant,water
+0517-7604,0517-7504,4 mL in 1 VIAL; Type 0: Not a Combination Product,acetylcysteine inhalant,acetylcysteine
+0517-7604,0517-7504,100 mg  in 1 mL,acetylcysteine inhalant,edetate disodium
+0517-7604,0517-7504,100 mg  in 1 mL,acetylcysteine inhalant,SODIUM HYDROXIDE
+0517-7604,0517-7504,100 mg  in 1 mL,acetylcysteine inhalant,water
+0054-3026,54868-5670,200 mg  in 1 mL,acetylcysteine solution,ACETYLCYSTEINE
+0054-3026,54868-5670,200 mg  in 1 mL,acetylcysteine solution,EDETATE DISODIUM
+0054-3026,54868-5670,200 mg  in 1 mL,acetylcysteine solution,SODIUM HYDROXIDE
+0054-3026,54868-5670,200 mg  in 1 mL,acetylcysteine solution,WATER
+acetylcysteine,66220-207,200 mg  in 1 mL," injection, solution",water
+acetylcysteine,66220-207,200 mg  in 1 mL," injection, solution",sodium hydroxide
+acetylcysteine,66220-207,200 mg  in 1 mL," injection, solution",nitrogen
+melatonin,17089-067,15 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,LITHIUM CARBONATE
+melatonin,17089-067,15 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,ACETYLCYSTEINE
+melatonin,17089-067,4 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,STRYCHNOS NUX-VOMICA SEED
+melatonin,17089-067,5 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,PENICILLIUM GLABRUM
+melatonin,17089-067,8 [hp_X]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,RHODOTORULA RUBRA
+melatonin,17089-067,8 [hp_X]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,SUS SCROFA STOMACH
+melatonin,17089-067,7 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,SUS SCROFA SUPERIOR GASTRIC PLEXUS
+melatonin,17089-067,7 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,SUS SCROFA THALAMUS
+melatonin,17089-067,7 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,EPINEPHRINE
+melatonin,17089-067,9 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,SILVER NITRATE
+melatonin,17089-067,9 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,BALLOTA FOETIDA
+melatonin,17089-067,3 [hp_X]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,PUMMELO
+melatonin,17089-067,3 [hp_X]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,SUS SCROFA CEREBRAL CORTEX
+melatonin,17089-067,4 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,LENOGRASTIM
+melatonin,17089-067,4 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,GLUTATHIONE
+melatonin,17089-067,4 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,INTERFERON GAMMA-1B
+melatonin,17089-067,5 [hp_C]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,POTASSIUM CARBONATE
+melatonin,17089-067,8 [hp_X]  in 4 g,acetylcysteine - ballota foetida - epinephrine - glutathione - interferon gamma-1b - lenograstim - lithium carbonate -  - penicillium glabrum - potassium carbonate - pummelo - rhodotorula rubra - silver nitrate - strychnos nux-vomica seed - sus scrofa cerebral cortex - sus scrofa stomach - sus scrofa superior gastric plexus - sus scrofa thalamus - pellet,SUCROSE
+acetylcysteine,86127-011,1.35 mg  in 1 mL, solution,EDETIC ACID
+acetylcysteine,86127-011,1.35 mg  in 1 mL, solution,WATER
+acetylcysteine,86127-011,1.35 mg  in 1 mL, solution,ETHYLHEXYLGLYCERIN
+acetylcysteine,86127-011,1.35 mg  in 1 mL, solution,PROPYLENE GLYCOL
+acetylcysteine,86127-011,1.35 mg  in 1 mL, solution,PEG-40 CASTOR OIL
+acetylcysteine,86127-011,1.35 mg  in 1 mL, solution,SILICON DIOXIDE
+acetylcysteine,86127-011,1.35 mg  in 1 mL, solution,PHENOXYETHANOL
+acetylcysteine,86127-011,1.35 mg  in 1 mL, solution,TROMETHAMINE

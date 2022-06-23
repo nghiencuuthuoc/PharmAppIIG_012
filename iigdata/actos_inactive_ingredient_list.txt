@@ -1,0 +1,39 @@
+MainDrug,NDC,Strength,Formulation,Inactive
+pioglitazone hydrochloride,64764-151,15 mg,pioglitazone tablet,carboxymethylcellulose calcium
+pioglitazone hydrochloride,64764-151,15 mg,pioglitazone tablet,HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+pioglitazone hydrochloride,64764-151,15 mg,pioglitazone tablet,lactose monohydrate
+pioglitazone hydrochloride,64764-151,15 mg,pioglitazone tablet,magnesium stearate
+pioglitazone hydrochloride,64764-301,30 mg,pioglitazone tablet,carboxymethylcellulose calcium
+pioglitazone hydrochloride,64764-301,30 mg,pioglitazone tablet,HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+pioglitazone hydrochloride,64764-301,30 mg,pioglitazone tablet,lactose monohydrate
+pioglitazone hydrochloride,64764-301,30 mg,pioglitazone tablet,magnesium stearate
+pioglitazone hydrochloride,64764-451,45 mg,pioglitazone tablet,carboxymethylcellulose calcium
+pioglitazone hydrochloride,64764-451,45 mg,pioglitazone tablet,HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+pioglitazone hydrochloride,64764-451,45 mg,pioglitazone tablet,lactose monohydrate
+pioglitazone hydrochloride,64764-451,45 mg,pioglitazone tablet,magnesium stearate
+64764-151,68258-5230,15 mg,pioglitazone hydrochloride tablet,pioglitazone hydrochloride
+64764-151,68258-5230,15 mg,pioglitazone hydrochloride tablet,carboxymethylcellulose calcium
+64764-151,68258-5230,15 mg,pioglitazone hydrochloride tablet,hydroxypropyl cellulose
+64764-151,68258-5230,15 mg,pioglitazone hydrochloride tablet,lactose monohydrate
+64764-151,68258-5230,15 mg,pioglitazone hydrochloride tablet,magnesium stearate
+64764-151,64764-301,15 mg,pioglitazone hydrochloride tablet,pioglitazone hydrochloride
+64764-151,64764-301,30 mg,pioglitazone hydrochloride tablet,carboxymethylcellulose calcium
+64764-151,64764-301,30 mg,pioglitazone hydrochloride tablet,hydroxypropyl cellulose
+64764-151,64764-301,30 mg,pioglitazone hydrochloride tablet,lactose monohydrate
+64764-151,64764-301,30 mg,pioglitazone hydrochloride tablet,magnesium stearate
+64764-151,54868-4343,15 mg,pioglitazone hydrochloride tablet,pioglitazone hydrochloride
+64764-151,54868-4343,15 mg,pioglitazone hydrochloride tablet,carboxymethylcellulose calcium
+64764-151,54868-4343,15 mg,pioglitazone hydrochloride tablet,hydroxypropyl cellulose
+64764-151,54868-4343,15 mg,pioglitazone hydrochloride tablet,lactose monohydrate
+64764-151,54868-4343,15 mg,pioglitazone hydrochloride tablet,magnesium stearate
+64764-151,64764-301,15 mg,pioglitazone hydrochloride tablet,pioglitazone hydrochloride
+64764-151,64764-301,30 mg,pioglitazone hydrochloride tablet,carboxymethylcellulose calcium
+64764-151,64764-301,30 mg,pioglitazone hydrochloride tablet,hydroxypropyl cellulose
+64764-151,64764-301,30 mg,pioglitazone hydrochloride tablet,lactose monohydrate
+64764-151,64764-301,30 mg,pioglitazone hydrochloride tablet,magnesium stearate
+64764-151,64764-451,30 mg,pioglitazone hydrochloride tablet,pioglitazone hydrochloride
+64764-151,64764-451,45 mg,pioglitazone hydrochloride tablet,carboxymethylcellulose calcium
+64764-151,64764-451,45 mg,pioglitazone hydrochloride tablet,hydroxypropyl cellulose
+64764-151,64764-451,45 mg,pioglitazone hydrochloride tablet,lactose monohydrate
+64764-151,64764-451,45 mg,pioglitazone hydrochloride tablet,magnesium stearate
+64764-151,21695-147,15 mg,pioglitazone hydrochloride tablet,pioglitazone hydrochloride

@@ -1,0 +1,3 @@
+MainDrug,NDC,Strength,Formulation,Inactive
+aclidinium bromide,0310-0800,400 ug," powder, metered",lactose monohydrate
+aclidinium bromide,72124-002,400 ug," powder, metered",lactose monohydrate

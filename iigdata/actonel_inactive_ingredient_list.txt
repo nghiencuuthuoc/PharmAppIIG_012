@@ -1,0 +1,88 @@
+MainDrug,NDC,Strength,Formulation,Inactive
+risedronate sodium hemi-pentahydrate,0430-0471,4.3 mg,"risedronate sodium tablet, film coated",RISEDRONATE SODIUM MONOHYDRATE
+risedronate sodium hemi-pentahydrate,0430-0471,0.7 mg,"risedronate sodium tablet, film coated",CROSPOVIDONE
+risedronate sodium hemi-pentahydrate,0430-0471,0.7 mg,"risedronate sodium tablet, film coated",HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+risedronate sodium hemi-pentahydrate,0430-0471,0.7 mg,"risedronate sodium tablet, film coated",HYPROMELLOSES
+risedronate sodium hemi-pentahydrate,0430-0471,0.7 mg,"risedronate sodium tablet, film coated",MAGNESIUM STEARATE
+risedronate sodium hemi-pentahydrate,0430-0471,0.7 mg,"risedronate sodium tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+risedronate sodium hemi-pentahydrate,0430-0471,0.7 mg,"risedronate sodium tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+risedronate sodium hemi-pentahydrate,0430-0471,0.7 mg,"risedronate sodium tablet, film coated",SILICON DIOXIDE
+risedronate sodium hemi-pentahydrate,0430-0471,0.7 mg,"risedronate sodium tablet, film coated",TITANIUM DIOXIDE
+risedronate sodium hemi-pentahydrate,0430-0471,0.7 mg,"risedronate sodium tablet, film coated",FERRIC OXIDE YELLOW
+risedronate sodium hemi-pentahydrate,0430-0471,0.7 mg,"risedronate sodium tablet, film coated",LACTOSE MONOHYDRATE
+risedronate sodium hemi-pentahydrate,0430-0470,0.7 mg,"risedronate sodium tablet, film coated",RISEDRONATE SODIUM MONOHYDRATE
+risedronate sodium hemi-pentahydrate,0430-0470,4.2 mg,"risedronate sodium tablet, film coated",CROSPOVIDONE
+risedronate sodium hemi-pentahydrate,0430-0470,4.2 mg,"risedronate sodium tablet, film coated",HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+risedronate sodium hemi-pentahydrate,0430-0470,4.2 mg,"risedronate sodium tablet, film coated",HYPROMELLOSES
+risedronate sodium hemi-pentahydrate,0430-0470,4.2 mg,"risedronate sodium tablet, film coated",MAGNESIUM STEARATE
+risedronate sodium hemi-pentahydrate,0430-0470,4.2 mg,"risedronate sodium tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+risedronate sodium hemi-pentahydrate,0430-0470,4.2 mg,"risedronate sodium tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+risedronate sodium hemi-pentahydrate,0430-0470,4.2 mg,"risedronate sodium tablet, film coated",SILICON DIOXIDE
+risedronate sodium hemi-pentahydrate,0430-0470,4.2 mg,"risedronate sodium tablet, film coated",TITANIUM DIOXIDE
+risedronate sodium hemi-pentahydrate,0430-0470,4.2 mg,"risedronate sodium tablet, film coated",LACTOSE MONOHYDRATE
+risedronate sodium hemi-pentahydrate,0430-0472,4.2 mg,"risedronate sodium tablet, film coated",RISEDRONATE SODIUM MONOHYDRATE
+risedronate sodium hemi-pentahydrate,0430-0472,4.9 mg,"risedronate sodium tablet, film coated",CROSPOVIDONE
+risedronate sodium hemi-pentahydrate,0430-0472,4.9 mg,"risedronate sodium tablet, film coated",HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+risedronate sodium hemi-pentahydrate,0430-0472,4.9 mg,"risedronate sodium tablet, film coated",HYPROMELLOSES
+risedronate sodium hemi-pentahydrate,0430-0472,4.9 mg,"risedronate sodium tablet, film coated",MAGNESIUM STEARATE
+risedronate sodium hemi-pentahydrate,0430-0472,4.9 mg,"risedronate sodium tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+risedronate sodium hemi-pentahydrate,0430-0472,4.9 mg,"risedronate sodium tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+risedronate sodium hemi-pentahydrate,0430-0472,4.9 mg,"risedronate sodium tablet, film coated",SILICON DIOXIDE
+risedronate sodium hemi-pentahydrate,0430-0472,4.9 mg,"risedronate sodium tablet, film coated",TITANIUM DIOXIDE
+risedronate sodium hemi-pentahydrate,0430-0472,4.9 mg,"risedronate sodium tablet, film coated",FERRIC OXIDE RED
+risedronate sodium hemi-pentahydrate,0430-0472,4.9 mg,"risedronate sodium tablet, film coated",FERRIC OXIDE YELLOW
+risedronate sodium hemi-pentahydrate,0430-0472,4.9 mg,"risedronate sodium tablet, film coated",LACTOSE MONOHYDRATE
+risedronate sodium hemi-pentahydrate,0430-0477,12  in 1 DOSE PACK; Type 0: Not a Combination Product,"risedronate sodium tablet, film coated",RISEDRONATE SODIUM MONOHYDRATE
+risedronate sodium hemi-pentahydrate,0430-0477,10.5 mg,"risedronate sodium tablet, film coated",CROSPOVIDONE
+risedronate sodium hemi-pentahydrate,0430-0477,10.5 mg,"risedronate sodium tablet, film coated",HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+risedronate sodium hemi-pentahydrate,0430-0477,10.5 mg,"risedronate sodium tablet, film coated",HYPROMELLOSES
+risedronate sodium hemi-pentahydrate,0430-0477,10.5 mg,"risedronate sodium tablet, film coated",MAGNESIUM STEARATE
+risedronate sodium hemi-pentahydrate,0430-0477,10.5 mg,"risedronate sodium tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+risedronate sodium hemi-pentahydrate,0430-0477,10.5 mg,"risedronate sodium tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+risedronate sodium hemi-pentahydrate,0430-0477,10.5 mg,"risedronate sodium tablet, film coated",SILICON DIOXIDE
+risedronate sodium hemi-pentahydrate,0430-0477,10.5 mg,"risedronate sodium tablet, film coated",TITANIUM DIOXIDE
+risedronate sodium hemi-pentahydrate,0430-0477,10.5 mg,"risedronate sodium tablet, film coated",FERRIC OXIDE RED
+risedronate sodium hemi-pentahydrate,0430-0478,2  in 1 DOSE PACK; Type 0: Not a Combination Product,"risedronate sodium tablet, film coated",RISEDRONATE SODIUM MONOHYDRATE
+risedronate sodium hemi-pentahydrate,0430-0478,21 mg,"risedronate sodium tablet, film coated",CROSPOVIDONE
+risedronate sodium hemi-pentahydrate,0430-0478,21 mg,"risedronate sodium tablet, film coated",HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+risedronate sodium hemi-pentahydrate,0430-0478,21 mg,"risedronate sodium tablet, film coated",HYPROMELLOSES
+risedronate sodium hemi-pentahydrate,0430-0478,21 mg,"risedronate sodium tablet, film coated",MAGNESIUM STEARATE
+risedronate sodium hemi-pentahydrate,0430-0478,21 mg,"risedronate sodium tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+risedronate sodium hemi-pentahydrate,0430-0478,21 mg,"risedronate sodium tablet, film coated","POLYETHYLENE GLYCOL, UNSPECIFIED"
+risedronate sodium hemi-pentahydrate,0430-0478,21 mg,"risedronate sodium tablet, film coated",SILICON DIOXIDE
+risedronate sodium hemi-pentahydrate,0430-0478,21 mg,"risedronate sodium tablet, film coated",TITANIUM DIOXIDE
+risedronate sodium hemi-pentahydrate,0430-0478,21 mg,"risedronate sodium tablet, film coated",FD&amp;C BLUE NO. 2
+0149-0471,54868-4386,5 mg,"risedronate sodium tablet, film coated",RISEDRONATE SODIUM
+0149-0471,54868-4386,5 mg,"risedronate sodium tablet, film coated",CROSPOVIDONE
+0149-0471,54868-4386,5 mg,"risedronate sodium tablet, film coated",FERRIC OXIDE YELLOW
+0149-0471,54868-4386,5 mg,"risedronate sodium tablet, film coated",HYDROXYPROPYL CELLULOSE
+0149-0471,54868-4386,5 mg,"risedronate sodium tablet, film coated",HYPROMELLOSES
+0149-0471,54868-4386,5 mg,"risedronate sodium tablet, film coated",LACTOSE MONOHYDRATE
+0149-0471,54868-4386,5 mg,"risedronate sodium tablet, film coated",MAGNESIUM STEARATE
+0149-0471,54868-4386,5 mg,"risedronate sodium tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+0149-0471,54868-4386,5 mg,"risedronate sodium tablet, film coated",POLYETHYLENE GLYCOL
+0149-0471,54868-4386,5 mg,"risedronate sodium tablet, film coated",SILICON DIOXIDE
+0149-0471,54868-4386,5 mg,"risedronate sodium tablet, film coated",TITANIUM DIOXIDE
+0149-0471,0149-0472,5 mg,"risedronate sodium tablet, film coated",RISEDRONATE SODIUM
+0149-0471,0149-0472,35 mg,"risedronate sodium tablet, film coated",CROSPOVIDONE
+0149-0471,0149-0472,35 mg,"risedronate sodium tablet, film coated",FERRIC OXIDE RED
+0149-0471,0149-0472,35 mg,"risedronate sodium tablet, film coated",FERRIC OXIDE YELLOW
+0149-0471,0149-0472,35 mg,"risedronate sodium tablet, film coated",HYDROXYPROPYL CELLULOSE
+0149-0471,0149-0472,35 mg,"risedronate sodium tablet, film coated",HYPROMELLOSES
+0149-0471,0149-0472,35 mg,"risedronate sodium tablet, film coated",LACTOSE MONOHYDRATE
+0149-0471,0149-0472,35 mg,"risedronate sodium tablet, film coated",MAGNESIUM STEARATE
+0149-0471,0149-0472,35 mg,"risedronate sodium tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+0149-0471,0149-0472,35 mg,"risedronate sodium tablet, film coated",POLYETHYLENE GLYCOL
+0149-0471,0149-0472,35 mg,"risedronate sodium tablet, film coated",SILICON DIOXIDE
+0149-0471,0149-0472,35 mg,"risedronate sodium tablet, film coated",TITANIUM DIOXIDE
+0149-0471,0149-0478,4  in 1 TRAY,"risedronate sodium tablet, film coated",RISEDRONATE SODIUM
+0149-0471,0149-0478,150 mg,"risedronate sodium tablet, film coated",CROSPOVIDONE
+0149-0471,0149-0478,150 mg,"risedronate sodium tablet, film coated",HYDROXYPROPYL CELLULOSE
+0149-0471,0149-0478,150 mg,"risedronate sodium tablet, film coated",HYPROMELLOSES
+0149-0471,0149-0478,150 mg,"risedronate sodium tablet, film coated",MAGNESIUM STEARATE
+0149-0471,0149-0478,150 mg,"risedronate sodium tablet, film coated","CELLULOSE, MICROCRYSTALLINE"
+0149-0471,0149-0478,150 mg,"risedronate sodium tablet, film coated",POLYETHYLENE GLYCOL
+0149-0471,0149-0478,150 mg,"risedronate sodium tablet, film coated",SILICON DIOXIDE
+0149-0471,0149-0478,150 mg,"risedronate sodium tablet, film coated",TITANIUM DIOXIDE
+0149-0471,0149-0478,150 mg,"risedronate sodium tablet, film coated",FD&amp;C BLUE NO. 2
+0149-0471,0149-0478,150 mg,"risedronate sodium tablet, film coated",ALUMINUM OXIDE

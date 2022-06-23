@@ -1,0 +1,243 @@
+MainDrug,NDC,Strength,Formulation,Inactive
+acitretin,0115-1750,10 mg, capsule,MALTODEXTRIN
+acitretin,0115-1750,10 mg, capsule,SODIUM ASCORBATE
+acitretin,0115-1750,10 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,0115-1750,10 mg, capsule,GELATIN
+acitretin,0115-1750,10 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,0115-1750,10 mg, capsule,TITANIUM DIOXIDE
+acitretin,0115-1750,10 mg, capsule,FERRIC OXIDE RED
+acitretin,0115-1750,10 mg, capsule,SHELLAC
+acitretin,0115-1750,10 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0115-1750,10 mg, capsule,PROPYLENE GLYCOL
+acitretin,0115-1751,17.5 mg, capsule,MALTODEXTRIN
+acitretin,0115-1751,17.5 mg, capsule,SODIUM ASCORBATE
+acitretin,0115-1751,17.5 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,0115-1751,17.5 mg, capsule,GELATIN
+acitretin,0115-1751,17.5 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,0115-1751,17.5 mg, capsule,TITANIUM DIOXIDE
+acitretin,0115-1751,17.5 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,0115-1751,17.5 mg, capsule,SHELLAC
+acitretin,0115-1751,17.5 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0115-1751,17.5 mg, capsule,PROPYLENE GLYCOL
+acitretin,0115-1752,22.5 mg, capsule,MALTODEXTRIN
+acitretin,0115-1752,22.5 mg, capsule,SODIUM ASCORBATE
+acitretin,0115-1752,22.5 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,0115-1752,22.5 mg, capsule,GELATIN
+acitretin,0115-1752,22.5 mg, capsule,FERRIC OXIDE RED
+acitretin,0115-1752,22.5 mg, capsule,SHELLAC
+acitretin,0115-1752,22.5 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0115-1752,22.5 mg, capsule,PROPYLENE GLYCOL
+acitretin,0115-1753,25 mg, capsule,MALTODEXTRIN
+acitretin,0115-1753,25 mg, capsule,SODIUM ASCORBATE
+acitretin,0115-1753,25 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,0115-1753,25 mg, capsule,GELATIN
+acitretin,0115-1753,25 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,0115-1753,25 mg, capsule,TITANIUM DIOXIDE
+acitretin,0115-1753,25 mg, capsule,FERRIC OXIDE RED
+acitretin,0115-1753,25 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,0115-1753,25 mg, capsule,SHELLAC
+acitretin,0115-1753,25 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0115-1753,25 mg, capsule,PROPYLENE GLYCOL
+acitretin,0115-1667,10 mg, capsule,MALTODEXTRIN
+acitretin,0115-1667,10 mg, capsule,SODIUM ASCORBATE
+acitretin,0115-1667,10 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,0115-1667,10 mg, capsule,GELATIN
+acitretin,0115-1667,10 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,0115-1667,10 mg, capsule,TITANIUM DIOXIDE
+acitretin,0115-1667,10 mg, capsule,FERRIC OXIDE RED
+acitretin,0115-1667,10 mg, capsule,SHELLAC
+acitretin,0115-1667,10 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0115-1667,10 mg, capsule,PROPYLENE GLYCOL
+acitretin,0115-1668,17.5 mg, capsule,MALTODEXTRIN
+acitretin,0115-1668,17.5 mg, capsule,SODIUM ASCORBATE
+acitretin,0115-1668,17.5 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,0115-1668,17.5 mg, capsule,GELATIN
+acitretin,0115-1668,17.5 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,0115-1668,17.5 mg, capsule,TITANIUM DIOXIDE
+acitretin,0115-1668,17.5 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,0115-1668,17.5 mg, capsule,SHELLAC
+acitretin,0115-1668,17.5 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0115-1668,17.5 mg, capsule,PROPYLENE GLYCOL
+acitretin,0115-1698,22.5 mg, capsule,MALTODEXTRIN
+acitretin,0115-1698,22.5 mg, capsule,SODIUM ASCORBATE
+acitretin,0115-1698,22.5 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,0115-1698,22.5 mg, capsule,GELATIN
+acitretin,0115-1698,22.5 mg, capsule,FERRIC OXIDE RED
+acitretin,0115-1698,22.5 mg, capsule,SHELLAC
+acitretin,0115-1698,22.5 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0115-1698,22.5 mg, capsule,PROPYLENE GLYCOL
+acitretin,0115-1669,25 mg, capsule,MALTODEXTRIN
+acitretin,0115-1669,25 mg, capsule,SODIUM ASCORBATE
+acitretin,0115-1669,25 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,0115-1669,25 mg, capsule,GELATIN
+acitretin,0115-1669,25 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,0115-1669,25 mg, capsule,TITANIUM DIOXIDE
+acitretin,0115-1669,25 mg, capsule,FERRIC OXIDE RED
+acitretin,0115-1669,25 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,0115-1669,25 mg, capsule,SHELLAC
+acitretin,0115-1669,25 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0115-1669,25 mg, capsule,PROPYLENE GLYCOL
+acitretin,42291-086,10 mg, capsule,SODIUM ASCORBATE
+acitretin,42291-086,10 mg, capsule,MALTODEXTRIN
+acitretin,42291-086,10 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,42291-086,10 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,42291-086,10 mg, capsule,GELATIN
+acitretin,42291-086,10 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,42291-086,10 mg, capsule,TITANIUM DIOXIDE
+acitretin,42291-086,10 mg, capsule,POVIDONE
+acitretin,42291-087,17.5 mg, capsule,SODIUM ASCORBATE
+acitretin,42291-087,17.5 mg, capsule,MALTODEXTRIN
+acitretin,42291-087,17.5 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,42291-087,17.5 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,42291-087,17.5 mg, capsule,GELATIN
+acitretin,42291-087,17.5 mg, capsule,FERRIC OXIDE RED
+acitretin,42291-087,17.5 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,42291-087,17.5 mg, capsule,TITANIUM DIOXIDE
+acitretin,42291-087,17.5 mg, capsule,POVIDONE
+acitretin,42291-088,25 mg, capsule,SODIUM ASCORBATE
+acitretin,42291-088,25 mg, capsule,MALTODEXTRIN
+acitretin,42291-088,25 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,42291-088,25 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,42291-088,25 mg, capsule,GELATIN
+acitretin,42291-088,25 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,42291-088,25 mg, capsule,TITANIUM DIOXIDE
+acitretin,42291-088,25 mg, capsule,POVIDONE
+acitretin,0378-7020,10 mg, capsule,EDETATE DISODIUM
+acitretin,0378-7020,10 mg, capsule,"GELATIN, UNSPECIFIED"
+acitretin,0378-7020,10 mg, capsule,MALTODEXTRIN
+acitretin,0378-7020,10 mg, capsule,MICROCRYSTALLINE CELLULOSE
+acitretin,0378-7020,10 mg, capsule,POLOXAMER 407
+acitretin,0378-7020,10 mg, capsule,FERRIC OXIDE RED
+acitretin,0378-7020,10 mg, capsule,SODIUM ASCORBATE
+acitretin,0378-7020,10 mg, capsule,TITANIUM DIOXIDE
+acitretin,0378-7020,10 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0378-7020,10 mg, capsule,POTASSIUM HYDROXIDE
+acitretin,0378-7020,10 mg, capsule,PROPYLENE GLYCOL
+acitretin,0378-7020,10 mg, capsule,SHELLAC
+acitretin,0378-7020,10 mg, capsule,AMMONIA
+acitretin,0378-7023,25 mg, capsule,EDETATE DISODIUM
+acitretin,0378-7023,25 mg, capsule,"GELATIN, UNSPECIFIED"
+acitretin,0378-7023,25 mg, capsule,MALTODEXTRIN
+acitretin,0378-7023,25 mg, capsule,MICROCRYSTALLINE CELLULOSE
+acitretin,0378-7023,25 mg, capsule,POLOXAMER 407
+acitretin,0378-7023,25 mg, capsule,FERRIC OXIDE RED
+acitretin,0378-7023,25 mg, capsule,SODIUM ASCORBATE
+acitretin,0378-7023,25 mg, capsule,TITANIUM DIOXIDE
+acitretin,0378-7023,25 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0378-7023,25 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,0378-7023,25 mg, capsule,"POVIDONE, UNSPECIFIED"
+acitretin,0378-7023,25 mg, capsule,PROPYLENE GLYCOL
+acitretin,0378-7023,25 mg, capsule,SHELLAC
+acitretin,0378-7023,25 mg, capsule,SODIUM HYDROXIDE
+acitretin,66993-894,10 mg, capsule,MICROCRYSTALLINE CELLULOSE
+acitretin,66993-894,10 mg, capsule,SODIUM ASCORBATE
+acitretin,66993-894,10 mg, capsule,"GELATIN, UNSPECIFIED"
+acitretin,66993-894,10 mg, capsule,MALTODEXTRIN
+acitretin,66993-894,10 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,66993-894,10 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,66993-894,10 mg, capsule,FERRIC OXIDE RED
+acitretin,66993-894,10 mg, capsule,TITANIUM DIOXIDE
+acitretin,66993-896,25 mg, capsule,MICROCRYSTALLINE CELLULOSE
+acitretin,66993-896,25 mg, capsule,SODIUM ASCORBATE
+acitretin,66993-896,25 mg, capsule,"GELATIN, UNSPECIFIED"
+acitretin,66993-896,25 mg, capsule,MALTODEXTRIN
+acitretin,66993-896,25 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,66993-896,25 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,66993-896,25 mg, capsule,FERRIC OXIDE RED
+acitretin,66993-896,25 mg, capsule,TITANIUM DIOXIDE
+acitretin,42794-080,10 mg, capsule,MALTODEXTRIN
+acitretin,42794-080,10 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,42794-080,10 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,42794-080,10 mg, capsule,GELATIN
+acitretin,42794-080,10 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,42794-080,10 mg, capsule,TITANIUM DIOXIDE
+acitretin,42794-080,10 mg, capsule,SODIUM ASCORBATE
+acitretin,42794-080,10 mg, capsule,POVIDONE
+acitretin,42794-081,17.5 mg, capsule,SODIUM ASCORBATE
+acitretin,42794-081,17.5 mg, capsule,POVIDONE
+acitretin,42794-081,17.5 mg, capsule,MALTODEXTRIN
+acitretin,42794-081,17.5 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,42794-081,17.5 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,42794-081,17.5 mg, capsule,GELATIN
+acitretin,42794-081,17.5 mg, capsule,FERRIC OXIDE RED
+acitretin,42794-081,17.5 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,42794-081,17.5 mg, capsule,TITANIUM DIOXIDE
+acitretin,42794-083,25 mg, capsule,SODIUM ASCORBATE
+acitretin,42794-083,25 mg, capsule,POVIDONE
+acitretin,42794-083,25 mg, capsule,MALTODEXTRIN
+acitretin,42794-083,25 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,42794-083,25 mg, capsule,"CELLULOSE, MICROCRYSTALLINE"
+acitretin,42794-083,25 mg, capsule,GELATIN
+acitretin,42794-083,25 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,42794-083,25 mg, capsule,TITANIUM DIOXIDE
+acitretin,0093-1135,10 mg, capsule,CROSPOVIDONE (15 MPA.S AT 5%)
+acitretin,0093-1135,10 mg, capsule,MICROCRYSTALLINE CELLULOSE
+acitretin,0093-1135,10 mg, capsule,POLOXAMER 188
+acitretin,0093-1135,10 mg, capsule,POVIDONE K90
+acitretin,0093-1135,10 mg, capsule,SODIUM ASCORBATE
+acitretin,0093-1135,10 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,0093-1135,10 mg, capsule,"GELATIN, UNSPECIFIED"
+acitretin,0093-1135,10 mg, capsule,TITANIUM DIOXIDE
+acitretin,0093-1135,10 mg, capsule,D&amp;C YELLOW NO. 10
+acitretin,0093-1135,10 mg, capsule,FD&amp;C BLUE NO. 1
+acitretin,0093-1135,10 mg, capsule,FD&amp;C RED NO. 40
+acitretin,0093-1135,10 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0093-1135,10 mg, capsule,D&amp;C YELLOW NO. 10 ALUMINUM LAKE
+acitretin,0093-1135,10 mg, capsule,FD&amp;C BLUE NO. 1 ALUMINUM LAKE
+acitretin,0093-1135,10 mg, capsule,FD&amp;C BLUE NO. 2--ALUMINUM LAKE
+acitretin,0093-1135,10 mg, capsule,PROPYLENE GLYCOL
+acitretin,0093-1135,10 mg, capsule,SHELLAC
+acitretin,0093-1135,10 mg, capsule,INDIGOTINDISULFONATE SODIUM
+acitretin,0093-1138,17.5 mg, capsule,CROSPOVIDONE (15 MPA.S AT 5%)
+acitretin,0093-1138,17.5 mg, capsule,MICROCRYSTALLINE CELLULOSE
+acitretin,0093-1138,17.5 mg, capsule,POLOXAMER 188
+acitretin,0093-1138,17.5 mg, capsule,POVIDONE K90
+acitretin,0093-1138,17.5 mg, capsule,SODIUM ASCORBATE
+acitretin,0093-1138,17.5 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,0093-1138,17.5 mg, capsule,"GELATIN, UNSPECIFIED"
+acitretin,0093-1138,17.5 mg, capsule,TITANIUM DIOXIDE
+acitretin,0093-1138,17.5 mg, capsule,FERRIC OXIDE RED
+acitretin,0093-1138,17.5 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,0093-1138,17.5 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0093-1138,17.5 mg, capsule,D&amp;C YELLOW NO. 10 ALUMINUM LAKE
+acitretin,0093-1138,17.5 mg, capsule,FD&amp;C BLUE NO. 1 ALUMINUM LAKE
+acitretin,0093-1138,17.5 mg, capsule,FD&amp;C BLUE NO. 2--ALUMINUM LAKE
+acitretin,0093-1138,17.5 mg, capsule,FD&amp;C RED NO. 40
+acitretin,0093-1138,17.5 mg, capsule,PROPYLENE GLYCOL
+acitretin,0093-1138,17.5 mg, capsule,SHELLAC
+acitretin,0093-1138,17.5 mg, capsule,INDIGOTINDISULFONATE SODIUM
+acitretin,0093-1136,25 mg, capsule,CROSPOVIDONE (15 MPA.S AT 5%)
+acitretin,0093-1136,25 mg, capsule,MICROCRYSTALLINE CELLULOSE
+acitretin,0093-1136,25 mg, capsule,POLOXAMER 188
+acitretin,0093-1136,25 mg, capsule,POVIDONE K90
+acitretin,0093-1136,25 mg, capsule,SODIUM ASCORBATE
+acitretin,0093-1136,25 mg, capsule,SODIUM LAURYL SULFATE
+acitretin,0093-1136,25 mg, capsule,"GELATIN, UNSPECIFIED"
+acitretin,0093-1136,25 mg, capsule,TITANIUM DIOXIDE
+acitretin,0093-1136,25 mg, capsule,D&amp;C YELLOW NO. 10
+acitretin,0093-1136,25 mg, capsule,FD&amp;C BLUE NO. 1
+acitretin,0093-1136,25 mg, capsule,FD&amp;C RED NO. 40
+acitretin,0093-1136,25 mg, capsule,FD&amp;C YELLOW NO. 6
+acitretin,0093-1136,25 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0093-1136,25 mg, capsule,D&amp;C YELLOW NO. 10 ALUMINUM LAKE
+acitretin,0093-1136,25 mg, capsule,FD&amp;C BLUE NO. 1 ALUMINUM LAKE
+acitretin,0093-1136,25 mg, capsule,FD&amp;C BLUE NO. 2--ALUMINUM LAKE
+acitretin,0093-1136,25 mg, capsule,PROPYLENE GLYCOL
+acitretin,0093-1136,25 mg, capsule,SHELLAC
+acitretin,0093-1136,25 mg, capsule,INDIGOTINDISULFONATE SODIUM
+acitretin,0145-0090,10 mg, capsule,MICROCRYSTALLINE CELLULOSE
+acitretin,0145-0090,10 mg, capsule,SODIUM ASCORBATE
+acitretin,0145-0090,10 mg, capsule,"GELATIN, UNSPECIFIED"
+acitretin,0145-0090,10 mg, capsule,MALTODEXTRIN
+acitretin,0145-0090,10 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,0145-0090,10 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0145-0090,10 mg, capsule,FERRIC OXIDE RED
+acitretin,0145-0090,10 mg, capsule,TITANIUM DIOXIDE
+acitretin,0145-0091,25 mg, capsule,MICROCRYSTALLINE CELLULOSE
+acitretin,0145-0091,25 mg, capsule,SODIUM ASCORBATE
+acitretin,0145-0091,25 mg, capsule,"GELATIN, UNSPECIFIED"
+acitretin,0145-0091,25 mg, capsule,MALTODEXTRIN
+acitretin,0145-0091,25 mg, capsule,FERRIC OXIDE YELLOW
+acitretin,0145-0091,25 mg, capsule,FERROSOFERRIC OXIDE
+acitretin,0145-0091,25 mg, capsule,FERRIC OXIDE RED
+acitretin,0145-0091,25 mg, capsule,TITANIUM DIOXIDE
